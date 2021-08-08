@@ -15,9 +15,9 @@ empresa=st.sidebar.selectbox('Selecione a empresa', empresas)
 
 
 #apresentar o WordCloud da empresa selecionada
-st.image(f'../pic/{empresa}.png')
+st.image(f'pic/{empresa}.png')
 
 #apresentar o grafico com as palavras mais usadas
-tabela=pd.read_csv(f'../tabela_palavras/{empresa}.csv', index_col=1).sort_values(by='quantidade',ascending=False)[:20]
+tabela=pd.read_csv(f'tabela_palavras/{empresa}.csv', index_col=1).sort_values(by='quantidade',ascending=False)[:20]
 fig= px.histogram(tabela, x=tabela.index, y='quantidade')
 st.plotly_chart(fig)
