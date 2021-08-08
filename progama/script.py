@@ -1,6 +1,6 @@
 #%%
 import glob
-from funcao import nome_empresas, pdf_to_text, pegar_links, pegar_pdfs, top_similares, indicar_palavra, wordcloud, sim_euclidiana, matriz_similaridade
+from funcao import *
 import pandas as pd
 #%%
 empresas=nome_empresas()
@@ -23,6 +23,7 @@ if len(empresas_sem_texto) >0:
 if len(empresas_sem_tabela) >0:
     textos=[glob.glob(fr'../text_files/{empresa}.txt') for empresa in empresas_sem_tabela]
     [wordcloud(text[0]) for text in textos]
+
 # %%
 dicio_palavras={}
 palavras=glob.glob(r'..\tabela_palavras\*.csv')
@@ -39,4 +40,4 @@ top_similares(dicio_palavras,'ccr', n=2)
 
 # %%
 indicar_palavra(dicio_palavras,'weg')
-# %%
+

@@ -1,1895 +1,2047 @@
 ,palavras,quantidade
-0,mulheres,61
-1,projeto,59
-2,instituto,54
-3,comunidade,46
-4,empoderamento,34
-5,desenvolvimento,32
-6,trabalho,28
-7,moda,25
-8,ł,25
-9,social,23
-10,meio,22
-11,ﬂ,22
-12,oportunidade,21
-13,pessoa,20
-14,negócio,19
-15,além,19
-16,página,19
-17,vida,19
-18,recurso,18
-19,ano,18
-20,empreendedora,18
-21,empreendedorismo,17
-22,apoio,17
-23,parceria,16
-24,capacitação,16
-25,bom jesus,15
-26,empresa,15
-27,sobre,15
-28,liderança,14
-29,valor,14
-30,gri,14
-31,ações,14
-32,onu mulheres,13
-33,jovens,13
-34,iniciativa,13
-35,formação,12
-36,econômico,12
-37,importante,12
-38,geração,12
-39,bit ly,12
-40,programa,11
-41,organização,11
-42,transformação,11
-43,impacto,10
-44,cadeia,10
-45,renda,10
-46,cliente,10
-47,princípio,10
-48,feminino,10
-49,upcycling,10
-50,partir,9
-51,porto alegre,9
-52,desde,9
-53,todo,9
-54,sustentabilidade,9
-55,curso,9
-56,sustentável,9
-57,sociedade,9
-58,incentivo fiscal,9
-59,investimento,9
-60,cidadania,9
-61,comunitária,8
-62,relatório,8
-63,melhor,8
-64,participante,8
-65,grande,8
-66,refugiadas,8
-67,bonja viva,8
-68,associação,8
-69,costura,8
-70,objetivo,8
-71,gestão,8
-72,nova,8
-73,avançam juntas,8
-74,empoderando refugiadas,8
-75,mulher,8
-76,todas avançam,8
-77,sede,8
-78,outra,7
-79,ﬁa,7
-80,prática,7
-81,coletivo,7
-82,promover,7
-83,potencial,7
-84,dois,7
-85,futuro,7
-86,cadeia têxtil,7
-87,tema,7
-88,esporte,7
-89,moradores,7
-90,engajamento,7
-91,mercado,7
-92,produto,7
-93,técnica,7
-94,agência,7
-95,serviço,7
-96,setor,7
-97,disso,7
-98,rede,7
-99,criação,7
-100,cultura,7
-101,ideia,7
-102,próprio,6
-103,parte,6
-104,maneira,6
-105,fazer,6
-106,gênero,6
-107,acesso,6
-108,panorama,6
-109,financeira,6
-110,privado,6
-111,conheça,6
-112,mil,6
-113,toda,6
-114,protagonismo,6
-115,stakeholders,6
-116,qualidade,6
-117,investido,6
-118,realidade,6
-119,lei,6
-120,família,6
-121,diversas,6
-122,tecnologia,6
-123,projetos apoiados,6
-124,compromisso,6
-125,desenvolver,6
-126,locais,6
-127,pode,6
-128,colaboradores,6
-129,encontro,6
-130,direitos humanos,6
-131,produção,6
-132,três,6
-133,junto,6
-134,atuação,6
-135,mundo,6
-136,evento,6
-137,semente,6
-138,saiba,6
-139,captações instituto,6
-140,criança,5
-141,esportivo,5
-142,profissionais,5
-143,financeiro,5
-144,cooperativa,5
-145,bem,5
-146,dentro,5
-147,dado,5
-148,despesas,5
-149,outro,5
-150,beneficiadas,5
-151,tumbira,5
-152,ods,5
-153,mudança,5
-154,varejo,5
-155,turma,5
-156,forma,5
-157,brasileira,5
-158,emprego,5
-159,ﬁo,5
-160,gerar,5
-161,realização,5
-162,processo,5
-163,durante,5
-164,diferentes,5
-165,local,5
-166,destaque,5
-167,venda,5
-168,conteúdo,5
-169,histórias,5
-170,onde,5
-171,relação,5
-172,investimento social,5
-173,peças,5
-174,pescar,5
-175,buscando,5
-176,ação,5
-177,ambiental,5
-178,agência compromisso,5
-179,alegre rs,5
-180,espaço,5
-181,copearte,5
-182,modelo,5
-183,transformadora,5
-184,sociais,5
-185,formado,5
-186,ciclo,5
-187,materiais,5
-188,produtivo,5
-189,desenvolvido,5
-190,econômica,4
-191,conhecimento,4
-192,habilidades,4
-193,pessoal,4
-194,empreendedores,4
-195,material,4
-196,profissional,4
-197,avanço,4
-198,nesse,4
-199,bairro,4
-200,problemas,4
-201,acordo,4
-202,escola,4
-203,sebrae,4
-204,competências,4
-205,florianópolis,4
-206,articulação,4
-207,elos,4
-208,autonomia,4
-209,grupos,4
-210,principais,4
-211,igualdade,4
-212,campanha,4
-213,maior,4
-214,centro,4
-215,situação,4
-216,metodologia,4
-217,conceito,4
-218,movimento,4
-219,fornecedores,4
-220,elaboração,4
-221,roupas,4
-222,participação,4
-223,economia,4
-224,coletiva,4
-225,criado,4
-226,cidade,4
-227,coisas,4
-228,parceiro,4
-229,quatro,4
-230,sempre,4
-231,companhia,4
-232,dessa,4
-233,agora,4
-234,tópicos,4
-235,aprendizes,4
-236,novo,4
-237,construção,4
-238,desigualdade,4
-239,gente,4
-240,diversidade,4
-241,financeiramente,4
-242,ganha,4
-243,apoiando,4
-244,duas,4
-245,etapa,4
-246,líderes,4
-247,armário coletivo,4
-248,bairro bom,4
-249,gerando,4
-250,papel,4
-251,pacto global,4
-252,sentido,4
-253,missão,4
-254,nações unidas,4
-255,transformar,4
-256,conselho,4
-257,condições,4
-258,linha,4
-259,atividades,4
-260,possibilidade,4
-261,realizado,4
-262,primeira,4
-263,longo,4
-264,cultural,4
-265,final,4
-266,olhar,4
-267,sei,4
-268,política,4
-269,adolescente,4
-270,instituições,4
-271,algodão agroecológico,4
-272,cinco,4
-273,sonho,4
-274,œ,4
-275,nacional,4
-276,força,4
-277,fundo,4
-278,fiscal,4
-279,boa vista,4
-280,oficinas,4
-281,apoiar,3
-282,fortalecer,3
-283,lançamento,3
-284,suplente,3
-285,vivência,3
-286,consumo,3
-287,vídeo,3
-288,período,3
-289,esportiva,3
-290,busca,3
-291,idoso,3
-292,jovem,3
-293,coleção,3
-294,promovendo,3
-295,participaram,3
-296,acolhida,3
-297,imposto,3
-298,falar,3
-299,possa,3
-300,websérie,3
-301,contribui,3
-302,articulou,3
-303,incentivo,3
-304,assista,3
-305,podemos,3
-306,aqui,3
-307,idade,3
-308,industrial,3
-309,novos horizontes,3
-310,promove,3
-311,criando,3
-312,escolhas,3
-313,vista rr,3
-314,inserida,3
-315,preciso,3
-316,voltada,3
-317,construir,3
-318,deve,3
-319,comunitário,3
-320,paulo sp,3
-321,apresentaram,3
-322,confiança criativa,3
-323,equipamentos,3
-324,festival,3
-325,possível,3
-326,criatividade,3
-327,flor,3
-328,cerca,3
-329,país,3
-330,espécie,3
-331,fundação,3
-332,após,3
-333,relato,3
-334,coberto,3
-335,global,3
-336,reuniões,3
-337,atuar,3
-338,menos,3
-339,inclusão,3
-340,cada vez,3
-341,primeiro,3
-342,deliberativo,3
-343,boa,3
-344,passou,3
-345,meses,3
-346,seguir,3
-347,saúde,3
-348,refugiados,3
-349,treino,3
-350,especial,3
-351,cada,3
-352,frente,3
-353,administrativas,3
-354,rua,3
-355,estimulando,3
-356,tempo,3
-357,contato,3
-358,apoiamos,3
-359,lugar,3
-360,agroecológico,3
-361,estrutura,3
-362,realizar,3
-363,região,3
-364,empoderar,3
-365,capital,3
-366,alguma,3
-367,desafios,3
-368,apoia,3
-369,lo,3
-370,cenário,3
-371,visão,3
-372,importância,3
-373,informações,3
-374,vezes,3
-375,operações,3
-376,início,3
-377,milhões,3
-378,dia,3
-379,assim,3
-380,voluntário,3
-381,descartado,3
-382,muitas,3
-383,meninas,3
-384,conhecer,3
-385,maravilhosa,3
-386,onu,3
-387,uso,3
-388,lidar,3
-389,contratada,3
-390,rio,3
-391,emissão,2
-392,aulas,2
-393,gingando,2
-394,digital,2
-395,praça,2
-396,dar,2
-397,sustentáveis,2
-398,equipe,2
-399,quilombolas,2
-400,educando,2
-401,acontece,2
-402,vizinho,2
-403,próxima,2
-404,presença,2
-405,culturais,2
-406,casa,2
-407,setembro,2
-408,propósito,2
-409,edital,2
-410,potencializar,2
-411,uniformes,2
-412,educação,2
-413,semana,2
-414,líder,2
-415,mutirão,2
-416,colheita,2
-417,promoveu,2
-418,deste,2
-419,alguns,2
-420,investir,2
-421,conta,2
-422,acompanhamento,2
-423,área,2
-424,atendimento,2
-425,abertura,2
-426,fomentar,2
-427,alunos,2
-428,gerado,2
-429,baseados,2
-430,terra,2
-431,indústria,2
-432,instituição,2
-433,somente,2
-434,aprendizagem,2
-435,deixassem,2
-436,agricultura,2
-437,viés,2
-438,ampliação,2
-439,reserva,2
-440,contou,2
-441,características,2
-442,serve,2
-443,segurança,2
-444,robótica,2
-445,necessária,2
-446,países,2
-447,aespe,2
-448,contribuir,2
-449,tecendo,2
-450,emocional,2
-451,abordagem,2
-452,socioculturais,2
-453,francisca,2
-454,saberes,2
-455,funciona,2
-456,youcom,2
-457,rj,2
-458,contribuam,2
-459,modo,2
-460,sc,2
-461,cultivo,2
-462,trabalhar,2
-463,realizada,2
-464,outubro,2
-465,posso,2
-466,articulações,2
-467,embalagens,2
-468,resíduos,2
-469,conduta,2
-470,janeiro,2
-471,criativa,2
-472,idealizadora,2
-473,positivo,2
-474,código,2
-475,governança,2
-476,doação,2
-477,comportamento,2
-478,almeida,2
-479,teórica,2
-480,pesquisa,2
-481,engajados,2
-482,direta,2
-483,alto,2
-484,corte,2
-485,ajuda,2
-486,mudar,2
-487,exército,2
-488,sabonete,2
-489,natureza,2
-490,próximo,2
-491,criamos,2
-492,aplica,2
-493,tanto,2
-494,itens,2
-495,preservação,2
-496,dá,2
-497,unidades,2
-498,caráter,2
-499,armário,2
-500,jornada,2
-501,nessa,2
-502,beneficiados,2
-503,pensando,2
-504,conseguir,2
-505,paulo,2
-506,loja,2
-507,quanto,2
-508,desenvolveram,2
-509,venezuelana,2
-510,mudei,2
-511,transformando,2
-512,limite,2
-513,atendido,2
-514,passaram,2
-515,estado,2
-516,universo,2
-517,pertencimento,2
-518,governo,2
-519,aprendi,2
-520,existentes,2
-521,favorecendo,2
-522,consequências,2
-523,atributos,2
-524,graças,2
-525,reformulações,2
-526,possam,2
-527,aproximando,2
-528,protagonistas,2
-529,ampliar,2
-530,sócio,2
-531,inserção,2
-532,direto,2
-533,conexões,2
-534,associações,2
-535,profissão,2
-536,regime,2
-537,olhares,2
-538,silva,2
-539,escuta,2
-540,atuam,2
-541,garantindo,2
-542,população,2
-543,existe,2
-544,máquinas,2
-545,participam,2
-546,adotada,2
-547,realize,2
-548,violência,2
-549,contínuo,2
-550,visa,2
-551,ﬁsomos,2
-552,anuais,2
-553,diretoria,2
-554,venezuelanos,2
-555,comuns,2
-556,formalizada,2
-557,souza peixoto,2
-558,mão,2
-559,apresentada,2
-560,clarice martins,2
-561,reporte,2
-562,trazer,2
-563,localizada,2
-564,ainda,2
-565,consequentemente,2
-566,consistente,2
-567,vez,2
-568,buscar,2
-569,orientada,2
-570,promoção,2
-571,incentiva,2
-572,consiste,2
-573,vulnerabilidade,2
-574,ferramenta,2
-575,martins costa,2
-576,acreditamos,2
-577,divulgação,2
-578,atenção,2
-579,transformaram,2
-580,leitura,2
-581,agenda,2
-582,transparência,2
-583,caso,2
-584,marketing,2
-585,neste,2
-586,destinação,2
-587,conjunto,2
-588,canal,2
-589,independência,2
-590,traz,2
-591,superação,2
-592,promovemos,2
-593,diretor,2
-594,realmente,2
-595,ong,2
-596,benefícios,2
-597,anual,2
-598,agosto,2
-599,desenvolvemos,2
-600,apresentar,2
-601,apoiados,2
-602,interesse,2
-603,thomas,2
-604,responsável,2
-605,camiseta,2
-606,gerente,2
-607,público,2
-608,alinhados,2
-609,arrecadação,2
-610,lançamos,2
-611,nota,2
-612,mostram,2
-613,origem,2
-614,agroecologia,2
-615,campo,2
-616,sistema,2
-617,experiência,2
-618,estimativa,2
-619,atua,2
-620,https,2
-621,conformidade,2
-622,próprioscom,2
-623,risco,2
-624,portfólio,2
-625,resolução,2
-626,alcançar,2
-627,ampliando,2
-628,estudo,2
-629,organizações,2
-630,então,2
-631,marca,2
-632,historicamente,2
-633,emancipação,2
-634,própria,2
-635,segundo,2
-636,proporcionando,2
-637,alcance,2
-638,necessidades,2
-639,médio,2
-640,kelley,2
-641,aproximadamente,2
-642,potencializando,2
-643,liberada,2
-644,autoconfiança,2
-645,distribuição,2
-646,planejar,2
-647,solução,2
-648,perceber,2
-649,universidade,2
-650,mesma,2
-651,contratam,2
-652,inicial,2
-653,fator,2
-654,zagaia amazônia,2
-655,hoje,2
-656,design thinking,2
-657,performance,2
-658,podem,2
-659,desempenho,2
-660,cataguases mg,2
-661,buscamos,2
-662,aproximar,2
-663,ética,2
-664,série,2
-665,enfrentamento,2
-666,defesa,2
-667,empregabilidade,2
-668,refere,2
-669,nasceu,2
-670,criada,2
-671,auto sustentação,2
-672,engajar,2
-673,sesc envolva,2
-674,diferença,2
-675,direitos,2
-676,solo,2
-677,crédito,2
-678,desejamos,2
-679,queremos,2
-680,matéria prima,2
-681,apenas,2
-682,sentem,2
-683,capacitado,2
-684,fomento,2
-685,resultado,2
-686,normalmente,1
-687,garrido,1
-688,ellen,1
-689,turismo,1
-690,ambiente,1
-691,pesquisadores,1
-692,guia,1
-693,35izolena,1
-694,macarthur,1
-695,observação,1
-696,participando,1
-697,diminuem,1
-698,foundation,1
-699,adoção,1
-700,estudadas,1
-701,reforçar,1
-702,ecycle,1
-703,femininas,1
-704,reflora,1
-705,futuras,1
-706,original,1
-707,consultas,1
-708,circular,1
-709,alternativos,1
-710,igual,1
-711,possui,1
-712,inspiradas,1
-713,confiança,1
-714,flora,1
-715,plantas,1
-716,extinção,1
-717,ameaçada,1
-718,cedo,1
-719,upcycle,1
-720,estarão,1
-721,manejo,1
-722,trabalham,1
-723,associa,1
-724,interpretar,1
-725,executar,1
-726,aptas,1
-727,melhoria,1
-728,presidente,1
-729,colaboração,1
-730,inovadores,1
-731,digitais,1
-732,expressão,1
-733,diversificação,1
-734,facilita,1
-735,programação,1
-736,usa,1
-737,44algodão,1
-738,fabricação,1
-739,liliane,1
-740,mendonça,1
-741,única,1
-742,2nzapes,1
-743,talk,1
-744,trabalha,1
-745,ted,1
-746,conseguimos,1
-747,davd,1
-748,acompanham,1
-749,apropriavam,1
-750,mantendo,1
-751,criador,1
-752,voltado,1
-753,oferta,1
-754,robóticaﬂ,1
-755,enxergada,1
-756,desse,1
-757,item,1
-758,poderem,1
-759,si,1
-760,destacarem,1
-761,acreditarem,1
-762,composição,1
-763,acima,1
-764,tudo,1
-765,degradar,1
-766,demonstrar,1
-767,2qo8e69,1
-768,ribeirinhas,1
-769,familiar,1
-770,partilha,1
-771,donas,1
-772,demanda,1
-773,pta,1
-774,inovação,1
-775,selecionar,1
-776,ecológica,1
-777,amazônicas,1
-778,infância,1
-779,adolescência,1
-780,reversão,1
-781,selecionados,1
-782,executados,1
-783,consciência,1
-784,sadios,1
-785,alimentos,1
-786,aporte,1
-787,verdade,1
-788,repasse,1
-789,pessoais,1
-790,jeito,1
-791,humanizado,1
-792,mexe,1
-793,mostra,1
-794,formaram,1
-795,coletividade,1
-796,mediaram,1
-797,relações,1
-798,aprendemos,1
-799,mostrando,1
-800,profissionalizante,1
-801,vivem,1
-802,autoconhecimento,1
-803,ricca,1
-804,wengrover,1
-805,grechi,1
-806,ceccarelli,1
-807,diferencial,1
-808,ir,1
-809,leonardo,1
-810,teórico,1
-811,monticelli,1
-812,gilberto,1
-813,conhecendo,1
-814,sanvicente,1
-815,carolina,1
-816,gralha,1
-817,zavagna,1
-818,michel,1
-819,branchi,1
-820,fazia,1
-821,unificadas,1
-822,existiram,1
-823,impulsiona,1
-824,concorreram,1
-825,saíssem,1
-826,ganhassem,1
-827,alcançados,1
-828,ﬁdesfilando,1
-829,passarela,1
-830,bonjaﬂ,1
-831,desfile,1
-832,confeccionadas,1
-833,atrações,1
-834,contação,1
-835,ator,1
-836,poetisa,1
-837,ambos,1
-838,geladeiroteca,1
-839,senhora,1
-840,fátima,1
-841,3ª,1
-842,imagens,1
-843,gastronômicos,1
-844,custeada,1
-845,geradora,1
-846,investida,1
-847,nani,1
-848,dutra,1
-849,ativista,1
-850,mães,1
-851,porque,1
-852,foça,1
-853,roberto,1
-854,compartilhado,1
-855,agentes,1
-856,laurence,1
-857,sinto,1
-858,dizem,1
-859,garante,1
-860,executivo,1
-861,faço,1
-862,varejista,1
-863,executiva,1
-864,perto,1
-865,herrmann,1
-866,bier,1
-867,picinini,1
-868,gomespaula,1
-869,34empodera,1
-870,beltrão,1
-871,faccio,1
-872,concretas,1
-873,fabio,1
-874,femininoﬂ,1
-875,18conselho,1
-876,45expediente,1
-877,rds,1
-878,negro,1
-879,utilizados,1
-880,executa,1
-881,imersão,1
-882,2x2esgn,1
-883,resgatar,1
-884,autoestima,1
-885,enxergam,1
-886,noção,1
-887,eduardo,1
-888,massaﬂ,1
-889,ﬁbotar,1
-890,moller,1
-891,iniciar,1
-892,conclusão,1
-893,zaffari,1
-894,ricardo,1
-895,mutirões,1
-896,agliardi,1
-897,comportamental,1
-898,aumentaram,1
-899,entrada,1
-900,qualificada,1
-901,1917captações,1
-902,32ângela,1
-903,luciano,1
-904,administrativo,1
-905,moradora,1
-906,participa,1
-907,ingressou,1
-908,taccola,1
-909,planeja,1
-910,futuramente,1
-911,fabiana,1
-912,cursar,1
-913,faculdade,1
-914,ajudou,1
-915,diretora,1
-916,ferlauto,1
-917,abre,1
-918,fiz,1
-919,tipos,1
-920,crença,1
-921,futsal,1
-922,atrás,1
-923,dezembro,1
-924,50período,1
-925,abordadosnão,1
-926,estabilidade,1
-927,lista,1
-928,passos,1
-929,anterioresnão,1
-930,startups,1
-931,site,1
-932,2wkeq9h,1
-933,ﬁnegócios,1
-934,fornecidas,1
-935,geridas,1
-936,pequenos,1
-937,populações,1
-938,quaisquer,1
-939,1º,1
-940,51data,1
-941,48explicação,1
-942,anterior,1
-943,55índice,1
-944,essencial,1
-945,standards,1
-946,54premissas,1
-947,br,1
-948,ajudar,1
-949,lojasrenner,1
-950,dúvidas,1
-951,53dados,1
-952,relatóriosanual,1
-953,tirar,1
-954,fase,1
-955,52ciclo,1
-956,recente2018,1
-957,buscados,1
-958,favorecidas,1
-959,eixos,1
-960,stanford,1
-961,gradativa,1
-962,justa,1
-963,solidária,1
-964,departamento,1
-965,time,1
-966,dedihc,1
-967,virtual,1
-968,negociação,1
-969,câmara,1
-970,empregados,1
-971,41percentual,1
-972,deputados,1
-973,2qqoeln,1
-974,ﬁentendemos,1
-975,geral,1
-976,avança,1
-977,interface,1
-978,43abordagem,1
-979,entendemos,1
-980,almeja,1
-981,fomentem,1
-982,abordá,1
-983,medidas,1
-984,artemisia,1
-985,levantados,1
-986,44principais,1
-987,mensais,1
-988,detalhando,1
-989,associados,1
-990,2x900rb,1
-991,assembleias,1
-992,ocorre,1
-993,cidadaniaﬁa,1
-994,frequência,1
-995,entendida,1
-996,56as,1
-997,demonstrações,1
-998,costumam,1
-999,precisamos,1
-1000,ﬁimagine,1
-1001,orientam,1
-1002,2x741nb,1
-1003,pouco,1
-1004,afirma,1
-1005,seção,1
-1006,porte,1
-1007,41glossário,1
-1008,avaliação,1
-1009,implementados,1
-1010,1percentual,1
-1011,devem,1
-1012,locais413,1
-1013,sociaiscomunidades,1
-1014,disclosures,1
-1015,alguém,1
-1016,fizesse,1
-1017,auditadas,1
-1018,vítimas,1
-1019,aprendem,1
-1020,ﬁdesde,1
-1021,levados,1
-1022,2ixh5mc,1
-1023,acreditar,1
-1024,determinadas,1
-1025,empoderadas,1
-1026,precisam,1
-1027,afetam,1
-1028,opinião,1
-1029,sexo,1
-1030,escutassem,1
-1031,imagine,1
-1032,sérias,1
-1033,tornam,1
-1034,contratar,1
-1035,sete,1
-1036,contrato,1
-1037,durar,1
-1038,externa,1
-1039,integração,1
-1040,auditoria,1
-1041,consulte,1
-1042,manual,1
-1043,ministério,1
-1044,3d6katp,1
-1045,42investimento,1
-1046,ﬁprojeto,1
-1047,submetido,1
-1048,entretanto,1
-1049,estágio,1
-1050,kpmg,1
-1051,saíram,1
-1052,zero,1
-1053,valores,1
-1054,difundindo,1
-1055,gestão103,1
-1056,distribuído,1
-1057,infraestrutura,1
-1058,formadora,1
-1059,1desenvolvimento,1
-1060,indiretos,1
-1061,combinando,1
-1062,5impactos,1
-1063,enquanto,1
-1064,1explicação,1
-1065,empresários,1
-1066,1valor,1
-1067,específicodisclosures,1
-1068,10conteúdo,1
-1069,3evolução,1
-1070,2gestão,1
-1071,específica,1
-1072,articular,1
-1073,governamentais,1
-1074,quadra,1
-1075,endeavor,1
-1076,adquirindo,1
-1077,mini,1
-1078,contratando,1
-1079,2qrugvi,1
-1080,ﬁquando,1
-1081,totalmente,1
-1082,ganham,1
-1083,estruturar,1
-1084,patrocínio,1
-1085,ﬁcom,1
-1086,consultor,1
-1087,vinicius,1
-1088,começam,1
-1089,ótimo,1
-1090,revitalizar,1
-1091,comemorativos,1
-1092,opera,1
-1093,las,1
-1094,4número,1
-1095,sedeporto,1
-1096,3localização,1
-1097,2principais,1
-1098,identificar,1
-1099,organizaçãoinstituto,1
-1100,barreiras,1
-1101,1nome,1
-1102,alternativas,1
-1103,resposta,1
-1104,viáveis,1
-1105,transpô,1
-1106,pg,1
-1107,geralreferência,1
-1108,38conteúdo,1
-1109,dividirem,1
-1110,ﬁcriativosﬂ,1
-1111,ﬁnão,1
-1112,criativosﬂ,1
-1113,desenvolveu,1
-1114,modalidades,1
-1115,incentivar,1
-1116,desenvolve,1
-1117,criativaﬂ,1
-1118,atuantes,1
-1119,david,1
-1120,pró,1
-1121,37apoio,1
-1122,equidade,1
-1123,professor,1
-1124,antigo,1
-1125,estruturalmente,1
-1126,oportunizar,1
-1127,cortinas,1
-1128,regularmente,1
-1129,determinado,1
-1130,matriculados,1
-1131,vôlei,1
-1132,distribuem,1
-1133,dom,1
-1134,deus,1
-1135,respectivamente,1
-1136,capoeira,1
-1137,termos,1
-1138,meninos,1
-1139,voarem,1
-1140,gratuitas,1
-1141,percebendo,1
-1142,oferecem,1
-1143,naturalmente,1
-1144,deveriam,1
-1145,deixar,1
-1146,completa,1
-1147,5tipo,1
-1148,componentes,1
-1149,43instituto,1
-1150,padrões,1
-1151,16valores,1
-1152,integridade102,1
-1153,39ética,1
-1154,10índice,1
-1155,15descrição,1
-1156,3b1gz7f,1
-1157,ﬁé,1
-1158,relevância,1
-1159,decisão,1
-1160,poder,1
-1161,cargo,1
-1162,detentor,1
-1163,14declaração,1
-1164,6estratégia,1
-1165,idis,1
-1166,normas,1
-1167,obter,1
-1168,erros,1
-1169,40lista,1
-1170,stakeholder102,1
-1171,45engajamento,1
-1172,comitês,1
-1173,incluindo,1
-1174,integrada,1
-1175,18estrutura,1
-1176,estar,1
-1177,através,1
-1178,reflexão,1
-1179,humildade,1
-1180,éticaaderimos,1
-1181,avaliar,1
-1182,decisões,1
-1183,corrigir,1
-1184,colaborativa,1
-1185,perspectiva,1
-1186,defesapágina,1
-1187,internacionais,1
-1188,mapear,1
-1189,mesclar,1
-1190,11explicação,1
-1191,inseridos,1
-1192,10principais,1
-1193,indivíduos,1
-1194,transportes,1
-1195,categorias,1
-1196,companhiaos,1
-1197,9descrição,1
-1198,intuito,1
-1199,7porte,1
-1200,6mercados,1
-1201,propriedade,1
-1202,jurídica,1
-1203,tentar,1
-1204,precauçãonão,1
-1205,12cartas,1
-1206,endossa,1
-1207,nacionais,1
-1208,organismos,1
-1209,empatia,1
-1210,participações,1
-1211,13principais,1
-1212,máxima,1
-1213,interessados,1
-1214,desenvolvidas,1
-1215,colocadas,1
-1216,consumidor,1
-1217,envolvidos,1
-1218,subscreve,1
-1219,multidisciplinares,1
-1220,externamente,1
-1221,oferecidospágina,1
-1222,2mensagem,1
-1223,realizou,1
-1224,domicílio,1
-1225,proporção,1
-1226,visto,1
-1227,suprimentos,1
-1228,busque,1
-1229,empresarial,1
-1230,estabelece,1
-1231,rendimentos,1
-1232,aumento,1
-1233,envolve,1
-1234,corporativa,1
-1235,complexo,1
-1236,incentivados,1
-1237,protagonizado,1
-1238,promovem,1
-1239,complementares,1
-1240,conectadas,1
-1241,10cenário,1
-1242,chefes,1
-1243,assumem,1
-1244,seguintes,1
-1245,receita,1
-1246,proporcionar,1
-1247,diante,1
-1248,homens,1
-1249,média,1
-1250,empréstimos,1
-1251,acessam,1
-1252,empresárias,1
-1253,seguras,1
-1254,abrem,1
-1255,capazes,1
-1256,adicionais,1
-1257,enfrentam,1
-1258,apesar,1
-1259,cônjuge,1
-1260,condição,1
-1261,supera,1
-1262,percentual,1
-1263,prisional,1
-1264,abordando,1
-1265,fundamental,1
-1266,ressignifica,1
-1267,desta,1
-1268,faça,1
-1269,apoiadas,1
-1270,mostrou,1
-1271,youtube,1
-1272,babi,1
-1273,jornalista,1
-1274,lucros,1
-1275,revertem,1
-1276,comunicações,1
-1277,lançando,1
-1278,causa,1
-1279,conscientizar,1
-1280,convite,1
-1281,serem,1
-1282,juntas,1
-1283,8todas,1
-1284,9arrecadação,1
-1285,captação,1
-1286,relacionados,1
-1287,chamado,1
-1288,assuntos,1
-1289,aprofundam,1
-1290,episódios,1
-1291,debate,1
-1292,intensificar,1
-1293,igualitária,1
-1294,compra,1
-1295,agregando,1
-1296,conscientização,1
-1297,arrecadou,1
-1298,periódicas,1
-1299,passa,1
-1300,isenta,1
-1301,líquida,1
-1302,previa,1
-1303,euﬂ,1
-1304,ﬁcampanha,1
-1305,estabelecimento,1
-1306,depende,1
-1307,resgatem,1
-1308,escritório,1
-1309,oferecemos,1
-1310,15além,1
-1311,cea,1
-1312,fundou,1
-1313,netos,1
-1314,mentoria,1
-1315,fotos,1
-1316,retratados,1
-1317,perfis,1
-1318,prova,1
-1319,fotográficos,1
-1320,gostariam,1
-1321,àqueles,1
-1322,oferecendo,1
-1323,cadastrando,1
-1324,começou,1
-1325,efetiva,1
-1326,montagem,1
-1327,iniciais,1
-1328,exemplo,1
-1329,passasse,1
-1330,impactadas,1
-1331,funcionamento,1
-1332,nove,1
-1333,intermitente,1
-1334,clt,1
-1335,funcionários,1
-1336,seleção,1
-1337,passando,1
-1338,escopo,1
-1339,ampliou,1
-1340,cadastrados,1
-1341,volume,1
-1342,capacitações,1
-1343,imersões,1
-1344,gera,1
-1345,conquista,1
-1346,prestar,1
-1347,somadas,1
-1348,cooperação,1
-1349,assessorias,1
-1350,especialista,1
-1351,profissionalização,1
-1352,algum,1
-1353,1empreendedoras,1
-1354,13geração,1
-1355,multiplicação,1
-1356,transforma,1
-1357,perenidade,1
-1358,direcionar,1
-1359,possamos,1
-1360,conectados,1
-1361,constantemente,1
-1362,mantemos,1
-1363,influenciam,1
-1364,considerando,1
-1365,transformem,1
-1366,interessadas,1
-1367,honestos,1
-1368,aliança,1
-1369,agustina,1
-1370,inteligência,1
-1371,comas,1
-1372,eł,1
-1373,precificação,1
-1374,produtividade,1
-1375,controles,1
-1376,contratação,1
-1377,produtiva,1
-1378,requisitos,1
-1379,necessários,1
-1380,sp,1
-1381,jacareí,1
-1382,petrópolis,1
-1383,friburgo,1
-1384,pomerode,1
-1385,formadas,1
-1386,beija,1
-1387,sesi,1
-1388,senai,1
-1389,básicas,1
-1390,gerem,1
-1391,schmitt,1
-1392,ali,1
-1393,encontrará,1
-1394,pág,1
-1395,apresentam,1
-1396,atento,1
-1397,fique,1
-1398,aprender,1
-1399,quer,1
-1400,qualificado,1
-1401,informação,1
-1402,glossário,1
-1403,leitor,1
-1404,levam,1
-1405,visual,1
-1406,palavras,1
-1407,apresentamos,1
-1408,3byi6bl,1
-1409,acesse,1
-1410,ícones,1
-1411,łrecursos,1
-1412,abordados,1
-1413,łincentivado,1
-1414,somado,1
-1415,ampliamos,1
-1416,conexão,1
-1417,fortalecimento,1
-1418,orientado,1
-1419,mantenedora,1
-1420,atualização,1
-1421,foco,1
-1422,4o,1
-1423,deficiência,1
-1424,pronas,1
-1425,oncológica,1
-1426,pronon,1
-1427,enquadrem,1
-1428,destinados,1
-1429,dedução,1
-1430,provenientes,1
-1431,saber,1
-1432,indicadores,1
-1433,consolidando,1
-1434,convido,1
-1435,engaje,1
-1436,multiplique,1
-1437,evolua,1
-1438,trajetória,1
-1439,principalmente,1
-1440,avançar,1
-1441,possibilitado,1
-1442,humanos,1
-1443,universais,1
-1444,comprometidas,1
-1445,seguimos,1
-1446,contribuiu,1
-1447,sabemos,1
-1448,orgulho,1
-1449,alavancar,1
-1450,década,1
-1451,atuamos,1
-1452,empreendimentos,1
-1453,percorrer,1
-1454,referencia,1
-1455,tecem,1
-1456,índice,1
-1457,encontra,1
-1458,transparente,1
-1459,corporações,1
-1460,initiative,1
-1461,reporting,1
-1462,baseamos,1
-1463,publicação,1
-1464,11ª,1
-1465,inspiração,1
-1466,anualmente,1
-1467,publicamos,1
-1468,completo,1
-1469,3introdução,1
-1470,14uma,1
-1471,dando,1
-1472,inspiradoras,1
-1473,autossuficiência,1
-1474,16o,1
-1475,prisionais,1
-1476,carvalho,1
-1477,plano,1
-1478,estratégica,1
-1479,implementação,1
-1480,contrapartida,1
-1481,internas,1
-1482,tecnicamente,1
-1483,bons,1
-1484,significa,1
-1485,13reforçando,1
-1486,meninasﬂ,1
-1487,ﬁalcançar,1
-1488,contribuição,1
-1489,signatária,1
-1490,focadas,1
-1491,cumprimento,1
-1492,esforço,1
-1493,composta,1
-1494,7adriana,1
-1495,principal,1
-1496,contribuírem,1
-1497,portanto,1
-1498,obra,1
-1499,orientar,1
-1500,cárcere,1
-1501,considere,1
-1502,treinamentos,1
-1503,principles,1
-1504,empowerment,1
-1505,women,1
-1506,weps,1
-1507,centrais,1
-1508,elementos,1
-1509,internacional,1
-1510,europeia,1
-1511,união,1
-1512,natural,1
-1513,contribuindo,1
-1514,vem,1
-1515,propôs,1
-1516,estratégias,1
-1517,civil,1
-1518,milhõesinvestidos,1
-1519,disponível,1
-1520,segmentação,1
-1521,desembolso,1
-1522,ocorresse,1
-1523,equivalente,1
-1524,montante,1
-1525,nº,1
-1526,cfc,1
-1527,mensurada,1
-1528,tributárias,1
-1529,bancárias,1
-1530,vinculados,1
-1531,terceiros,1
-1532,viagens,1
-1533,encargos,1
-1534,remuneração,1
-1535,oscip,1
-1536,4r,1
-1537,em75projetos,1
-1538,alinharem,1
-1539,alcançando11,1
-1540,convida,1
-1541,compromissada,1
-1542,superar,1
-1543,6colaboração,1
-1544,beneficiados1,1
-1545,milhões41,1
-1546,beneficiadosr,1
-1547,milhões34,1
-1548,201820172019r,1
-1549,51517534234128201820172019pessoas,1
-1550,pronaspronon201820172019projetos,1
-1551,funcriança,1
-1552,9com,1
-1553,5431total,1
-1554,3investimento,1
-1555,prscsprjmgbarramrs10,1
-1556,200pessoas,1
-1557,16marina,1
-1558,periferia,1
-1559,30festival,1
-1560,mg,1
-1561,belo,1
-1562,pertenço,1
-1563,companheiros,1
-1564,respeito,1
-1565,vivenciado,1
-1566,honrado,1
-1567,existiam,1
-1568,sabia,1
-1569,trouxe,1
-1570,sul,1
-1571,ângelo,1
-1572,santo,1
-1573,aluna,1
-1574,cordova,1
-1575,verônica,1
-1576,resgatando,1
-1577,encontravam,1
-1578,horizonte,1
-1579,salvador,1
-1580,vagas,1
-1581,ba,1
-1582,escala,1
-1583,longa,1
-1584,engajando,1
-1585,sensibilizar,1
-1586,compilar,1
-1587,prol,1
-1588,unindo,1
-1589,reflete,1
-1590,ponte,1
-1591,estabelecer,1
-1592,compartilhar,1
-1593,acnurﬁnosso,1
-1594,oficial,1
-1595,sérgio,1
-1596,assessora,1
-1597,27gabriela,1
-1598,empregadas,1
-1599,abrigos,1
-1600,colaboradoras,1
-1601,cnur,1
-1602,capitais,1
-1603,modelagem,1
-1604,24nos,1
-1605,brasileiro,1
-1606,rotina,1
-1607,conheçam,1
-1608,camicado,1
-1609,visitas,1
-1610,relacionadas,1
-1611,questões,1
-1612,comportamentais,1
-1613,contempla,1
-1614,recomeçar,1
-1615,dificuldades,1
-1616,cotidianas,1
-1617,viverem,1
-1618,privadas,1
-1619,chegam,1
-1620,atenderam,1
-1621,inauguramos,1
-1622,interiorização,1
-1623,fronteira,1
-1624,25com,1
-1625,aumentava,1
-1626,efetivamente,1
-1627,notarem,1
-1628,oferecidos,1
-1629,procurarem,1
-1630,motivou,1
-1631,inspirou,1
-1632,interiorizadas,1
-1633,localidades,1
-1634,capacitamos,1
-1635,insegurança,1
-1636,fugindo,1
-1637,deixaram,1
-1638,anur,1
-1639,recebeu,1
-1640,venezuela,1
-1641,plataforma,1
-1642,ganho,1
-1643,acnur,1
-1644,marcado,1
-1645,expuseram,1
-1646,visitantes,1
-1647,estimular,1
-1648,reconhecer,1
-1649,intenções,1
-1650,avaliarem,1
-1651,convidados,1
-1652,feira,1
-1653,junho,1
-1654,reuniu,1
-1655,artísticas,1
-1656,apresentações,1
-1657,palco,1
-1658,ônibus,1
-1659,disponibilizou,1
-1660,prefeitura,1
-1661,secretaria,1
-1662,domingo,1
-1663,celebração,1
-1664,show,1
-1665,mês,1
-1666,livre,1
-1667,ar,1
-1668,academia,1
-1669,construíram,1
-1670,quais,1
-1671,norteados,1
-1672,intensamente,1
-1673,trabalhando,1
-1674,seguem,1
-1675,literáriaﬂ,1
-1676,cênico,1
-1677,instrumento,1
-1678,teatro,1
-1679,temática,1
-1680,eja,1
-1681,teatrais,1
-1682,ministradas,1
-1683,talentos,1
-1684,sediou,1
-1685,pois,1
-1686,educacional,1
-1687,consolidação,1
-1688,abril,1
-1689,vizinha,1
-1690,leste,1
-1691,zona,1
-1692,localizado,1
-1693,28comunidade,1
-1694,mútuos,1
-1695,beneficiar,1
-1696,elevado,1
-1697,escolaridade,1
-1698,grau,1
-1699,pensa,1
-1700,contrário,1
-1701,inspirar,1
-1702,tende,1
-1703,vitrine,1
-1704,soluções,1
-1705,senso,1
-1706,maio,1
-1707,revelar,1
-1708,ocupar,1
-1709,idealizadores,1
-1710,ponto,1
-1711,revitalizaram,1
-1712,sucesso,1
-1713,evolução,1
-1714,estruturação,1
-1715,articulador,1
-1716,âmbitos,1
-1717,diversos,1
-1718,transformações,1
-1719,visando,1
-1720,multiplicadas,1
-1721,laboratório,1
-1722,fomentando,1
-1723,território,1
-1724,potenciais,1
-1725,representa,1
-1726,comissariado,1
-1727,quebrando,1
-1728,adesão,1
-1729,prazo,1
-1730,inutilizadas,1
-1731,desapegassem,1
-1732,espalhar,1
-1733,urbana,1
-1734,intervenção,1
-1735,inicialmente,1
-1736,compartilhada,1
-1737,espalhados,1
-1738,livros,1
-1739,brinquedos,1
-1740,troca,1
-1741,propõe,1
-1742,presevar,1
-1743,defeitos,1
-1744,coleções,1
-1745,reinserção,1
-1746,crescimento,1
-1747,compartilhamentos,1
-1748,valorização,1
-1749,identificaram,1
-1750,finalidade,1
-1751,realiza,1
-1752,19cooperativa,1
-1753,acessando,1
-1754,patamar,1
-1755,pra,1
-1756,levar,1
-1757,faz,1
-1758,repensarem,1
-1759,ﬁestamos,1
-1760,zagonel,1
-1761,carina,1
-1762,pós,1
-1763,firma,1
-1764,familiares,1
-1765,instalado,1
-1766,manutenção,1
-1767,descartadas,1
-1768,todasavançamjuntas,1
-1769,pôde,1
-1770,reforma,1
-1771,atende,1
-1772,atualmente,1
-1773,carteira,1
-1774,possibilitou,1
-1775,microempresa,1
-1776,arte,1
-1777,costurando,1
-1778,17copearte,1
-1779,estilos,1
-1780,verem,1
-1781,acolher,1
-1782,fala,1
-1783,construindo,1
-1784,lacuna,1
-1785,mostramos,1
-1786,crime,1
-1787,estereótipo,1
-1788,oferecer,1
-1789,consertos,1
-1790,freire,1
-1791,convênio,1
-1792,oscar,1
-1793,brindes,1
-1794,entregues,1
-1795,reuso,1
-1796,jeans,1
-1797,sacolas,1
-1798,beneficiando,1
-1799,revertida,1
-1800,obtida,1
-1801,commerce,1
-1802,vendido,1
-1803,alchemia,1
-1804,transformou,1
-1805,reinserindo,1
-1806,reutilização,1
-1807,tecidos,1
-1808,sobras,1
-1809,garantir,1
-1810,contando,1
-1811,23empoderando,1
-1812,conseguem,1
-1813,plantio,1
-1814,preparação,1
-1815,administração,1
-1816,antes,1
-1817,terceirizar,1
-1818,permitiu,1
-1819,alimentar,1
-1820,autossubsistência,1
-1821,planeta,1
-1822,ecológico,1
-1823,equilíbrio,1
-1824,comum,1
-1825,oferecidas,1
-1826,somando,1
-1827,trato,1
-1828,ancestrais,1
-1829,utilizem,1
-1830,manuseio,1
-1831,negociar,1
-1832,22a,1
-1833,autônoma,1
-1834,agricultor,1
-1835,resgate,1
-1836,toneladas,1
-1837,1ª,1
-1838,março,1
-1839,certificada,1
-1840,expectativa,1
-1841,plantados,1
-1842,hectares,1
-1843,envolvidas,1
-1844,produtores,1
-1845,servir,1
-1846,irá,1
-1847,kg,1
-1848,envolvendo,1
-1849,expandiu,1
-1850,competitiva,1
-1851,permite,1
-1852,algodão,1
-1853,ganharam,1
-1854,buscaram,1
-1855,recentemente,1
-1856,reconhecido,1
-1857,estendida,1
-1858,conflitos,1
-1859,ritmo,1
-1860,manter,1
-1861,ensinaram,1
-1862,ninho,1
-1863,saí,1
-1864,conheci,1
-1865,técnicos,1
-1866,ensinamentos,1
-1867,custeá,1
-1868,ﬁsempre,1
-1869,paz,1
-1870,20daniela,1
-1871,empreenderam,1
-1872,integrantes,1
-1873,formalizá,1
-1874,aperfeiçoar,1
-1875,fiscais,1
-1876,rurais,1
-1877,produtoras,1
-1878,qualificação,1
-1879,proporcionou,1
-1880,gerais,1
-1881,minas,1
-1882,norte,1
-1883,malhada,1
-1884,iniciamos,1
-1885,socioemocionais,1
-1886,consultores,1
-1887,disponibilização,1
-1888,costureiras,1
-1889,reutilizáveis,1
-1890,produzir,1
-1891,têxteis,1
-1892,utiliza,1
-1893,encareciam,1
+0,mulheres,59
+1,instituto,49
+2,projeto,47
+3,comunidade,38
+4,empoderamento,26
+5,trabalho,24
+6,desenvolvimento,24
+7,meio,21
+8,moda,20
+9,vida,17
+10,oportunidade,17
+11,apoio,16
+12,bom jesus,15
+13,capacitação,15
+14,parceria,14
+15,ano,13
+16,onu mulheres,13
+17,empreendedora,13
+18,geração,12
+19,valor,12
+20,bit ly,12
+21,pessoa,12
+22,além,11
+23,empresa,11
+24,empreendedorismo,11
+25,sobre,11
+26,formação,10
+27,importante,10
+28,negócio,10
+29,recurso,10
+30,transformação,10
+31,todo,9
+32,incentivo fiscal,9
+33,cliente,9
+34,porto alegre,9
+35,partir,9
+36,sustentabilidade,8
+37,renda,8
+38,cadeia,8
+39,sociedade,8
+40,bonja viva,8
+41,iniciativa,8
+42,ações,8
+43,avançam juntas,8
+44,todas avançam,8
+45,empoderando refugiadas,8
+46,prática,7
+47,mercado,7
+48,gestão,7
+49,engajamento,7
+50,social,7
+51,sede,7
+52,objetivo,7
+53,técnica,7
+54,cadeia têxtil,7
+55,jovens,7
+56,desde,7
+57,princípio,6
+58,compromisso,6
+59,ideia,6
+60,mundo,6
+61,potencial,6
+62,direitos humanos,6
+63,upcycling,6
+64,atuação,6
+65,cidadania,6
+66,promover,6
+67,associação,6
+68,tema,6
+69,cultura,6
+70,impacto,6
+71,programa,6
+72,projetos apoiados,6
+73,captações instituto,6
+74,acesso,6
+75,relação,5
+76,ﬁa,5
+77,lei,5
+78,criança,5
+79,onde,5
+80,rede,5
+81,panorama,5
+82,organização,5
+83,família,5
+84,costura,5
+85,colaboradores,5
+86,emprego,5
+87,mil,5
+88,desenvolvimento social,5
+89,agência,5
+90,qualidade,5
+91,realidade,5
+92,curso,5
+93,alegre rs,5
+94,investimento social,5
+95,moradores,5
+96,agência compromisso,5
+97,forma,5
+98,participante,5
+99,criação,5
+100,igualdade,4
+101,algodão agroecológico,4
+102,realização,4
+103,participação,4
+104,boa vista,4
+105,acordo,4
+106,investimento,4
+107,empoderamento econômico,4
+108,impacto social,4
+109,mudança,4
+110,transformar,4
+111,olhar,4
+112,nações unidas,4
+113,protagonismo,4
+114,criado,4
+115,projeto pescar,4
+116,bairro bom,4
+117,locais,4
+118,ﬂ,4
+119,mulher,4
+120,varejo,4
+121,apoiando,4
+122,saiba,4
+123,produto,4
+124,parceiro,4
+125,elaboração,4
+126,empoderamento feminino,4
+127,toda,4
+128,armário coletivo,4
+129,metodologia,4
+130,líderes,4
+131,situação,4
+132,pacto global,4
+133,local,4
+134,fornecedores,4
+135,liderança,4
+136,encontro,4
+137,linha,4
+138,esporte,4
+139,tecnologia,4
+140,cidade,4
+141,setor,4
+142,articulação,4
+143,pessoal,4
+144,companhia,4
+145,bairro,4
+146,fazer,4
+147,possibilidade,4
+148,construção,4
+149,material,4
+150,problemas,4
+151,desenvolvido,4
+152,produção,3
+153,desigualdade,3
+154,recursos próprios,3
+155,social privado,3
+156,lugar,3
+157,campanha,3
+158,seguir,3
+159,três,3
+160,moda sustentável,3
+161,tempo,3
+162,ação,3
+163,melhor,3
+164,projeto empoderando,3
+165,além disso,3
+166,cada vez,3
+167,gênero,3
+168,empreendedorismo feminino,3
+169,formado,3
+170,paulo sp,3
+171,lançamento,3
+172,durante,3
+173,missão,3
+174,outro,3
+175,modelo,3
+176,venda,3
+177,gente,3
+178,parte,3
+179,agora,3
+180,conheça,3
+181,copearte,3
+182,novos horizontes,3
+183,articulou,3
+184,vista rr,3
+185,sentido,3
+186,confiança criativa,3
+187,lidar,3
+188,contribui,3
+189,participaram,3
+190,junto,3
+191,imposto,3
+192,longo,3
+193,contratada,3
+194,final,3
+195,conhecimento,3
+196,destaque,3
+197,instituto elos,3
+198,investimento semente,3
+199,escolhas,3
+200,equipamentos,3
+201,realizar,3
+202,dado,3
+203,dentro,3
+204,comunidade bom,3
+205,inserida,3
+206,projetos esportivos,3
+207,força,3
+208,nova,3
+209,evento,3
+210,comunidade transformadora,3
+211,principais,3
+212,vídeo,3
+213,serviço,3
+214,investido,3
+215,idoso,3
+216,fundo,3
+217,adolescente,3
+218,promove,3
+219,lideranças comunitárias,3
+220,futuro,3
+221,contato,3
+222,avanço,3
+223,centro,3
+224,desenvolvimento sustentável,3
+225,política,3
+226,ambiental,3
+227,operações,3
+228,coletiva,3
+229,turma,3
+230,conceito,3
+231,empoderar,3
+232,outra,3
+233,vivência,3
+234,início,3
+235,loja,2
+236,despesas administrativas,2
+237,florianópolis,2
+238,próprioscom incentivo,2
+239,sustentável ods,2
+240,coletivo,2
+241,cerca,2
+242,jovens formados,2
+243,aprendizes,2
+244,inserção,2
+245,educando,2
+246,zagaia amazônia,2
+247,unidas onu,2
+248,treino,2
+249,gingando,2
+250,meninas,2
+251,recursos próprioscom,2
+252,presença,2
+253,população,2
+254,alguma,2
+255,conta,2
+256,futuros profissionais,2
+257,corte,2
+258,fiscal investimento,2
+259,atuar,2
+260,formalizada,2
+261,escola,2
+262,inclusão,2
+263,semana,2
+264,doação,2
+265,escuta,2
+266,promoveu,2
+267,ganha ganha,2
+268,matéria prima,2
+269,materiais,2
+270,empreendedores,2
+271,acontece,2
+272,espaço,2
+273,coleção,2
+274,região,2
+275,sei,2
+276,liderança comunitária,2
+277,esportiva,2
+278,instituto francisca,2
+279,cultural,2
+280,três vezes,2
+281,cinco iniciativas,2
+282,solo,2
+283,cataguases mg,2
+284,trabalhar,2
+285,acolhida,2
+286,protagonismo feminino,2
+287,universo,2
+288,realize,2
+289,organização página,2
+290,período,2
+291,estado,2
+292,governo,2
+293,próxima,2
+294,capital,2
+295,souza peixoto,2
+296,duas turmas,2
+297,economia,2
+298,pertencimento,2
+299,primeira etapa,2
+300,festival comunidade,2
+301,oficinas,2
+302,outubro,2
+303,capacitado,2
+304,processo,2
+305,setembro,2
+306,solução,2
+307,praça,2
+308,realizado,2
+309,desenvolver competências,2
+310,edital,2
+311,acompanhamento,2
+312,reuniões,2
+313,evento contou,2
+314,futuro melhor,2
+315,espécie,2
+316,youcom,2
+317,martins costa,2
+318,brasileira,2
+319,conselho deliberativo,2
+320,risco,2
+321,sonho,2
+322,tumbira,2
+323,jovens aprendizes,2
+324,conselho fiscal,2
+325,œ programa,2
+326,caráter,2
+327,estrutura,2
+328,profissão,2
+329,programa nacional,2
+330,comportamento,2
+331,rua,2
+332,aplica,2
+333,design thinking,2
+334,dia,2
+335,unidades,2
+336,coisas,2
+337,aprendi,2
+338,importância,2
+339,conduta,2
+340,deixassem,2
+341,frente,2
+342,países,2
+343,atendimento,2
+344,área,2
+345,mudei,2
+346,uso,2
+347,setor privado,2
+348,ajuda,2
+349,fundação projeto,2
+350,https bit,2
+351,stakeholders,2
+352,stakeholders engajados,2
+353,modo,2
+354,código,2
+355,emissão,2
+356,visão,2
+357,clarice martins,2
+358,papel,2
+359,orientada,2
+360,sempre,2
+361,conteúdo,2
+362,gerando,2
+363,estudo,2
+364,apoiar,2
+365,condições,2
+366,desenvolver,2
+367,acreditamos,2
+368,fortalecer,2
+369,sebrae,2
+370,relato,2
+371,passou,2
+372,coletivo flor,2
+373,canal,2
+374,jesus vizinho,2
+375,arrecadação,2
+376,beneficiadas,2
+377,cenário,2
+378,promoção,2
+379,série,2
+380,pode gerar,2
+381,reporte,2
+382,global,2
+383,vez,2
+384,incentiva,2
+385,fomento,2
+386,necessidades,2
+387,costura industrial,2
+388,sesc envolva,2
+389,cooperativa novos,2
+390,agosto,2
+391,saúde,2
+392,nacional,2
+393,cinco,2
+394,campo,2
+395,atua,2
+396,quatro grandes,2
+397,promovemos,2
+398,websérie,2
+399,vulnerabilidade,2
+400,consequentemente,2
+401,diferença,2
+402,econômica social,2
+403,origem,2
+404,nasceu,2
+405,mostram,2
+406,ferramenta,2
+407,profissional,2
+408,econômica,2
+409,negócios sociais,2
+410,ética,2
+411,ciclo produtivo,2
+412,desenvolvemos,2
+413,próprio,2
+414,lideranças empreendedoras,2
+415,desempenho,2
+416,deste relatório,2
+417,apoia,2
+418,diversas,2
+419,contribuam,2
+420,alcance,2
+421,conformidade,2
+422,diversas habilidades,2
+423,enfrentamento,2
+424,deve,2
+425,líder comunitária,2
+426,direitos,2
+427,auto sustentação,2
+428,somente,2
+429,instituições,2
+430,defesa,2
+431,voluntário,2
+432,viés econômico,2
+433,potencializar,2
+434,dessas mulheres,2
+435,tecendo autonomia,2
+436,voltada,2
+437,milhões,2
+438,primeiro,2
+439,grupos produtivos,2
+440,criada,2
+441,médio,2
+442,preciso,2
+443,transparência,2
+444,divulgação,2
+445,destinação,2
+446,ciclo,2
+447,moradores construíram,1
+448,reutilização criativa,1
+449,mútuos ﬂ,1
+450,criação cênico,1
+451,benefícios mútuos,1
+452,socioculturais norteados,1
+453,coleções transformando,1
+454,zona leste,1
+455,jesus localizado,1
+456,articulações socioculturais,1
+457,cênico literáriaﬂ,1
+458,upcycling reutilização,1
+459,desenvolveram coleções,1
+460,viva seguem,1
+461,descartados reinserindo,1
+462,seguem trabalhando,1
+463,trabalhando intensamente,1
+464,28comunidade empreendedora,1
+465,ﬂ 28comunidade,1
+466,visando transformações,1
+467,reuniu cerca,1
+468,ﬁo teatro,1
+469,temática ﬁo,1
+470,próximo ciclo,1
+471,viva serve,1
+472,território fomentando,1
+473,diversos âmbitos,1
+474,potenciais existentes,1
+475,encontros baseados,1
+476,revelar potenciais,1
+477,mutirão realizado,1
+478,oscar freire,1
+479,moradores revitalizaram,1
+480,locais transformaram,1
+481,renda obtida,1
+482,alchemia vendido,1
+483,campanha todasavançamjuntas,1
+484,busca fortalecer,1
+485,todasavançamjuntas copearte,1
+486,sociais associações,1
+487,viva passaram,1
+488,espaço sediou,1
+489,disponibilizou ônibus,1
+490,sabonete alchemia,1
+491,apresentações artísticas,1
+492,florianópolis beneficiados,1
+493,multiplicadas visando,1
+494,estimular conexões,1
+495,ministradas oficinas,1
+496,oficinas teatrais,1
+497,soluções comuns,1
+498,reinserindo resíduos,1
+499,beneficiando outras,1
+500,iniciativa ﬁdesfilando,1
+501,ar livre,1
+502,uso comunitário,1
+503,contratam funcionários,1
+504,importante diferencial,1
+505,regime clt,1
+506,sonhos pessoais,1
+507,regime intermitente,1
+508,rs potencializando,1
+509,intermitente ampliando,1
+510,apenas nove,1
+511,sócio profissionalizante,1
+512,nove meses,1
+513,pessoas impactadas,1
+514,renda 16marina,1
+515,podemos conseguir,1
+516,diversidade mostrando,1
+517,gente mostra,1
+518,humanizado mexe,1
+519,unificadas cada,1
+520,16marina schmitt,1
+521,existiram muitas,1
+522,construir conexões,1
+523,ir além,1
+524,curso teórico,1
+525,alunos atuam,1
+526,32ângela silva,1
+527,pescar 1917captações,1
+528,prestar serviços,1
+529,entrada qualificada,1
+530,gera valor,1
+531,modelos aproximando,1
+532,protagonistas estimulando,1
+533,após alguns,1
+534,profissional após,1
+535,trabalho conhecendo,1
+536,oportunidades concretas,1
+537,alguns meses,1
+538,grande volume,1
+539,conhecimento compartilhado,1
+540,profissionais participam,1
+541,então ampliou,1
+542,escopo passando,1
+543,possível construir,1
+544,sempre existiram,1
+545,impulsiona toda,1
+546,schmitt empreendedora,1
+547,clientes atualmente,1
+548,costurando arte,1
+549,roupas confeccionadas,1
+550,apresentadas peças,1
+551,bonjaﬂ desfile,1
+552,pode beneficiar,1
+553,resultados alcançados,1
+554,festival apresentaram,1
+555,ganhassem força,1
+556,jesus saíssem,1
+557,histórias realizada,1
+558,grupos apresentaram,1
+559,sete grupos,1
+560,etapa sete,1
+561,atualmente além,1
+562,copearte atende,1
+563,viva realizou,1
+564,oferecer serviços,1
+565,comunitário 30festival,1
+566,diversas atrações,1
+567,poetisa ambos,1
+568,visa aproximar,1
+569,violência mostramos,1
+570,periferia quebrando,1
+571,dá foça,1
+572,porque dá,1
+573,importante porque,1
+574,comunitária ativista,1
+575,dutra líder,1
+576,nani dutra,1
+577,reserva financeira,1
+578,ação custeada,1
+579,ambos empreendedores,1
+580,garantindo espaço,1
+581,gastronômicos realizados,1
+582,encontros gastronômicos,1
+583,fala além,1
+584,idade apresentaram,1
+585,estilos 17copearte,1
+586,associação costurando,1
+587,3ª idade,1
+588,acolhida gerando,1
+589,conseguem negociar,1
+590,transformando roupas,1
+591,brasileiro captações,1
+592,seis capitais,1
+593,atenderam juntos,1
+594,costura atenderam,1
+595,24nos quatro,1
+596,coletivo buscaram,1
+597,buscaram formalizá,1
+598,formalizá los,1
+599,notas fiscais,1
+600,fiscais coletivo,1
+601,varejo brasileiro,1
+602,negócios recentemente,1
+603,utiliza resíduos,1
+604,resíduos têxteis,1
+605,participantes conheçam,1
+606,promover visitas,1
+607,produzir itens,1
+608,questões relacionadas,1
+609,embalagens reutilizáveis,1
+610,equipe saúde,1
+611,formação contempla,1
+612,capitais brasileiras,1
+613,ﬂ reconhecido,1
+614,histórias cotidianas,1
+615,capacitamos refugiadas,1
+616,paz cooperativa,1
+617,efetivamente aumentava,1
+618,outras ongs,1
+619,cursos oferecidos,1
+620,procurarem cursos,1
+621,motivou outras,1
+622,horizontes ﬁsempre,1
+623,exército junto,1
+624,custeá lo,1
+625,refugiadas capacitamos,1
+626,visão estendida,1
+627,insegurança política,1
+628,país fugindo,1
+629,venezuelanos deixaram,1
+630,anur desde,1
+631,segundo informações,1
+632,ensinamentos técnicos,1
+633,diversidade saí,1
+634,refugiados segundo,1
+635,rr capital,1
+636,superação dessas,1
+637,refugiadas representa,1
+638,peças alinhados,1
+639,agroecológico irá,1
+640,sistemas agroecológicos,1
+641,agroecológicos permite,1
+642,saberes ancestrais,1
+643,terra somando,1
+644,produção neste,1
+645,neste caso,1
+646,caso oferecidas,1
+647,bem comum,1
+648,irá servir,1
+649,primeira colheita,1
+650,camiseta especial,1
+651,equilíbrio ecológico,1
+652,segurança alimentar,1
+653,envolvendo aproximadamente,1
+654,alimentar dessas,1
+655,expandiu envolvendo,1
+656,competitiva gerando,1
+657,capacitação permitiu,1
+658,maneira autônoma,1
+659,terceirizar atividades,1
+660,22a produção,1
+661,produtoras rurais,1
+662,consultores além,1
+663,1ª colheita,1
+664,refugiados acnur,1
+665,alto comissariado,1
+666,habilidades socioemocionais,1
+667,23empoderando refugiadas,1
+668,mulher 23empoderando,1
+669,autonomia resgate,1
+670,toneladas tecendo,1
+671,malhada grande,1
+672,minas gerais,1
+673,produção certificada,1
+674,idade moradora,1
+675,plantados expectativa,1
+676,proporcionou qualificação,1
+677,agroecológico plantados,1
+678,envolvidas hectares,1
+679,qualificação profissional,1
+680,comunitárias quilombolas,1
+681,quilombolas produtoras,1
+682,pessoas envolvidas,1
+683,produtores panorama,1
+684,20daniela paz,1
+685,empregabilidade 25com,1
+686,novas colaboradoras,1
+687,almeida oficial,1
+688,desejamos cada,1
+689,ods desejamos,1
+690,trabalho unindo,1
+691,coisas inutilizadas,1
+692,reflete bem,1
+693,longo prazo,1
+694,refugiadas reflete,1
+695,grande adesão,1
+696,acnurﬁnosso papel,1
+697,paulo sérgio,1
+698,intervenção urbana,1
+699,almeida assessora,1
+700,27gabriela almeida,1
+701,refugiadas empregadas,1
+702,mil compartilhamentos,1
+703,idealizadoras identificaram,1
+704,ba boa,1
+705,salvador ba,1
+706,rs salvador,1
+707,horizonte mg,1
+708,pessoas desapegassem,1
+709,compilar ações,1
+710,liberadas vagas,1
+711,ganho pois,1
+712,alto potencial,1
+713,elevado diversas,1
+714,destaques nessa,1
+715,nessa jornada,1
+716,escolaridade elevado,1
+717,inspirar outras,1
+718,pois funciona,1
+719,roupas brinquedos,1
+720,armários espalhados,1
+721,plataforma empresas,1
+722,diferentes olhares,1
+723,escala ﬂ,1
+724,universidades criando,1
+725,economia compartilhada,1
+726,antes encareciam,1
+727,longa escala,1
+728,dá novo,1
+729,engajando cada,1
+730,descartados inicialmente,1
+731,ações engajando,1
+732,instalado dentro,1
+733,familiares assim,1
+734,belo horizonte,1
+735,ângelo rio,1
+736,ﬂ 19cooperativa,1
+737,19cooperativa novos,1
+738,conhecer muitas,1
+739,horizontes realiza,1
+740,pôde ampliar,1
+741,sul ﬁo,1
+742,estrutura contando,1
+743,novas máquinas,1
+744,ganharam maior,1
+745,santo ângelo,1
+746,rj belo,1
+747,venezuelana aluna,1
+748,cooperativa empreenderam,1
+749,empreenderam criando,1
+750,cordova venezuelana,1
+751,verônica cordova,1
+752,cidadania verônica,1
+753,refugiadas resgatando,1
+754,negócios 20daniela,1
+755,outros venezuelanos,1
+756,muitas coisas,1
+757,existiam graças,1
+758,acessando novas,1
+759,patamar acessando,1
+760,janeiro rj,1
+761,pós consumo,1
+762,sp rio,1
+763,sustentável carina,1
+764,carina zagonel,1
+765,posso falar,1
+766,zagonel idealizadora,1
+767,hoje posso,1
+768,diversidade tanto,1
+769,coletivo ﬁestamos,1
+770,rua estimulando,1
+771,experiências maravilhosas,1
+772,faz perceber,1
+773,vivenciado experiências,1
+774,pode levar,1
+775,moda pra,1
+776,honrado aqui,1
+777,trabalho honrado,1
+778,outro patamar,1
+779,silva jovem,1
+780,2mensagem,1
+781,jesus participa,1
+782,sustentáveis geridas,1
+783,processo contínuo,1
+784,entendida nesse,1
+785,cidadaniaﬁa cidadania,1
+786,2x900rb cidadaniaﬁa,1
+787,ly 2x900rb,1
+788,artemisia detalhando,1
+789,ong artemisia,1
+790,sebrae assista,1
+791,menos favorecidas,1
+792,populações menos,1
+793,pequenos negócios,1
+794,financeiramente sustentáveis,1
+795,solidária ﬂ,1
+796,social ﬁnegócios,1
+797,2wkeq9h negócio,1
+798,ly 2wkeq9h,1
+799,startups saiba,1
+800,passos ﬂ,1
+801,primeiros passos,1
+802,gerar estabilidade,1
+803,nessa fase,1
+804,papel nessa,1
+805,possa ajudar,1
+806,costumam buscar,1
+807,realização gradativa,1
+808,ﬂ departamento,1
+809,experiência cultural,1
+810,ﬂ 43instituto,1
+811,processo consiste,1
+812,comuns nesse,1
+813,equipes multidisciplinares,1
+814,consumidor final,1
+815,stakeholders interessados,1
+816,empatia máxima,1
+817,thinking ﬁé,1
+818,3b1gz7f moda,1
+819,ly 3b1gz7f,1
+820,idis conheça,1
+821,social idis,1
+822,erros ﬂ,1
+823,cidadania dedihc,1
+824,bem estar,1
+825,deve buscar,1
+826,maneira integrada,1
+827,componentes econômico,1
+828,buscando articular,1
+829,específica buscando,1
+830,comunitárias ﬁentendemos,1
+831,2qqoeln lideranças,1
+832,ly 2qqoeln,1
+833,escola virtual,1
+834,dedihc conheça,1
+835,zero costumam,1
+836,estágio inicial,1
+837,semente ﬁprojeto,1
+838,disclosures sociaiscomunidades,1
+839,ly 2ixh5mc,1
+840,empoderadas ﬂ,1
+841,alguém fizesse,1
+842,mulher ﬁimagine,1
+843,possa conhecer,1
+844,41glossário criamos,1
+845,página 41glossário,1
+846,local avaliação,1
+847,programas implementados,1
+848,locais413 1percentual,1
+849,sociaiscomunidades locais413,1
+850,oferecidospágina disclosures,1
+851,42investimento semente,1
+852,serviços oferecidospágina,1
+853,indiretos 1desenvolvimento,1
+854,econômicos indiretos,1
+855,5impactos econômicos,1
+856,página 5impactos,1
+857,distribuído página,1
+858,direto gerado,1
+859,1valor econômico,1
+860,econômico 1valor,1
+861,específicodisclosures econômicos,1
+862,10conteúdo específicodisclosures,1
+863,2ixh5mc desigualdade,1
+864,gênero ﬁdesde,1
+865,ﬁdesde cedo,1
+866,cedo meninos,1
+867,3d6katp 42investimento,1
+868,ly 3d6katp,1
+869,informações consulte,1
+870,integração empresa,1
+871,país difundindo,1
+872,trabalho enquanto,1
+873,combinando formação,1
+874,empresa combinando,1
+875,instituição formadora,1
+876,pode durar,1
+877,contratar jovens,1
+878,devem contratar,1
+879,porte devem,1
+880,grande porte,1
+881,lei afirma,1
+882,2x741nb empreendedorismo,1
+883,ly 2x741nb,1
+884,precisamos construir,1
+885,mudar precisamos,1
+886,tornam vítimas,1
+887,consequências sérias,1
+888,podem fazer,1
+889,meninas aprendem,1
+890,tentar mapear,1
+891,processos inseridos,1
+892,planeja futuramente,1
+893,gomespaula picinini,1
+894,ferlauto diretora,1
+895,moller ferlauto,1
+896,eduardo moller,1
+897,executivo eduardo,1
+898,diretor executivo,1
+899,executiva diretor,1
+900,diretoria executiva,1
+901,herrmann diretoria,1
+902,bier herrmann,1
+903,thomas bier,1
+904,picinini thomas,1
+905,beltrão gomespaula,1
+906,fabiana taccola,1
+907,laurence beltrão,1
+908,faccio laurence,1
+909,fabio faccio,1
+910,costa fabio,1
+911,deliberativo clarice,1
+912,18conselho deliberativo,1
+913,gri 18conselho,1
+914,45expediente gri,1
+915,2x2esgn 45expediente,1
+916,ly 2x2esgn,1
+917,macarthur foundation,1
+918,marketing fabiana,1
+919,taccola diretor,1
+920,melhor identificar,1
+921,zavagna gralha,1
+922,créditos ricca,1
+923,wengrover créditos,1
+924,ceccarelli wengrover,1
+925,leonardo ceccarelli,1
+926,suplente leonardo,1
+927,monticelli suplente,1
+928,gilberto monticelli,1
+929,sanvicente gilberto,1
+930,carolina sanvicente,1
+931,suplente carolina,1
+932,gralha suplente,1
+933,michel zavagna,1
+934,diretor administrativo,1
+935,branchi michel,1
+936,roberto branchi,1
+937,suplente roberto,1
+938,grechi suplente,1
+939,zaffari grechi,1
+940,ricardo zaffari,1
+941,fiscal ricardo,1
+942,agliardi conselho,1
+943,luciano agliardi,1
+944,financeiro luciano,1
+945,administrativo financeiro,1
+946,ellen macarthur,1
+947,economia circular,1
+948,ecycle conheça,1
+949,realmente começam,1
+950,confiança criativaﬂ,1
+951,ideias voarem,1
+952,deveriam deixar,1
+953,pessoas deveriam,1
+954,naturalmente criativas,1
+955,pessoas percebendo,1
+956,termos pessoas,1
+957,dom dado,1
+958,ﬁnão criativosﬂ,1
+959,pessoas dividirem,1
+960,realmente ótimo,1
+961,ganham confiança,1
+962,ﬂ ecycle,1
+963,pessoas ganham,1
+964,criativa ﬁquando,1
+965,2qrugvi confiança,1
+966,ly 2qrugvi,1
+967,mini curso,1
+968,endeavor assista,1
+969,ﬂ endeavor,1
+970,las ﬂ,1
+971,transpô las,1
+972,alternativas viáveis,1
+973,gerar alternativas,1
+974,criativaﬂ david,1
+975,david kelley,1
+976,kelley professor,1
+977,stanford assista,1
+978,original ﬂ,1
+979,qualidade igual,1
+980,normalmente possui,1
+981,upcycle normalmente,1
+982,melhor propósito,1
+983,criatividade dar,1
+984,2qo8e69 upcycling,1
+985,ly 2qo8e69,1
+986,agroecologia saiba,1
+987,agricultura familiar,1
+988,pta agricultura,1
+989,consciência ecológica,1
+990,alimentos sadios,1
+991,manejo agroecológico,1
+992,ﬁo cultivo,1
+993,44algodão agroecológico,1
+994,2nzapes 44algodão,1
+995,ly 2nzapes,1
+996,talk https,1
+997,ted talk,1
+998,kelley falar,1
+999,davd kelley,1
+1000,conceito davd,1
+1001,página 10conteúdo,1
+1002,página 3evolução,1
+1003,2gestão sobre,1
+1004,executar interpretar,1
+1005,apropriavam disso,1
+1006,jovens acompanham,1
+1007,tecnologia necessária,1
+1008,conseguimos investir,1
+1009,única instituição,1
+1010,peixoto ﬁsomos,1
+1011,liliane mendonça,1
+1012,digital liliane,1
+1013,fabricação digital,1
+1014,robótica programação,1
+1015,trabalham robótica,1
+1016,desenvolver executar,1
+1017,mantendo crença,1
+1018,planejar desenvolver,1
+1019,estarão aptas,1
+1020,participantes estarão,1
+1021,colaboração criatividade,1
+1022,profissionais inovadores,1
+1023,digitais além,1
+1024,tecnologias digitais,1
+1025,digital proporcionando,1
+1026,cultura digital,1
+1027,iniciativa facilita,1
+1028,beneficiados desenvolvido,1
+1029,realidade mantendo,1
+1030,mulher historicamente,1
+1031,página 2gestão,1
+1032,desenvolveu dois,1
+1033,esportivo vinicius,1
+1034,participantes uniformes,1
+1035,duas vezes,1
+1036,treinos duas,1
+1037,capoeira respectivamente,1
+1038,aulas gratuitas,1
+1039,adolescentes aulas,1
+1040,melhor oferecem,1
+1041,alguma escola,1
+1042,regularmente matriculados,1
+1043,anos regularmente,1
+1044,aespe desenvolveu,1
+1045,historicamente sempre,1
+1046,modalidades promovendo,1
+1047,diferentes modalidades,1
+1048,jesus desenvolve,1
+1049,instituições atuantes,1
+1050,esporte aespe,1
+1051,pró esporte,1
+1052,cultural pró,1
+1053,antigo sonho,1
+1054,oportunizar financeiramente,1
+1055,podemos oportunizar,1
+1056,agora podemos,1
+1057,ﬁas donas,1
+1058,florianópolis sc,1
+1059,grande demanda,1
+1060,faço parte,1
+1061,espécies amazônicas,1
+1062,agentes transformadoras,1
+1063,rio negro,1
+1064,sustentável rds,1
+1065,tumbira localizada,1
+1066,ﬁa preservação,1
+1067,amazônia criamos,1
+1068,associação zagaia,1
+1069,34empodera tumbira,1
+1070,ﬂ 34empodera,1
+1071,rede varejista,1
+1072,assim sei,1
+1073,partilha pensando,1
+1074,massaﬂ aqui,1
+1075,teórica quanto,1
+1076,pesquisa teórica,1
+1077,dois tipos,1
+1078,fiz dois,1
+1079,jovem abre,1
+1080,mudar financeiramente,1
+1081,podemos mudar,1
+1082,pescar ajudou,1
+1083,cursar faculdade,1
+1084,futuramente cursar,1
+1085,guia sobre,1
+1086,plantas estudadas,1
+1087,consultas futuras,1
+1088,lideranças femininas,1
+1089,enxergada ﬂ,1
+1090,existe dentro,1
+1091,possam demonstrar,1
+1092,dar abertura,1
+1093,si mesmas,1
+1094,poderem falar,1
+1095,parte desse,1
+1096,importância maravilhosa,1
+1097,garrido presidente,1
+1098,35izolena garrido,1
+1099,ambiente captações,1
+1100,meio ambiente,1
+1101,materiais alternativos,1
+1102,diferentes atributos,1
+1103,brasileira ameaçada,1
+1104,flora brasileira,1
+1105,peças inspiradas,1
+1106,traz peças,1
+1107,atributos sustentáveis,1
+1108,coleção especial,1
+1109,região estimulando,1
+1110,tumbira favorecendo,1
+1111,femininas locais,1
+1112,silva consultor,1
+1113,esportivos ﬁcom,1
+1114,estruturar totalmente,1
+1115,engajar stakeholders,1
+1116,los entendemos,1
+1117,abordá los,1
+1118,medidas adotadas,1
+1119,levantados durante,1
+1120,tópicos levantados,1
+1121,44principais tópicos,1
+1122,anuais 44principais,1
+1123,diretoria mensais,1
+1124,anuais reuniões,1
+1125,associados anuais,1
+1126,ano assembleias,1
+1127,43abordagem adotada,1
+1128,incluindo comitês,1
+1129,interface direta,1
+1130,time interface,1
+1131,negociação coletiva,1
+1132,empregados cobertos,1
+1133,geral 41percentual,1
+1134,maneira geral,1
+1135,avança juntas,1
+1136,todas avança,1
+1137,organização governamentais,1
+1138,stakeholder102 40lista,1
+1139,página 45engajamento,1
+1140,dois eixos,1
+1141,quaisquer reformulações,1
+1142,informações fornecidas,1
+1143,relatórios anterioresnão,1
+1144,gestão103 1explicação,1
+1145,externa abordagem,1
+1146,auditoria externa,1
+1147,relatório anual,1
+1148,conteúdo deste,1
+1149,kpmg entretanto,1
+1150,demonstrações financeiras,1
+1151,56as demonstrações,1
+1152,página 56as,1
+1153,55índice gri,1
+1154,essencial 55índice,1
+1155,gri essencial,1
+1156,standards gri,1
+1157,br 54premissas,1
+1158,sobre dúvidas,1
+1159,relatóriosanual 53dados,1
+1160,recente2018 52ciclo,1
+1161,relatório anterior,1
+1162,relatório 1º,1
+1163,50período coberto,1
+1164,tópicos abordadosnão,1
+1165,materiais limite,1
+1166,reformulações refere,1
+1167,comitês página,1
+1168,governança incluindo,1
+1169,totalmente dois,1
+1170,direta 1nome,1
+1171,6mercados atendidos,1
+1172,página 6mercados,1
+1173,propriedade página,1
+1174,natureza jurídica,1
+1175,organização opera,1
+1176,rs 4número,1
+1177,sedeporto alegre,1
+1178,página 3localização,1
+1179,marcas produtos,1
+1180,atividades marcas,1
+1181,2principais atividades,1
+1182,resposta direta,1
+1183,governança 18estrutura,1
+1184,pg resposta,1
+1185,geralreferência pg,1
+1186,38conteúdo geralreferência,1
+1187,articulações iniciais,1
+1188,eventos comemorativos,1
+1189,quadra esportiva,1
+1190,possível revitalizar,1
+1191,esportivos uniformes,1
+1192,adquirindo materiais,1
+1193,humanos adquirindo,1
+1194,contratando recursos,1
+1195,página 7porte,1
+1196,colaboradores 9descrição,1
+1197,companhiaos principais,1
+1198,categorias administrativas,1
+1199,princípios padrões,1
+1200,16valores princípios,1
+1201,integridade102 16valores,1
+1202,gri 39ética,1
+1203,10índice gri,1
+1204,página 10índice,1
+1205,página 15descrição,1
+1206,decisão sobre,1
+1207,maior poder,1
+1208,6estratégia 14declaração,1
+1209,defesapágina 6estratégia,1
+1210,nacionais internacionais,1
+1211,organismos nacionais,1
+1212,13principais participações,1
+1213,página 13principais,1
+1214,endossa página,1
+1215,organização subscreve,1
+1216,desenvolvidas externamente,1
+1217,iniciativas desenvolvidas,1
+1218,12cartas princípios,1
+1219,período coberto,1
+1220,10principais mudanças,1
+1221,transportes 10principais,1
+1222,agência passasse,1
+1223,funcriança fundo,1
+1224,oferecemos apoio,1
+1225,norte,1
+1226,autossubsistência,1
+1227,serve,1
+1228,planeta,1
+1229,terra,1
+1230,trato,1
+1231,utilizem,1
+1232,algodão,1
+1233,cultivo,1
+1234,aperfeiçoar,1
+1235,autonomia,1
+1236,iniciamos,1
+1237,preparação,1
+1238,disponibilização,1
+1239,costureiras,1
+1240,casa,1
+1241,integrantes,1
+1242,conflitos,1
+1243,ritmo,1
+1244,manter,1
+1245,ensinaram,1
+1246,ninho,1
+1247,conheci,1
+1248,segurança,1
+1249,plantio,1
+1250,inspirou,1
+1251,comportamentais,1
+1252,interiorizadas,1
+1253,localidades,1
+1254,recebeu,1
+1255,venezuela,1
+1256,fronteira,1
+1257,inauguramos,1
+1258,modelagem,1
+1259,rotina,1
+1260,funciona,1
+1261,camicado,1
+1262,recomeçar,1
+1263,manuseio,1
+1264,dificuldades,1
+1265,viverem,1
+1266,privadas,1
+1267,chegam,1
+1268,refugiados,1
+1269,agricultor,1
+1270,março,1
+1271,gerado,1
+1272,especial,1
+1273,kg,1
+1274,passaram,1
+1275,atendido,1
+1276,profissionais,1
+1277,produtivo,1
+1278,reuso,1
+1279,jeans,1
+1280,sacolas,1
+1281,desenvolveram,1
+1282,próximo,1
+1283,revertida,1
+1284,commerce,1
+1285,sabonete,1
+1286,embalagens,1
+1287,transformou,1
+1288,tecidos,1
+1289,máquinas,1
+1290,sobras,1
+1291,convênio,1
+1292,roupas,1
+1293,consertos,1
+1294,reforma,1
+1295,carteira,1
+1296,possibilitou,1
+1297,microempresa,1
+1298,verem,1
+1299,olhares,1
+1300,peças,1
+1301,entregues,1
+1302,brindes,1
+1303,paulo,1
+1304,garantir,1
+1305,finalidade,1
+1306,cooperativa,1
+1307,repensarem,1
+1308,firma,1
+1309,assim,1
+1310,manutenção,1
+1311,crescimento,1
+1312,espalhar,1
+1313,itens,1
+1314,livros,1
+1315,troca,1
+1316,propõe,1
+1317,armário,1
+1318,jornada,1
+1319,presevar,1
+1320,defeitos,1
+1321,reinserção,1
+1322,descartadas,1
+1323,valorização,1
+1324,pensando,1
+1325,exército,1
+1326,notarem,1
+1327,garantindo,1
+1328,expuseram,1
+1329,academia,1
+1330,quais,1
+1331,instrumento,1
+1332,eja,1
+1333,alunos,1
+1334,comunitário,1
+1335,mês,1
+1336,celebração,1
+1337,marcado,1
+1338,domingo,1
+1339,visitantes,1
+1340,concorreram,1
+1341,criatividade,1
+1342,reconhecer,1
+1343,intenções,1
+1344,avaliarem,1
+1345,convidados,1
+1346,feira,1
+1347,realizada,1
+1348,junho,1
+1349,palco,1
+1350,prefeitura,1
+1351,etapa,1
+1352,passarela,1
+1353,interiorização,1
+1354,formaram,1
+1355,conclusão,1
+1356,iniciar,1
+1357,participam,1
+1358,protagonistas,1
+1359,autoconhecimento,1
+1360,vivem,1
+1361,aprendemos,1
+1362,relações,1
+1363,mediaram,1
+1364,coletividade,1
+1365,jeito,1
+1366,contação,1
+1367,fazia,1
+1368,mães,1
+1369,investida,1
+1370,reserva,1
+1371,geradora,1
+1372,imagens,1
+1373,fátima,1
+1374,senhora,1
+1375,geladeiroteca,1
+1376,ator,1
+1377,secretaria,1
+1378,talentos,1
+1379,show,1
+1380,quanto,1
+1381,vitrine,1
+1382,cnur,1
+1383,possa,1
+1384,sensibilizar,1
+1385,prol,1
+1386,ponte,1
+1387,estabelecer,1
+1388,compartilhar,1
+1389,janeiro,1
+1390,pertenço,1
+1391,companheiros,1
+1392,maio,1
+1393,tanto,1
+1394,respeito,1
+1395,graças,1
+1396,sabia,1
+1397,conhecer,1
+1398,maravilhosa,1
+1399,conseguir,1
+1400,trouxe,1
+1401,encontravam,1
+1402,abrigos,1
+1403,tende,1
+1404,contrário,1
+1405,pensa,1
+1406,grau,1
+1407,ocupar,1
+1408,idealizadores,1
+1409,ponto,1
+1410,sucesso,1
+1411,semente,1
+1412,abertura,1
+1413,mutirão,1
+1414,evolução,1
+1415,estruturação,1
+1416,baseados,1
+1417,articulador,1
+1418,possam,1
+1419,laboratório,1
+1420,favorecendo,1
+1421,existentes,1
+1422,senso,1
+1423,educacional,1
+1424,associações,1
+1425,consolidação,1
+1426,abril,1
+1427,vizinha,1
+1428,acolher,1
+1429,construindo,1
+1430,disso oferecemos,1
+1431,desafios,1
+1432,contribuição,1
+1433,signatária,1
+1434,cumprimento,1
+1435,conjunto,1
+1436,ods,1
+1437,agenda,1
+1438,contribuírem,1
+1439,estratégias,1
+1440,alinharem,1
+1441,compromissada,1
+1442,distribuição,1
+1443,implementação,1
+1444,disponível,1
+1445,resolução,1
+1446,mensurada,1
+1447,estimativa,1
+1448,vinculados,1
+1449,terceiros,1
+1450,responsável,1
+1451,interesse,1
+1452,autossuficiência,1
+1453,ampliamos,1
+1454,apoiamos,1
+1455,plano,1
+1456,chamado,1
+1457,autoconfiança,1
+1458,9arrecadação,1
+1459,apoiadas,1
+1460,lucros,1
+1461,revertem,1
+1462,causa,1
+1463,engajar,1
+1464,movimento,1
+1465,convite,1
+1466,resultado,1
+1467,resgatem,1
+1468,promovendo,1
+1469,anual,1
+1470,obra,1
+1471,mão,1
+1472,cárcere,1
+1473,considere,1
+1474,treinamentos,1
+1475,alcançar,1
+1476,maneira,1
+1477,ﬁo,1
+1478,gerente,1
+1479,refugiadas,1
+1480,conexão,1
+1481,ampliando,1
+1482,fortalecimento,1
+1483,convido,1
+1484,corporações,1
+1485,primeira,1
+1486,baseamos,1
+1487,superação,1
+1488,inspiração,1
+1489,menos,1
+1490,atividades,1
+1491,relatório,1
+1492,transformaram,1
+1493,percorrer,1
+1494,país,1
+1495,então,1
+1496,organizações,1
+1497,multiplique,1
+1498,financeira,1
+1499,feminino,1
+1500,emancipação,1
+1501,contribuiu,1
+1502,perceber,1
+1503,orgulho,1
+1504,hoje,1
+1505,alavancar,1
+1506,buscando,1
+1507,trazer,1
+1508,ainda,1
+1509,consistente,1
+1510,potencializando,1
+1511,mantenedora,1
+1512,atualização,1
+1513,empregabilidade,1
+1514,foco,1
+1515,4o,1
+1516,atenção,1
+1517,enquadrem,1
+1518,destinados,1
+1519,incentivo,1
+1520,łrecursos,1
+1521,apresentam,1
+1522,informação,1
+1523,glossário,1
+1524,leitor,1
+1525,levam,1
+1526,apresentamos,1
+1527,saber,1
+1528,referencia,1
+1529,encontra,1
+1530,transparente,1
+1531,captação,1
+1532,ﬁcampanha,1
+1533,lacuna,1
+1534,profissionalização,1
+1535,propósito,1
+1536,pode,1
+1537,exemplo,1
+1538,produtividade,1
+1539,contratação,1
+1540,requisitos,1
+1541,formadas,1
+1542,indústria,1
+1543,aprendizagem,1
+1544,especialista,1
+1545,ampliação,1
+1546,prova,1
+1547,elos,1
+1548,algum,1
+1549,multiplicação,1
+1550,criando,1
+1551,perenidade,1
+1552,contribuir,1
+1553,influenciam,1
+1554,culturais,1
+1555,características,1
+1556,transformem,1
+1557,gostariam,1
+1558,retratados,1
+1559,euﬂ,1
+1560,fundação,1
+1561,existe,1
+1562,violência,1
+1563,crime,1
+1564,estereótipo,1
+1565,visa,1
+1566,ﬁsomos,1
+1567,funcionamento,1
+1568,seleção,1
+1569,cadastrados,1
+1570,grande,1
+1571,após,1
+1572,maior,1
+1573,capacitações,1
+1574,imersões,1
+1575,aproximando,1
+1576,diversidade,1
+1577,ampliar,1
+1578,direto,1
+1579,conquista,1
+1580,escritório,1
+1581,montagem,1
+1582,educação,1
+1583,fomentar,1
+1584,investir,1
+1585,bem,1
+1586,diferentes,1
+1587,nesse,1
+1588,marketing,1
+1589,suprimentos,1
+1590,estabelece,1
+1591,independência,1
+1592,rendimentos,1
+1593,aumento,1
+1594,envolve,1
+1595,localizada,1
+1596,incentivados,1
+1597,promovem,1
+1598,gerar,1
+1599,portfólio,1
+1600,abordando,1
+1601,lançamos,1
+1602,debate,1
+1603,intensificar,1
+1604,igualitária,1
+1605,consumo,1
+1606,apresentar,1
+1607,camiseta,1
+1608,isenta,1
+1609,proporção,1
+1610,chefes,1
+1611,domicílio,1
+1612,assumem,1
+1613,possível,1
+1614,assessorias,1
+1615,habilidades,1
+1616,performance,1
+1617,fator,1
+1618,proporcionar,1
+1619,homens,1
+1620,aproximadamente,1
+1621,empréstimos,1
+1622,própria,1
+1623,abrem,1
+1624,planejar,1
+1625,capazes,1
+1626,sentem,1
+1627,apenas,1
+1628,refere,1
+1629,enfrentam,1
+1630,condição,1
+1631,supera,1
+1632,percentual,1
+1633,receita,1
+1634,mutirões,1
+1635,atuam,1
+1636,comportamental,1
+1637,carvalho gerente,1
+1638,œ weps,1
+1639,elementos centrais,1
+1640,buscando alcançar,1
+1641,organização internacional,1
+1642,união europeia,1
+1643,natural ﬂ,1
+1644,maneira natural,1
+1645,vem contribuindo,1
+1646,ações portanto,1
+1647,objetivo principal,1
+1648,7adriana carvalho,1
+1649,women empowerment,1
+1650,página 7adriana,1
+1651,nota estratégica,1
+1652,apoiamos financeiramente,1
+1653,contrapartida apoiamos,1
+1654,ações internas,1
+1655,apoia tecnicamente,1
+1656,bons negócios,1
+1657,significa bons,1
+1658,gênero significa,1
+1659,gri 13reforçando,1
+1660,weps women,1
+1661,empowerment principles,1
+1662,movimento passa,1
+1663,comunicações voltadas,1
+1664,quatro dias,1
+1665,previa durante,1
+1666,juntas ressignifica,1
+1667,desta transformação,1
+1668,faça parte,1
+1669,mostrou histórias,1
+1670,youtube mostrou,1
+1671,babi thomas,1
+1672,jornalista babi,1
+1673,websérie apresentada,1
+1674,lançando produtos,1
+1675,orientar parcerias,1
+1676,mulher lançando,1
+1677,busca conscientizar,1
+1678,movimento busca,1
+1679,serem investidos,1
+1680,8todas avançam,1
+1681,condições básicas,1
+1682,gerem autoconfiança,1
+1683,prisionais promovendo,1
+1684,espaços prisionais,1
+1685,contratam mão,1
+1686,meninasﬂ gri,1
+1687,ods ﬁalcançar,1
+1688,ações focadas,1
+1689,tributárias estimativa,1
+1690,em75projetos apoiados,1
+1691,milhõesinvestidos em75projetos,1
+1692,4r milhõesinvestidos,1
+1693,gri 4r,1
+1694,financeiro segmentação,1
+1695,desembolso financeiro,1
+1696,caso ocorresse,1
+1697,montante equivalente,1
+1698,cfc nº,1
+1699,resolução cfc,1
+1700,despesas tributárias,1
+1701,esforço conjunto,1
+1702,despesas bancárias,1
+1703,viagens serviços,1
+1704,encargos despesas,1
+1705,remuneração benefícios,1
+1706,administrativas remuneração,1
+1707,oscip responsável,1
+1708,público oscip,1
+1709,interesse público,1
+1710,sociedade civil,1
+1711,gri 16o,1
+1712,apoiados alcançando11,1
+1713,alcançando11 200pessoas,1
+1714,200pessoas beneficiadas,1
+1715,voluntário prscsprjmgbarramrs10,1
+1716,agenda composta,1
+1717,onu propôs,1
+1718,convida empresas,1
+1719,superar desafios,1
+1720,beneficiados1 6colaboração,1
+1721,beneficiadosr milhões41,1
+1722,201820172019r milhões34,1
+1723,fiscal 201820172019r,1
+1724,beneficiadas distribuição,1
+1725,51517534234128201820172019pessoas beneficiadas,1
+1726,apoiados 51517534234128201820172019pessoas,1
+1727,pronaspronon201820172019projetos apoiados,1
+1728,esporte pronaspronon201820172019projetos,1
+1729,década,1
+1730,fiscal funcriança,1
+1731,9com recursos,1
+1732,milhões 9com,1
+1733,5431total investido,1
+1734,privado 5431total,1
+1735,3investimento fiscal,1
+1736,prscsprjmgbarramrs10 3investimento,1
+1737,venda líquida,1
+1738,ações periódicas,1
+1739,aumentaram,1
+1740,beija flor,1
+1741,controles financeiros,1
+1742,cadeia produtiva,1
+1743,saberes necessários,1
+1744,diferentes saberes,1
+1745,sp meses,1
+1746,jacareí sp,1
+1747,petrópolis rj,1
+1748,nova friburgo,1
+1749,sc nova,1
+1750,pomerode sc,1
+1751,rede beija,1
+1752,upcycling eł,1
+1753,indústria sesi,1
+1754,industrial senai,1
+1755,aprendizagem industrial,1
+1756,agustina comas,1
+1757,upcycling agustina,1
+1758,aliança empreendedora,1
+1759,criação ampliação,1
+1760,gri 1empreendedoras,1
+1761,positivos 13geração,1
+1762,transforma vidas,1
+1763,precificação vendas,1
+1764,eł competências,1
+1765,produtos alinhados,1
+1766,perfis alguns,1
+1767,15além disso,1
+1768,ambiental 15além,1
+1769,educação ambiental,1
+1770,cea centro,1
+1771,anos fundou,1
+1772,maior líder,1
+1773,negócio netos,1
+1774,empreendedores sócios,1
+1775,mentoria junto,1
+1776,fotos deste,1
+1777,modelos fotográficos,1
+1778,liderança inteligência,1
+1779,oportunidade àqueles,1
+1780,oferecendo oportunidade,1
+1781,dados oferecendo,1
+1782,atuar cadastrando,1
+1783,agência começou,1
+1784,efetiva inclusão,1
+1785,parcerias somadas,1
+1786,independência financeira,1
+1787,emocional cooperação,1
+1788,inteligência emocional,1
+1789,buscamos contribuir,1
+1790,possamos direcionar,1
+1791,constantemente conectados,1
+1792,sistema prisional,1
+1793,busque apoiar,1
+1794,empresarial busque,1
+1795,sede corporativa,1
+1796,complexo bom,1
+1797,empreendedorismo protagonizado,1
+1798,consistente portfólio,1
+1799,complementares gri,1
+1800,ação conectadas,1
+1801,duas frentes,1
+1802,prisional 10cenário,1
+1803,seguintes temas,1
+1804,mantemos constantemente,1
+1805,assuntos relacionados,1
+1806,aprofundam assuntos,1
+1807,três episódios,1
+1808,movimento lançamos,1
+1809,cada compra,1
+1810,agregando valor,1
+1811,consumo agregando,1
+1812,queremos apresentar,1
+1813,conscientização queremos,1
+1814,juntas arrecadou,1
+1815,visto avanços,1
+1816,nesse cenário,1
+1817,casas passou,1
+1818,cônjuge apesar,1
+1819,sociais culturais,1
+1820,características sociais,1
+1821,vida considerando,1
+1822,preciso fomentar,1
+1823,interessadas bem,1
+1824,negócios honestos,1
+1825,empreendedorismo depende,1
+1826,boa performance,1
+1827,fator fundamental,1
+1828,estabelecimento inicial,1
+1829,mesma maneira,1
+1830,competências necessárias,1
+1831,diante disso,1
+1832,sebrae diante,1
+1833,média liberada,1
+1834,empresárias acessam,1
+1835,financeira segundo,1
+1836,própria gestão,1
+1837,sentem seguras,1
+1838,desafios adicionais,1
+1839,apesar disso,1
+1840,apoiados consolidando,1
+1841,oportunidades somado,1
+1842,proporcionando condições,1
+1843,cargo,1
+1844,lista,1
+1845,consequências,1
+1846,48explicação,1
+1847,tópicos,1
+1848,ocorre,1
+1849,contínuo,1
+1850,frequência,1
+1851,éticaaderimos,1
+1852,normas,1
+1853,relevância,1
+1854,detentor,1
+1855,dezembro,1
+1856,precauçãonão,1
+1857,11explicação,1
+1858,5tipo,1
+1859,organizaçãoinstituto,1
+1860,patrocínio,1
+1861,distribuem,1
+1862,vôlei,1
+1863,futsal,1
+1864,incentivar,1
+1865,37apoio,1
+1866,limite,1
+1867,51data,1
+1868,orientado cada,1
+1869,precisam,1
+1870,ministério,1
+1871,manual,1
+1872,valores,1
+1873,empresários,1
+1874,contrato,1
+1875,sexo,1
+1876,determinadas,1
+1877,acreditar,1
+1878,levados,1
+1879,podem,1
+1880,afetam,1
+1881,lojasrenner,1
+1882,opinião,1
+1883,escutassem,1
+1884,imagine,1
+1885,orientam,1
+1886,pouco,1
+1887,seção,1
+1888,infraestrutura,1
+1889,abordagem,1
+1890,submetido,1
+1891,auditadas,1
+1892,equidade,1
+1893,estruturalmente,1
+1894,cortinas,1
+1895,utilizados,1
+1896,positivo,1
+1897,reforçar,1
+1898,pesquisadores,1
+1899,repasse,1
+1900,noção,1
+1901,enxergam,1
+1902,autoestima,1
+1903,resgatar,1
+1904,imersão,1
+1905,executa,1
+1906,femininoﬂ,1
+1907,atrás,1
+1908,preservação,1
+1909,perto,1
+1910,verdade,1
+1911,garante,1
+1912,dizem,1
+1913,sinto,1
+1914,ﬁbotar,1
+1915,pesquisa,1
+1916,ingressou,1
+1917,jovem,1
+1918,turismo,1
+1919,observação,1
+1920,natureza,1
+1921,participando,1
+1922,trabalha,1
+1923,expressão,1
+1924,voltado,1
+1925,robóticaﬂ,1
+1926,executados,1
+1927,selecionados,1
+1928,reversão,1
+1929,adolescência,1
+1930,infância,1
+1931,aporte,1
+1932,selecionar,1
+1933,inovação,1
+1934,ribeirinhas,1
+1935,tudo,1
+1936,acima,1
+1937,acreditarem,1
+1938,destacarem,1
+1939,diminuem,1
+1940,adoção,1
+1941,extinção,1
+1942,reflora,1
+1943,saíram,1
+1944,tirar,1
+1945,buscados,1
+1946,publicamos anualmente,1
+1947,indicadores aqui,1
+1948,índice gri,1
+1949,relato ainda,1
+1950,buscando trazer,1
+1951,initiative gri,1
+1952,reporting initiative,1
+1953,global reporting,1
+1954,11ª publicação,1
+1955,neste relatório,1
+1956,traz histórias,1
+1957,ano completo,1
+1958,engaje empreendimentos,1
+1959,3introdução desde,1
+1960,costa conselho,1
+1961,leitura clarice,1
+1962,boa leitura,1
+1963,14uma boa,1
+1964,gri 14uma,1
+1965,dando sentido,1
+1966,famílias dando,1
+1967,histórias inspiradoras,1
+1968,tecem histórias,1
+1969,aqui abordados,1
+1970,gri acesse,1
+1971,acesse https,1
+1972,ly 3byi6bl,1
+1973,buscamos aproximar,1
+1974,missão buscamos,1
+1975,queremos fazer,1
+1976,deficiência próprio,1
+1977,pronas œ,1
+1978,atenção oncológica,1
+1979,pronon œ,1
+1980,dedução fiscal,1
+1981,recursos provenientes,1
+1982,fiscal łincentivado,1
+1983,ali captações,1
+1984,investido ali,1
+1985,dois ícones,1
+1986,encontrará dois,1
+1987,apoiados pág,1
+1988,fique atento,1
+1989,têxtil fique,1
+1990,quer aprender,1
+1991,conteúdo qualificado,1
+1992,destaque visual,1
+1993,conteúdo palavras,1
+1994,empreendimentos organizações,1
+1995,trajetória evolua,1
+1996,site,1
+1997,colaborativa,1
+1998,barreiras,1
+1999,completa,1
+2000,obter,1
+2001,intuito,1
+2002,indivíduos,1
+2003,mesclar,1
+2004,consiste,1
+2005,envolvidos,1
+2006,colocadas,1
+2007,perspectiva,1
+2008,corrigir,1
+2009,setor desejamos,1
+2010,decisões,1
+2011,avaliar,1
+2012,humildade,1
+2013,reflexão,1
+2014,através,1
+2015,deputados,1
+2016,câmara,1
+2017,justa,1
+2018,almeja,1
+2019,fomentem,1
+2020,ﬁcriativosﬂ,1
+2021,deus,1
+2022,determinado,1
+2023,universidade,1
+2024,emancipação financeira,1
+2025,gênero principalmente,1
+2026,avançar ano,1
+2027,possibilitado avançar,1
+2028,princípios universais,1
+2029,instituições comprometidas,1
+2030,cadeia seguimos,1
+2031,historicamente marca,1
+2032,transformadoras sabemos,1
+2033,administração atuamos,1
+2034,item,1
+2035,composição,1
+2036,degradar,1
+2037,descartado,1
+2038,agroecologia,1
+2039,oferta,1
+2040,diversificação,1
+2041,melhoria,1
+2042,associa,1
+2043,usa,1
+2044,criador,1
+2045,ricca sustentabilidade,1

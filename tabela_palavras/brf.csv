@@ -1,1334 +1,1436 @@
 ,palavras,quantidade
-0,gri,90
+0,gri,65
 1,segurança,27
-2,mercado,25
-3,negócio,21
-4,gestão,20
-5,empregados,20
-6,produto,18
-7,resultado,18
-8,alimentos,17
+2,mercado,19
+3,negócio,18
+4,gestão,16
+5,produto,16
+6,alimentos,15
+7,divulgação página,15
+8,página url,15
 9,standard divulgação,15
 10,gri standard,15
-11,divulgação página,15
-12,qualidade,15
-13,url omissão,15
-14,liderança,15
-15,marca,15
-16,página url,15
-17,impacto,14
-18,integridade,14
-19,operações continuadas,13
-20,energia,13
-21,política,13
-22,global,13
-23,risco,13
-24,inovação,12
-25,milhões,12
-26,região,12
-27,saúde,12
-28,todo,12
-29,œ,11
-30,taxa,11
-31,materiais gri,11
-32,tópicos materiais,11
-33,æï æï,11
-34,governança,11
-35,companhia,11
-36,investimento,11
-37,compromisso,11
-38,categoria,10
-39,fornecedores,10
-40,ano,10
-41,processo,10
-42,gênero,10
-43,projeto,10
-44,vice presidente,10
-45,redução,10
-46,bem estar,9
-47,emissões,9
-48,fonte,9
-49,uso,9
-50,membro independente,9
-51,cadeia,9
-52,estratégia,9
-53,indústria,9
-54,cultura,9
-55,novo,9
-56,econômico,8
-57,empresa,8
-58,excelência,8
-59,foco,8
-60,parceiros,8
-61,milhões operações,8
-62,prática,8
-63,valor,8
-64,tipo,8
-65,essência,8
-66,número,8
-67,água,7
-68,volume,7
-69,compras,7
-70,trabalho,7
-71,cadeia produtiva,7
-72,treinamento,7
-73,social,7
-74,frango,7
-75,consumo,7
-76,geração,7
-77,œ toneladas,7
-78,capital,7
-79,comunidade,7
-80,diretor vice,7
-81,sistema,7
-82,logística,7
-83,time,7
-84,oportunidades,7
-85,gj œ,7
-86,œ percentual,7
-87,ebitda ajustado,7
-88,modelo,7
-89,organização,6
-90,tema,6
-91,categoria funcional,6
-92,meta,6
-93,ética,6
-94,unidades,6
-95,internacionais,6
-96,œ gigajoule,6
-97,nºtaxa nºtaxa,6
-98,produção,6
-99,cliente,6
-100,market share,6
-101,segmento,6
-102,anosacima,6
-103,anosentre,6
-104,conformidade,6
-105,colaboradores,6
-106,colaboradores treinados,6
-107,estar animal,6
-108,sustentabilidade,6
-109,toda,6
-110,cada,5
-111,compliance,5
-112,acordo,5
-113,presença,5
-114,países,5
-115,mil,5
-116,além,5
-117,sociais,5
-118,distribuição,5
-119,crescimento,5
-120,transparência,5
-121,aumento,5
-122,internacional,5
-123,conhecimento,5
-124,neste capítulo,5
-125,desempenho,5
-126,mundo,5
-127,produtores integrados,5
-128,criação,5
-129,resíduos,5
-130,lucro bruto,5
-131,reputação,5
-132,consumidor,5
-133,faixa etária,5
-134,201720182019nºtaxa nºtaxa,5
-135,consumidores,5
-136,nºtaxa empregados,5
-137,garantir,5
-138,pessoas,5
-139,região taxas,5
-140,consistência,5
-141,mil colaboradores,5
-142,futuro,5
-143,sadia,5
-144,diversidade,5
-145,forte,5
-146,contratados,5
-147,venda,5
-148,normas,5
-149,tonelada,5
-150,dia,5
-151,suínos,4
-152,entrega,4
-153,relações,4
-154,trabalhamos,4
-155,anticorrupção,4
-156,serviço,4
-157,diversa,4
-158,benefícios,4
-159,campo,4
-160,centro,4
-161,trabalhar,4
-162,propósito,4
-163,recursos,4
-164,comitês,4
-165,financeiro,4
-166,grãos,4
-167,tecnologia,4
-168,estratégico,4
-169,acesso,4
-170,treinados,4
-171,renováveis gj,4
-172,fábrica,4
-173,energia consumida,4
-174,porcentagem,4
-175,receita,4
-176,auditoria,4
-177,produzida,4
-178,órgãos,4
-179,anosabaixo,4
-180,desenvolvimento sustentável,4
-181,meio ambiente,4
-182,qr code,4
-183,índice,4
-184,ambiental,4
-185,ações,4
-186,receita operacional,4
-187,operacional líquida,4
-188,divulgações gerais,4
-189,ods,4
-190,conteúdo,4
-191,relato,4
-192,meio,4
-193,desenvolvimento,4
-194,operacionais,4
-195,humano,4
-196,lei,4
-197,forma,4
-198,margem,4
-199,busca,4
-200,médio,4
-201,parceria,4
-202,outros,4
-203,direto,3
-204,pcdsmulheres,3
-205,estrutura,3
-206,análise,3
-207,deixaram,3
-208,monitorada,3
-209,longo prazo,3
-210,alta,3
-211,recursos hídricos,3
-212,aves,3
-213,monitoramento,3
-214,desafio,3
-215,emprego,3
-216,comercial,3
-217,escopo tco2e,3
-218,co equivalente,3
-219,positivo,3
-220,integrado,3
-221,nível,3
-222,2categoria,3
-223,construir,3
-224,financeira,3
-225,reestruturação,3
-226,indivíduos dentro,3
-227,homensmulheres homensmulheres,3
-228,relação,3
-229,critérios,3
-230,melhoria,3
-231,incluindo,3
-232,líquido,3
-233,cargas,3
-234,parte,3
-235,evolução,3
-236,bilhõesde,3
-237,salto,3
-238,agenda,3
-239,vida,3
-240,líder,3
-241,rotulagem,3
-242,certificações,3
-243,sobre,3
-244,equipe,3
-245,contrato,3
-246,programa,3
-247,socioambientais,3
-248,commodities,3
-249,presente,3
-250,trabalhadores,3
-251,regulamentos,3
-252,dentro,3
-253,avaliação,3
-254,corte,3
-255,destaque,3
-256,conselho,3
-257,matrizes,3
-258,efluentes,3
-259,área,3
-260,planejamento,3
-261,globais,3
-262,posicionamento,3
-263,rede,3
-264,protagonismo,3
-265,food,3
-266,turquia,3
-267,operação,3
-268,saiba,3
-269,transformação,3
-270,portfólio,3
-271,preferência,3
-272,ambientais,3
-273,aspectos,3
-274,valores,3
-275,skus,3
-276,eficiente,3
-277,horas,3
-278,manual,3
-279,b3,3
-280,responsabilidade,3
-281,organizacional,3
-282,carta,3
-283,mensagem,3
-284,alocação,3
-285,iniciativas,3
-286,processados,3
-287,sumário,3
-288,investimos,3
-289,sociedade,3
-290,asseguração,3
-291,créditos,3
-292,cerca,3
-293,melhor,3
-294,tecnológica,2
-295,alavancagem,2
-296,utilização,2
-297,tomada,2
-298,frente,2
-299,caixa,2
-300,otimizar,2
-301,agropecuária,2
-302,faz,2
-303,bruta,2
-304,prêmio,2
-305,halal,2
-306,ferramentas,2
-307,trabalhista,2
-308,principais,2
-309,minimizar,2
-310,objetivo,2
-311,relacionados,2
-312,aprendizagem,2
-313,cinco,2
-314,materialidade,2
-315,técnicas,2
-316,trazendo,2
-317,produzidos,2
-318,muçulmano,2
-319,ingredients,2
-320,agro,2
-321,visão,2
-322,custo,2
-323,atuação,2
-324,seo,2
-325,solar,2
-326,expansão,2
-327,atingir,2
-328,implementação,2
-329,ágeis,2
-330,princípios,2
-331,sintonia,2
-332,diretoria,2
-333,roberto,2
-334,luiz,2
-335,almeida,2
-336,filho,2
-337,service,2
-338,desde,2
-339,vão,2
-340,perenidade,2
-341,administração,2
-342,exportação,2
-343,geral,2
-344,contamos,2
-345,engajamento,2
-346,melhores,2
-347,capacitação,2
-348,receberam,2
-349,consumida,2
-350,autoproduzida,2
-351,prioridades,2
-352,curto,2
-353,eólica,2
-354,produtoras,2
-355,passou,2
-356,olhar,2
-357,comunicação,2
-358,potenciais,2
-359,alto,2
-360,comerciais,2
-361,acesse,2
-362,funcionalempregados,2
-363,brasileiro,2
-364,relacionadas,2
-365,indicadores,2
-366,stakeholders,2
-367,prejuízo,2
-368,pcd,2
-369,201720182019homensmulheres,2
-370,paternidade,2
-371,percentual,2
-372,desligamentostaxa,2
-373,significativas,2
-374,pública,2
-375,educação,2
-376,odsconformidade,2
-377,reporte,2
-378,odsgovernança,2
-379,dados,2
-380,período,2
-381,embalagens,2
-382,kwh,2
-383,renováveis,2
-384,brasileira,2
-385,pacto,2
-386,201720182019abaixo,2
-387,pcdshomens,2
-388,m³,2
-389,exceto,2
-390,introdução,2
-391,licença maternidade,2
-392,diferenciais,2
-393,ambiente,2
-394,anexos,2
-395,capitais,2
-396,bem,2
-397,metros cúbicos,2
-398,carteira,2
-399,matéria prima,2
-400,empresarial ise,2
-401,covid,2
-402,família,2
-403,coordenação,2
-404,elétrica,2
-405,combustíveis,2
-406,habitação,2
-407,reúso,2
-408,externo,2
-409,líquida,2
-410,fp5,2
-411,marketing,2
-412,comércio,2
-413,proteína,2
-414,radar,2
-415,próximos,2
-416,equilíbrio,2
-417,tendências,2
-418,patamar,2
-419,itens,2
-420,construção,2
-421,ásia,2
-422,implantação,2
-423,áfrica,2
-424,desenvolvidos,2
-425,endividamento,2
-426,dívida,2
-427,operações,2
-428,alterações,2
-429,renome,2
-430,externa,2
-431,lares,2
-432,interna,2
-433,reduzir,2
-434,medicamentos,2
-435,perus,2
-436,espécie,2
-437,animais,2
-438,antibióticos,2
-439,fp12,2
-440,aproximadamente,2
-441,fp1,2
-442,formais,2
-443,controle,2
-444,média,2
-445,carreira,2
-446,preferidas,2
-447,turnover,2
-448,digital,2
-449,aderente,2
-450,relatório,2
-451,seguem,2
-452,fortalecer,2
-453,fazemos,2
-454,tempo,2
-455,rações,2
-456,ganhou,2
-457,gerado,2
-458,milhõesde,2
-459,acionistas,2
-460,localidades,2
-461,investidores,2
-462,públicos,2
-463,participação,2
-464,granjas,2
-465,diretrizes,2
-466,práticos,2
-467,nutricional,2
-468,fabris,2
-469,paixão,2
-470,locais,2
-471,geografias,2
-472,produtividade,2
-473,expertise,2
-474,nacionais,2
-475,vez,2
-476,ampliar,2
-477,saudabilidade,2
-478,reconhecidas,2
-479,relacionamento,2
-480,pontos,2
-481,líderes,2
-482,oferecer,2
-483,prazo,2
-484,compramos,2
-485,sempre,2
-486,multiculturalidade,2
-487,alimentação,2
-488,ativos,2
-489,quadro,2
-490,interesse,2
-491,funcional,2
-492,naturais,2
-493,capilaridade,2
-494,demanda,2
-495,energéticos,2
-496,industriais,2
-497,atividades,2
-498,potencial,2
-499,favor,2
-500,compõem,2
-501,objetivo77,1
-502,única,1
-503,qualquer,1
-504,agrícolas,1
-505,asg,1
-506,negociações,1
-507,acima,1
-508,impactam,1
-509,plataforma,1
-510,feitas,1
-511,milhão,1
-512,estado,1
-513,divididos,1
-514,centraliza,1
-515,óleo,1
-516,procurement,1
-517,toneladasanunciamos,1
-518,grandes,1
-519,grupos,1
-520,us,1
-521,trabalham,1
-522,gerenciamos,1
-523,2impactos,1
-524,farelo,1
-525,fornecimento,1
-526,três,1
-527,diversos,1
-528,cláusulas,1
-529,eficiência,1
-530,sap,1
-531,possuem,1
-532,ariba,1
-533,afinada,1
-534,milparceiros,1
-535,score,1
-536,abate,1
-537,monitorados,1
-538,local,1
-539,voluntariado,1
-540,empoderamento,1
-541,sentidos,1
-542,sabores,1
-543,39municípios,1
-544,instituto,1
-545,voluntário,1
-546,bilhões,1
-547,conduzida,1
-548,quantitativa,1
-549,alinhadas,1
-550,qualitativa,1
-551,animal,1
-552,constante,1
-553,governos,1
-554,instituições,1
-555,setor,1
-556,setoriais,1
-557,entidades,1
-558,participamos,1
-559,transformadora,1
-560,força,1
-561,1trabalhamos,1
-562,geral89,1
-563,fornecedor,1
-564,origem,1
-565,internacionalporcentagem,1
-566,comprado,1
-567,fp10,1
-568,fp11,1
-569,estabilidade,1
-570,fp13,1
-571,parâmetros,1
-572,reduzidas,1
-573,bio,1
-574,utilizados,1
-575,hormônios,1
-576,clonados88,1
-577,ração,1
-578,físicas,1
-579,anestésico,1
-580,representa,1
-581,supermercadofábricade,1
-582,inegociável,1
-583,gerenciamento,1
-584,ergonomia,1
-585,transparency,1
-586,milsuínos,1
-587,sensorial,1
-588,linha,1
-589,vai,1
-590,responsável,1
-591,1o,1
-592,atendimento,1
-593,vigentes,1
-594,adaptação,1
-595,incubatórios,1
-596,regulatórias,1
-597,importantes,1
-598,garantindo,1
-599,representamos,1
-600,alimentar,1
-601,discurso,1
-602,bilhão,1
-603,teor,1
-604,sódio,1
-605,reduzido,1
-606,fp6201720182019,1
-607,permite,1
-608,mitigar,1
-609,mantém,1
-610,safety,1
-611,401com,1
-612,externasfood,1
-613,margarinas,1
-614,performance,1
-615,lançamos,1
-616,gcc,1
-617,sadiabanvit,1
-618,prefência,1
-619,turquia39,1
-620,banvit18,1
-621,frios,1
-622,embutidos,1
-623,ocasião,1
-624,atua,1
-625,interações,1
-626,acolhidas,1
-627,tratadas,1
-628,sac,1
-629,canais,1
-630,reclame,1
-631,aqui,1
-632,dr,1
-633,voz,1
-634,reconhecimentos,1
-635,recebem,1
-636,fp769,1
-637,concretiza,1
-638,críticas,1
-639,doméstico,1
-640,mantemos,1
-641,disponibilizados,1
-642,voluntária,1
-643,garantidos,1
-644,coletivos,1
-645,hoje,1
-646,oferecemos,1
-647,seguintes,1
-648,contexto,1
-649,academia,1
-650,milfuncionários,1
-651,multiplataformas,1
-652,mesaperenidade,1
-653,sauditaatingimos,1
-654,1homensmulheresmédia75,1
-655,conduzir,1
-656,feito,1
-657,transversal,1
-658,abrangendo,1
-659,selecionados,1
-660,arábia,1
-661,representados,1
-662,tarefas,1
-663,doutores,1
-664,integram,1
-665,multicultural,1
-666,doutorandos,1
-667,respondem,1
-668,algumas,1
-669,avanço,1
-670,351homensmulheres42,1
-671,homensmulheres40,1
-672,380homensmulheres35,1
-673,375empregados,1
-674,paísincorporamos,1
-675,maisvaliosa,1
-676,sendo,1
-677,perdigão,1
-678,qualy,1
-679,veja,1
-680,sinergia,1
-681,rotatividade,1
-682,composição,1
-683,anexo10áfrica,1
-684,189europa,1
-685,028brasil44américa,1
-686,latina,1
-687,333oriente,1
-688,pertencimento,1
-689,chegam,1
-690,3trabalhamos,1
-691,nações,1
-692,vanguarda,1
-693,emissõesmeio,1
-694,adição,1
-695,vitaminas,1
-696,minerais,1
-697,fp7201720182019,1
-698,nutrição,1
-699,criados,1
-700,qualidadesaborosos,1
-701,201720182019201720182019201720182019perus,1
-702,fp11meio,1
-703,1consumo,1
-704,confiança,1
-705,observação,1
-706,englobam,1
-707,abu,1
-708,dhabi,1
-709,substâncias,1
-710,destroem,1
-711,camada,1
-712,ozônio,1
-713,sdo,1
-714,perigosos,1
-715,transportados,1
-716,tratados,1
-717,fp52019,1
-718,internacionalmente,1
-719,certificadas,1
-720,05gerentes20,1
-721,funcionalhomensmulheres,1
-722,ﬁentorno,1
-723,realizaram,1
-724,durante,1
-725,1estagiários,1
-726,aprendizes,1
-727,03operacional,1
-728,01administrativo,1
-729,79supervisores,1
-730,coordenadores,1
-731,40diretoria,1
-732,fabricado,1
-733,94vendas,1
-734,1201720182019homensmulheres,1
-735,tornou,1
-736,milhares,1
-737,distribuir,1
-738,negros,1
-739,laços,1
-740,201720182019homens,1
-741,produzir,1
-742,2região,1
-743,atmosféricas,1
-744,resíduos134,1
-745,atingiram,1
-746,consultoria,1
-747,usar,1
-748,evoluir,1
-749,conseguimos,1
-750,virada,1
-751,promovemos,1
-752,15em,1
-753,demonstrações,1
-754,brfacesse,1
-755,vindo,1
-756,manufaturado,1
-757,iirc,1
-758,apresentação,1
-759,rotina,1
-760,incorporar,1
-761,repensar,1
-762,entenda,1
-763,motivar,1
-764,engajar,1
-765,sustentável,1
-766,inovador,1
-767,explorar,1
-768,talentos,1
-769,sumário1,1
-770,fortalecimento,1
-771,ficamos,1
-772,orgulhosos,1
-773,diante,1
-774,editorial,1
-775,design,1
-776,inovadores,1
-777,tipográfica,1
-778,revisão,1
-779,ortográfica,1
-780,momento,1
-781,garantam,1
-782,coronavírus,1
-783,pandemia,1
-784,longo,1
-785,retornarmos,1
-786,cientes,1
-787,maiores,1
-788,produtosﬂ,1
-789,desenvolver,1
-790,ajudando,1
-791,hábitos,1
-792,estudar,1
-793,dedica,1
-794,ﬁnosso,1
-795,alinhamento,1
-796,funcionalano2019,1
-797,3categoria,1
-798,avaliações,1
-799,submetidos,1
-800,baseado,1
-801,boas,1
-802,veio,1
-803,negóciocapital,1
-804,bolsa,1
-805,retornamos,1
-806,aplicado,1
-807,brasil98,1
-808,manter,1
-809,relativo,1
-810,2020intensidade,1
-811,conectividade,1
-812,realizados,1
-813,brf100,1
-814,56esta,1
-815,edição,1
-816,apresenta,1
-817,1º,1
-818,janeiro,1
-819,dezembro,1
-820,cobrem,1
-821,maioria,1
-822,emirados,1
-823,vapor,1
-824,quanto,1
-825,padroniza,1
-826,unidas,1
-827,retirada,1
-828,renovação,1
-829,reciclagem,1
-830,consciente,1
-831,9esforços,1
-832,alinham,1
-833,inteligente,1
-834,gt,1
-835,seguindo,1
-836,innovation,1
-837,destinação,1
-838,energética,1
-839,hectares,1
-840,transformações,1
-841,plantada,1
-842,mantidos,1
-843,outras,1
-844,intensidade,1
-845,igajoule,1
-846,limpas,1
-847,natural,1
-848,disso,1
-849,árabes,1
-850,odsperfil,1
-851,acessar,1
-852,201720182019contratados,1
-853,cumprimento,1
-854,âmbitos,1
-855,detalhes,1
-856,1capital,1
-857,indivíduos,1
-858,perfis,1
-859,essencial,1
-860,ainda,1
-861,1201720182019nºtaxa,1
-862,contratações,1
-863,desligamentos,1
-864,cidadecapital,1
-865,201720182019desligamentostaxa,1
-866,vizinhos,1
-867,razão,1
-868,matemática,1
-869,salário,1
-870,base,1
-871,mulheres,1
-872,homens,1
-873,brfﬂ,1
-874,funcional201720182019,1
-875,devido,1
-876,multas,1
-877,ciência,1
-878,ocupacional,1
-879,odspráticas,1
-880,odsdesempenho,1
-881,odsimpactos,1
-882,indiretos,1
-883,combate,1
-884,corrupção,1
-885,odsconcorrência,1
-886,desleal,1
-887,odsemissões,1
-888,lado8,1
-889,odstreinamento,1
-890,2anexos,1
-891,igualdade,1
-892,infantil,1
-893,forçado,1
-894,análogo,1
-895,escravo,1
-896,odscomunidades,1
-897,intelectual,1
-898,odssaúde,1
-899,socioeconômica,1
-900,terceirização,1
-901,congelados,1
-902,novidades,1
-903,open,1
-904,404em,1
-905,demais,1
-906,proporciona,1
-907,complexa,1
-908,adotados,1
-909,mecanismos,1
-910,sessões,1
-911,presenciais,1
-912,sensibilização,1
-913,canal,1
-914,série,1
-915,line25,1
-916,longa,1
-917,dna,1
-918,viva,1
-919,lado,1
-920,olho,1
-921,examinar,1
-922,atentamente,1
-923,comprometidos,1
-924,requerer,1
-925,adesão,1
-926,saborosos,1
-927,contratação,1
-928,coerentes,1
-929,plantas21,1
-930,reputacionais,1
-931,adequada,1
-932,interdependência,1
-933,respeitosas,1
-934,corporativa,1
-935,presencialmente,1
-936,procedimentos,1
-937,globaiscontroles,1
-938,digitais,1
-939,honestas,1
-940,adequados,1
-941,dinâmica,1
-942,negóciosdetecção,1
-943,enriquece,1
-944,medidas,1
-945,remediação,1
-946,princípiosevolução,1
-947,compartilhamento,1
-948,mitigação,1
-949,liderançatransformadora,1
-950,mensais,1
-951,contínua,1
-952,negóciostreinamento,1
-953,melhorum,1
-954,mesa,1
-955,conduz,1
-956,determinados,1
-957,419sistema,1
-958,ação,1
-959,constituem,1
-960,jeito,1
-961,rentabilidade,1
-962,oferta,1
-963,push,1
-964,pull,1
-965,disciplina,1
-966,estabelecer,1
-967,capaz,1
-968,transforma,1
-969,seis,1
-970,ligadas,1
-971,inovação8,1
-972,diferenciaisconheça,1
-973,vantagens,1
-974,competitivas,1
-975,incrementar,1
-976,construímos,1
-977,estratégicas,1
-978,16ao,1
-979,atendemos,1
-980,deste,1
-981,combinam,1
-982,alavancas,1
-983,próprio,1
-984,podem,1
-985,ampla,1
-986,complexidade,1
-987,consultas,1
-988,judiciais,1
-989,realizamos,1
-990,due,1
-991,dilligence,1
-992,fraude,1
-993,casos,1
-994,fusões,1
-995,aquisições,1
-996,investigações,1
-997,federais,1
-998,externasmais,1
-999,crençapropósito,1
-1000,qualidadeintegridade,1
-1001,guiado,1
-1002,vontade,1
-1003,crescer,1
-1004,plano,1
-1005,reforça,1
-1006,melhorar,1
-1007,últimos,1
-1008,dois,1
-1009,garante,1
-1010,assessoramento,1
-1011,go,1
-1012,exportados,1
-1013,reclamações,1
-1014,menos,1
-1015,execução,1
-1016,implantaçãowalter,1
-1017,malieni,1
-1018,jr,1
-1019,membro,1
-1020,pedro,1
-1021,parente,1
-1022,presidenteaugusto,1
-1023,marques,1
-1024,cruz,1
-1025,embaixadores,1
-1026,presidente,1
-1027,independentedan,1
-1028,ioschpe,1
-1029,independente,1
-1030,flavia,1
-1031,buarque,1
-1032,visitadas,1
-1033,francisco,1
-1034,petros,1
-1035,josé,1
-1036,desenho,1
-1037,acas,1
-1038,crença,1
-1039,decisórios,1
-1040,zona,1
-1041,promoter,1
-1042,embarcada,1
-1043,telemetria,1
-1044,atuamos,1
-1045,fadiga,1
-1046,veículos,1
-1047,transporte,1
-1048,icônicas,1
-1049,depende,1
-1050,consolidação,1
-1051,hábil,1
-1052,engajada,1
-1053,net,1
-1054,gravidade,1
-1055,assembleia,1
-1056,acreditamos,1
-1057,tg,1
-1058,afastamento,1
-1059,garantirmos,1
-1060,acidentes,1
-1061,apoiamos,1
-1062,responsáveis,1
-1063,osório,1
-1064,antônio,1
-1065,plantas24,1
-1066,suprimentos,1
-1067,rogério,1
-1068,manzaro,1
-1069,patrício,1
-1070,rohner,1
-1071,alessandro,1
-1072,rosa,1
-1073,bonorino,1
-1074,compartilhados,1
-1075,rubens,1
-1076,fernandes,1
-1077,pereira,1
-1078,leonardo,1
-1079,dallorto,1
-1080,neil,1
-1081,hamilton,1
-1082,guimarães,1
-1083,peixoto,1
-1084,junior,1
-1085,bruno,1
-1086,machado,1
-1087,ferla,1
-1088,institucional,1
-1089,juridico,1
-1090,sidney,1
-1091,barbosa,1
-1092,mendes,1
-1093,vinícius,1
-1094,fernando,1
-1095,furlan,1
-1096,rodrigues,1
-1097,atendidos,1
-1098,fiscal,1
-1099,progresso,1
-1100,executiva,1
-1101,andré,1
-1102,vicentini,1
-1103,attilio,1
-1104,guaspari,1
-1105,presidentemaria,1
-1106,paula,1
-1107,soares,1
-1108,aranha,1
-1109,lorival,1
-1110,luz,1
-1111,diretor,1
-1112,carlos,1
-1113,alberto,1
-1114,bezerra,1
-1115,moura,1
-1116,municípios,1
-1117,mundo15,1
-1118,planejada,1
-1119,chave,1
-1120,recuperação,1
-1121,dando,1
-1122,aqui49,1
-1123,solidez,1
-1124,quais,1
-1125,lucro,1
-1126,plantas,1
-1127,internacionais1,1
-1128,466lucro,1
-1129,societário,1
-1130,plantascontamos,1
-1131,diferenciado,1
-1132,distribuído,1
-1133,1valor,1
-1134,retido,1
-1135,1demonstração,1
-1136,adicionado,1
-1137,criações,1
-1138,líq,1
-1139,12x1201820192,1
-1140,50x,1
-1141,consolidada,1
-1142,versus,1
-1143,capex,1
-1144,negativos,1
-1145,trajetória,1
-1146,despesas,1
-1147,resumoa,1
-1148,pilares,1
-1149,conectados,1
-1150,instrumentos,1
-1151,relevantes,1
-1152,compreender,1
-1153,veem,1
-1154,colocamos,1
-1155,envolvidos,1
-1156,materialidadematerialidade,1
-1157,suporte,1
-1158,material,1
-1159,1importância,1
-1160,localização,1
-1161,griods,1
-1162,intervenções,1
-1163,ambiente4,1
-1164,atendendo,1
-1165,gerar,1
-1166,sabor,1
-1167,externalidades,1
-1168,inerentes,1
-1169,abrange,1
-1170,qualidaderotina,1
-1171,selecionadas,1
-1172,geneticamente,1
-1173,único,1
-1174,positivosobre,1
-1175,selecionadainstituto,1
-1176,econsumidores,1
-1177,ambição,1
-1178,inovação2019,1
-1179,retomada,1
-1180,reforço,1
-1181,empreendedora,1
-1182,ágilem,1
-1183,varejo,1
-1184,fábricasprodutoras,1
-1185,oriunda,1
-1186,esforços,1
-1187,conveniência,1
-1188,praticidade,1
-1189,fortalezas,1
-1190,atentos,1
-1191,nps,1
-1192,podemos,1
-1193,avançar,1
-1194,premium,1
-1195,gourmet,1
-1196,indulgência,1
-1197,prazer,1
-1198,adquire,1
-1199,pauta,1
-1200,desses,1
-1201,corporate,1
-1202,seguimos,1
-1203,conquistando,1
-1204,precisa,1
-1205,operacional54,1
-1206,semana,1
-1207,buscamos,1
-1208,expandir,1
-1209,agregado,1
-1210,reforçar,1
-1211,concentra,1
-1212,norte,1
-1213,tidas,1
-1214,oriente,1
-1215,sudeste,1
-1216,asiático,1
-1217,américas,1
-1218,europa,1
-1219,possibilitado,1
-1220,condições,1
-1221,viabilizando,1
-1222,expansão29,1
-1223,bilhãode,1
-1224,ingredientes,1
-1225,animalos,1
-1226,logísticos,1
-1227,rigorpara,1
-1228,pwc,1
-1229,fumos,1
-1230,conquistados,1
-1231,acabaram,1
-1232,inspirando,1
-1233,ebitda,1
-1234,agropecuários,1
-1235,bi,1
-1236,business,1
-1237,intelligence,1
-1238,estatísticas,1
-1239,facilitando,1
-1240,conheça,1
-1241,decisões,1
-1242,agendamento,1
-1243,permitiu,1
-1244,recebimento,1
-1245,descarga,1
-1246,ups,1
-1247,reduziu,1
-1248,espera,1
-1249,motoristas,1
-1250,exportadora,1
-1251,maior,1
-1252,bebidas,1
-1253,50xposição,1
-1254,2000há,1
-1255,mídia,1
-1256,modo,1
-1257,operaré,1
-1258,mote,1
-1259,disseminamos,1
-1260,requisito,1
-1261,mundoo,1
-1262,seué,1
-1263,meué,1
-1264,eufaçoparte,1
-1265,bilhõestemos,1
-1266,0a,1
-1267,soluções,1
-1268,milcolaboradores,1
-1269,dianosso,1
-1270,gee,1
-1271,etiquetas,1
-1272,padronizadas,1
-1273,controlamos,1
-1274,rastreabilidade,1
-1275,focando,1
-1276,inovadoras,1
-1277,ti,1
-1278,concedido,1
-1279,celeridade,1
-1280,informações,1
-1281,permitindo,1
-1282,direta,1
-1283,restrições,1
-1284,sanitárias,1
-1285,lado39,1
-1286,barreiras,1
-1287,proteções,1
-1288,comercializadas,1
-1289,climático,1
-1290,lançamento,1
-1291,cambiais,1
-1292,político,1
-1293,legal,1
-1294,rigorosos,1
-1295,competências,1
-1296,natureza,1
-1297,cíclica,1
-1298,síntese,1
-1299,49novo,1
-1300,conta,1
-1301,viabilizou,1
-1302,levantamento,1
-1303,vários,1
-1304,níveis,1
-1305,lado43,1
-1306,rentabilização,1
-1307,ciclos,1
-1308,possibilitando,1
-1309,expectativa,1
-1310,mundoexportamos,1
-1311,competitividade,1
-1312,frota,1
-1313,segura,1
-1314,conversa,1
-1315,banvit,1
-1316,divisão,1
-1317,valiosa,1
-1318,mensurável,1
-1319,anosmarcas,1
-1320,resultante,1
-1321,proteger,1
-1322,possui,1
-1323,exigências,1
-1324,próprias,1
-1325,principal,1
-1326,regras,1
-1327,estabelecidas,1
-1328,comportamentais,1
-1329,islâmica,1
-1330,30práticas,1
-1331,buscam,1
-1332,conexão,1
+11,url omissão,15
+12,operações continuadas,13
+13,empregados,13
+14,materiais gri,11
+15,æï æï,11
+16,tópicos materiais,11
+17,integridade,11
+18,companhia,11
+19,milhões,11
+20,saúde,11
+21,resultado,11
+22,qualidade,10
+23,vice presidente,10
+24,política,10
+25,inovação,9
+26,membro independente,9
+27,bem estar,9
+28,compromisso,9
+29,estratégia,9
+30,fornecedores,8
+31,foco,8
+32,todo,8
+33,milhões operações,8
+34,cadeia,8
+35,tipo,8
+36,impacto,7
+37,redução,7
+38,gj œ,7
+39,projeto,7
+40,empresa,7
+41,liderança,7
+42,œ toneladas,7
+43,consumo,7
+44,risco,7
+45,cadeia produtiva,7
+46,modelo,7
+47,uso,7
+48,ebitda ajustado,7
+49,diretor vice,7
+50,œ percentual,7
+51,œ gigajoule,6
+52,time,6
+53,organização,6
+54,prática,6
+55,market share,6
+56,ano,6
+57,sistema,6
+58,emissões,6
+59,categoria,6
+60,cliente,6
+61,estar animal,6
+62,geração,6
+63,anosacima,6
+64,colaboradores treinados,6
+65,nºtaxa nºtaxa,6
+66,parceiros,6
+67,categoria funcional,6
+68,anosentre,6
+69,comunidade,5
+70,crescimento,5
+71,dia,5
+72,logística,5
+73,região taxas,5
+74,países,5
+75,venda,5
+76,faixa etária,5
+77,201720182019nºtaxa nºtaxa,5
+78,transparência,5
+79,toda,5
+80,nºtaxa empregados,5
+81,processo,5
+82,reputação,5
+83,frango,5
+84,essência,5
+85,cultura,5
+86,produtores integrados,5
+87,conformidade,5
+88,lucro bruto,5
+89,fonte,5
+90,mil colaboradores,5
+91,volume,5
+92,neste capítulo,5
+93,consumidores,5
+94,gênero gri,4
+95,região região,4
+96,financeiro,4
+97,índice,4
+98,órgãos,4
+99,desempenho,4
+100,operacional líquida,4
+101,receita operacional,4
+102,consistência,4
+103,gênero œ,4
+104,anosabaixo,4
+105,energia consumida,4
+106,consumidor,4
+107,desenvolvimento sustentável,4
+108,meio ambiente,4
+109,share œ,4
+110,capital,4
+111,ética,4
+112,criação,4
+113,resíduos,4
+114,garantir,4
+115,governança,4
+116,conhecimento,4
+117,qr code,4
+118,água,4
+119,treinamento,4
+120,toneladas gri,4
+121,investimento,4
+122,sociais,4
+123,divulgações gerais,4
+124,distribuição,4
+125,mil,4
+126,gerais gri,4
+127,renováveis gj,4
+128,global,4
+129,energia,4
+130,meta,4
+131,acesso,4
+132,compras,4
+133,número,4
+134,acordo,3
+135,agenda,3
+136,outros,3
+137,fontes renováveis,3
+138,comitês,3
+139,lei,3
+140,gri 2categoria,3
+141,co equivalente,3
+142,salto,3
+143,normas,3
+144,busca,3
+145,presente,3
+146,parceria,3
+147,aumento,3
+148,recursos hídricos,3
+149,oportunidades desenvolvimento,3
+150,governança gestão,3
+151,empregados contratados,3
+152,cargas,3
+153,excelência operacional,3
+154,planejamento,3
+155,estratégico,3
+156,deixaram,3
+157,compliance,3
+158,emprego,3
+159,tco2e œ,3
+160,regulamentos,3
+161,relação,3
+162,longo prazo,3
+163,marcas fortes,3
+164,escopo tco2e,3
+165,posicionamento,3
+166,trabalhamos,3
+167,homensmulheres homensmulheres,3
+168,tecnologia,3
+169,turquia,3
+170,benefícios,3
+171,ações,3
+172,protagonismo,3
+173,mundo,3
+174,indivíduos dentro,3
+175,ambiental,3
+176,conteúdo,3
+177,novo,3
+178,excelência,3
+179,diversidade,3
+180,manual,3
+181,indústria,3
+182,fábrica,3
+183,processados,3
+184,taxas taxas,3
+185,ambiente œ,3
+186,sumário,3
+187,alocação,3
+188,treinados,3
+189,nível,3
+190,relato,3
+191,meio,3
+192,oportunidades,3
+193,presença,3
+194,unidades,3
+195,kwh tonelada,2
+196,mercado muçulmano,2
+197,stakeholders,2
+198,tema,2
+199,trabalhar,2
+200,minimizar,2
+201,líquida,2
+202,construção,2
+203,operacionais,2
+204,investimos,2
+205,investimento social,2
+206,tonelada produzida,2
+207,proteína,2
+208,matéria prima,2
+209,quadro funcional,2
+210,radar,2
+211,rotulagem,2
+212,porcentagem,2
+213,colaboradores,2
+214,agro,2
+215,operações,2
+216,atuação,2
+217,œ escopo,2
+218,atingir,2
+219,utilização,2
+220,sadia marca,2
+221,preferência,2
+222,ferramentas,2
+223,cúbicos gri,2
+224,direto,2
+225,metros cúbicos,2
+226,œ metros,2
+227,frente,2
+228,custo,2
+229,recursos naturais,2
+230,eólica,2
+231,solar,2
+232,energia água,2
+233,m³ œ,2
+234,ingredients,2
+235,além,2
+236,horas,2
+237,visão,2
+238,serviço,2
+239,turnover,2
+240,contrato,2
+241,mercados internacionais,2
+242,gri fp5,2
+243,certificações internacionais,2
+244,unidades produtoras,2
+245,recursos humanos,2
+246,ods,2
+247,margem bruta,2
+248,combustíveis,2
+249,relatório integrado,2
+250,mercado internacional,2
+251,números essência,2
+252,cultura governança,2
+253,liderança ética,2
+254,capital riscos,2
+255,gri anexos,2
+256,anexos carta,2
+257,asseguração créditos,2
+258,skus itens,2
+259,novos skus,2
+260,comércio global,2
+261,transformação digital,2
+262,sustentabilidade empresarial,2
+263,empresarial ise,2
+264,marca líder,2
+265,marcas preferidas,2
+266,bruto aumento,2
+267,segmento internacional,2
+268,operação global,2
+269,medicamentos,2
+270,região,2
+271,incluindo,2
+272,programa,2
+273,gigajoule energia,2
+274,energia elétrica,2
+275,elétrica consumida,2
+276,gri fp1,2
+277,dentro,2
+278,avaliação,2
+279,antibióticos,2
+280,espécie,2
+281,reduzir,2
+282,carteira,2
+283,prejuízo líquido,2
+284,continuadas valor,2
+285,valor econômico,2
+286,indústria global,2
+287,reúso,2
+288,impacto social,2
+289,embalagens,2
+290,diversas categorias,2
+291,food service,2
+292,bilhõesde receita,2
+293,sustentabilidade,2
+294,impacto positivo,2
+295,objetivo,2
+296,faz parte,2
+297,princípios,2
+298,favor,2
+299,implementação,2
+300,sociedade,2
+301,diretrizes,2
+302,etária œ,2
+303,homensmulheres empregados,2
+304,percentual 201720182019homensmulheres,2
+305,omissão ods,2
+306,pessoas,2
+307,alimentação,2
+308,melhor,2
+309,2categoria funcionalempregados,2
+310,pcdsmulheres pcdshomens,2
+311,atividades,2
+312,temas anticorrupção,2
+313,monitorada,2
+314,critérios,2
+315,anticorrupção,2
+316,etária 201720182019nºtaxa,2
+317,gênero 201720182019nºtaxa,2
+318,independente roberto,2
+319,taxa contratados,2
+320,contratados taxa,2
+321,futuro,2
+322,multiculturalidade,2
+323,matrizes,2
+324,estrutura,2
+325,omissão odsconformidade,2
+326,eficiente,2
+327,trabalho,2
+328,curto prazo,2
+329,ganhou,2
+330,perenidade,2
+331,percentual 201720182019abaixo,2
+332,omissão odsgovernança,2
+333,alta liderança,2
+334,fortalecer,2
+335,implantação,2
+336,paternidade gri,2
+337,exceto empregados,2
+338,trabalhadores exceto,2
+339,expertise,2
+340,diferenciais investimento,2
+341,cada vez,2
+342,licença maternidade,2
+343,paixão,2
+344,201720182019homensmulheres homensmulheres,2
+345,propósito,2
+346,passou,2
+347,campo,2
+348,construir,2
+349,entrega,2
+350,energéticos,2
+351,pcdshomens pcdsmulheres,2
+352,despesas operacionais,1
+353,lucro prejuízo,1
+354,leonardo campo,1
+355,due dilligence,1
+356,análise contínua,1
+357,50x redução,1
+358,liderançatransformadora análise,1
+359,continuadas despesas,1
+360,redução consolidada,1
+361,processos judiciais,1
+362,bruta lucro,1
+363,endividamento líquido,1
+364,oferecer alto,1
+365,versus capex,1
+366,realizamos due,1
+367,guimarães peixoto,1
+368,valor adicionado,1
+369,12x1201820192 50x,1
+370,continuadas 466lucro,1
+371,1valor econômico,1
+372,econômico distribuído,1
+373,logística neil,1
+374,direto gerado,1
+375,determinados parceiros,1
+376,inovação leonardo,1
+377,dívida caixa,1
+378,podem oferecer,1
+379,neil hamilton,1
+380,societário margem,1
+381,caixa endividamento,1
+382,dallorto diretor,1
+383,alavancagem dívida,1
+384,dívida líq,1
+385,campo dallorto,1
+386,líq ebitda,1
+387,ajustado 12x1201820192,1
+388,466lucro prejuízo,1
+389,econômico retido,1
+390,análises reputacionais,1
+391,serviços compartilhados,1
+392,pereira diretor,1
+393,bonorino diretor,1
+394,demais políticas,1
+395,treinamentos presenciais,1
+396,ásia áfrica,1
+397,áfrica américas,1
+398,rosa bonorino,1
+399,internacional possibilitado,1
+400,melhores condições,1
+401,viabilizando iniciativas,1
+402,bilhãode lucro,1
+403,line25 políticas,1
+404,segmentos ingredientes,1
+405,colaboradores sensibilização,1
+406,ingredientes corporate,1
+407,inovação2019 retomada,1
+408,futuro reforço,1
+409,cultura empreendedora,1
+410,empreendedora ágilem,1
+411,tendências globais,1
+412,receita oriunda,1
+413,inovação conveniência,1
+414,praticidade equilíbrio,1
+415,equilíbrio participação,1
+416,desafios atentos,1
+417,funcionalempregados acesse,1
+418,lado colaboradores,1
+419,negóciostreinamento capacitação,1
+420,global adequada,1
+421,seguimos conquistando,1
+422,conquistando melhorias,1
+423,precisa investimentos,1
+424,excelência operacional54,1
+425,operacional54 segmento,1
+426,conduz análises,1
+427,compliance conduz,1
+428,fernandes pereira,1
+429,comunicação estrutura,1
+430,rubens fernandes,1
+431,compartilhados rubens,1
+432,internacionais buscamos,1
+433,potencial contratação,1
+434,buscamos expandir,1
+435,negócio adesão,1
+436,valor agregado,1
+437,muçulmano concentra,1
+438,concentra oportunidades,1
+439,oriente médio,1
+440,sudeste asiático,1
+441,examinar atentamente,1
+442,asiático outros,1
+443,internacionais ásia,1
+444,solidez volumes,1
+445,investigações federais,1
+446,aqui49 receita,1
+447,monitorada conversa,1
+448,deste ano,1
+449,investimento deste,1
+450,qualidade atendemos,1
+451,garante sintonia,1
+452,engajamento externo,1
+453,estratégicas governança,1
+454,geografias estratégicas,1
+455,tomadas informações,1
+456,cada trazendo,1
+457,trazendo competitividade,1
+458,integridade garante,1
+459,produção frota,1
+460,frota segura,1
+461,incrementar resultados,1
+462,buscam proteger,1
+463,vantagens competitivas,1
+464,internacional divisão,1
+465,divisão halal,1
+466,seis iniciativas,1
+467,prazos seis,1
+468,muçulmano possui,1
+469,possui exigências,1
+470,exigências próprias,1
+471,prazos prioridades,1
+472,regras estabelecidas,1
+473,lei islâmica,1
+474,prazo prioridades,1
+475,islâmica riscos,1
+476,ano combinam,1
+477,combinam evolução,1
+478,comercial trazendo,1
+479,permitiu otimizar,1
+480,otimizar diversas,1
+481,0a indústria,1
+482,comercial agropecuária,1
+483,sempre 0a,1
+484,seué meué,1
+485,mundoo seo,1
+486,humanos etiquetas,1
+487,etiquetas padronizadas,1
+488,único modo,1
+489,ti concedido,1
+490,alimentos bebidas,1
+491,resultados conquistados,1
+492,podemos avançar,1
+493,ágeis adequados,1
+494,indústria acabaram,1
+495,remediação engajamento,1
+496,acabaram inspirando,1
+497,monitoramentos ágeis,1
+498,globaiscontroles digitais,1
+499,procedimentos globaiscontroles,1
+500,treinados presencialmente,1
+501,responsabilidade corporativa,1
+502,expansão planejada,1
+503,bi business,1
+504,business intelligence,1
+505,análises estatísticas,1
+506,ágeis facilitando,1
+507,riscos buscam,1
+508,rentabilização restrições,1
+509,resultados aqui49,1
+510,ambiente4 resultado,1
+511,alto desempenho,1
+512,públicos veem,1
+513,resultados constituem,1
+514,tema material,1
+515,tema localização,1
+516,ampla reestruturação,1
+517,dois anos,1
+518,últimos dois,1
+519,melhorar organizacional,1
+520,impacto griods,1
+521,griods relacionados,1
+522,futuro guiado,1
+523,meio ambiente4,1
+524,gerar impacto,1
+525,institucional juridico,1
+526,externalidades inerentes,1
+527,sustentável olhar,1
+528,principais indicadores,1
+529,busca soluções,1
+530,resumoa trajetória,1
+531,reestruturação financeira,1
+532,financeira positivos,1
+533,potenciais fusões,1
+534,positivos negativos,1
+535,sustentabilidade bruno,1
+536,junior diretor,1
+537,peixoto junior,1
+538,negativos saiba,1
+539,instrumentos relevantes,1
+540,pilares estratégicos,1
+541,rentabilidade excelência,1
+542,bruno machado,1
+543,restrições sanitárias,1
+544,técnicas acesse,1
+545,lado39 barreiras,1
+546,proteções comerciais,1
+547,risco climático,1
+548,disciplina financeira,1
+549,riscos cambiais,1
+550,compliance liderançatransformadora,1
+551,político econômicos,1
+552,conformidade legal,1
+553,presidente institucional,1
+554,natureza cíclica,1
+555,negócio síntese,1
+556,49novo processo,1
+557,pull disciplina,1
+558,demanda push,1
+559,materialidade viabilizou,1
+560,vários níveis,1
+561,níveis saiba,1
+562,lado43 pactos,1
+563,desde 2000há,1
+564,2000há cinco,1
+565,metas públicas,1
+566,ferla vice,1
+567,estar animalos,1
+568,animalos pilares,1
+569,machado ferla,1
+570,mensagem,1
+571,fornecedores procurement,1
+572,cinco tendências,1
+573,reporte divulgações,1
+574,econômicos indiretos,1
+575,odsimpactos econômicos,1
+576,omissão odsimpactos,1
+577,odsdesempenho econômico,1
+578,omissão odsdesempenho,1
+579,omissão odspráticas,1
+580,odsgovernança engajamento,1
+581,locais avaliação,1
+582,odsgovernança divulgações,1
+583,odsperfil organizacional,1
+584,omissão odsperfil,1
+585,emirados árabes,1
+586,dados cobrem,1
+587,apresenta projetos,1
+588,indiretos práticas,1
+589,compras combate,1
+590,corrupção tópicos,1
+591,omissão odsconcorrência,1
+592,odsconcorrência desleal,1
+593,desleal energia,1
+594,omissão odsemissões,1
+595,odsemissões efluentes,1
+596,odsconformidade ambiental,1
+597,ocupacional treinamento,1
+598,omissão odstreinamento,1
+599,educação diversidade,1
+600,trabalho infantil,1
+601,infantil trabalho,1
+602,trabalho forçado,1
+603,escravo tópicos,1
+604,omissão odscomunidades,1
+605,integrado apresenta,1
+606,56esta edição,1
+607,brf100 relato,1
+608,nações unidas,1
+609,39municípios receberam,1
+610,receberam ações,1
+611,trabalho voluntário,1
+612,presença local,1
+613,local impactos,1
+614,forma quantitativa,1
+615,equipe interna,1
+616,auditoria externa,1
+617,externa governos,1
+618,governos instituições,1
+619,relações setoriais,1
+620,principais entidades,1
+621,água 9esforços,1
+622,uso inteligente,1
+623,unidas efluentes,1
+624,relativo kwh,1
+625,destinação m³,1
+626,mil hectares,1
+627,área plantada,1
+628,outras emissões,1
+629,equivalente intensidade,1
+630,fontes limpas,1
+631,além disso,1
+632,operacional energética,1
+633,vapor baseado,1
+634,boas práticas,1
+635,produzida aplicado,1
+636,unidades industriais,1
+637,manter patamar,1
+638,energia relativo,1
+639,odscomunidades locais,1
+640,omissão odssaúde,1
+641,comunidades sentidos,1
+642,saudabilidade porcentagem,1
+643,observação todos,1
+644,gigajoule observação,1
+645,fp11meio ambiente,1
+646,201720182019201720182019201720182019perus suínos,1
+647,habitação 201720182019201720182019201720182019perus,1
+648,animais criados,1
+649,nutrição qualidade,1
+650,consumidor marketing,1
+651,fp7201720182019 nutrição,1
+652,fp52019 porcentagem,1
+653,internacionalmente reconhecidas,1
+654,normas internacionalmente,1
+655,operacionais certificadas,1
+656,produção fabricado,1
+657,energia englobam,1
+658,abu dhabi,1
+659,ozônio sdo,1
+660,resíduos perigosos,1
+661,perigosos transportados,1
+662,emissões atmosféricas,1
+663,atmosféricas significativas,1
+664,emissõesmeio ambiente,1
+665,resíduos134 carta,1
+666,asseguração coordenação,1
+667,coordenação geral,1
+668,coordenação editorial,1
+669,editorial conteúdo,1
+670,design família,1
+671,família tipográfica,1
+672,tipográfica revisão,1
+673,revisão ortográfica,1
+674,2região taxas,1
+675,pcdsmulheres pcds,1
+676,201720182019homens pcdsmulheres,1
+677,2categoria funcional201720182019,1
+678,odsconformidade socioeconômica,1
+679,socioeconômica terceirização,1
+680,multas significativas,1
+681,significativas devido,1
+682,âmbitos social,1
+683,1capital humano,1
+684,região 1201720182019nºtaxa,1
+685,1201720182019nºtaxa nºtaxa,1
+686,201720182019contratados taxa,1
+687,201720182019desligamentostaxa desligamentostaxa,1
+688,desligamentostaxa desligamentostaxa,1
+689,desligamentostaxa razão,1
+690,razão matemática,1
+691,salário base,1
+692,funcional201720182019 percentual,1
+693,percentual 201720182019homens,1
+694,colaboradores submetidos,1
+695,3categoria funcionalano2019,1
+696,funcionalano2019 categoria,1
+697,categoria funcionalhomensmulheres,1
+698,realizaram durante,1
+699,durante período,1
+700,aprendizes 03operacional,1
+701,03operacional 01administrativo,1
+702,01administrativo 79supervisores,1
+703,coordenadores 05gerentes20,1
+704,05gerentes20 40diretoria,1
+705,40diretoria 94vendas,1
+706,94vendas indivíduos,1
+707,1201720182019homensmulheres homensmulheres,1
+708,sabores 39municípios,1
+709,força transformadora,1
+710,tendências premium,1
+711,mitigar potenciais,1
+712,região veja,1
+713,380homensmulheres35 375empregados,1
+714,homensmulheres40 380homensmulheres35,1
+715,351homensmulheres42 homensmulheres40,1
+716,multicultural trabalhamos,1
+717,equipe multicultural,1
+718,melhorias produzidos,1
+719,hoje oferecemos,1
+720,inovação permite,1
+721,sódio reduzido,1
+722,equilíbrio nutricional,1
+723,fp5 equilíbrio,1
+724,fp5 certificações,1
+725,importantes garantindo,1
+726,veja indicadores,1
+727,indicadores sobre,1
+728,incluindo rotatividade,1
+729,anexo10áfrica 189europa,1
+730,189europa 028brasil44américa,1
+731,028brasil44américa latina,1
+732,latina 333oriente,1
+733,333oriente médio,1
+734,médio ásia,1
+735,cultura pertencimento,1
+736,carreira doutorandos,1
+737,doutorandos integram,1
+738,programa doutores,1
+739,liderança mantemos,1
+740,colaboradores disponibilizados,1
+741,forma voluntária,1
+742,acordos coletivos,1
+743,alterações regulatórias,1
+744,rotulagem vigentes,1
+745,1o atendimento,1
+746,embutidos parceria,1
+747,premium gourmet,1
+748,gourmet indulgência,1
+749,go open,1
+750,open innovation,1
+751,innovation market,1
+752,congelados market,1
+753,margarinas market,1
+754,share performance,1
+755,performance global,1
+756,gcc sadiabanvit,1
+757,sadiabanvit marca,1
+758,turquia39 banvit18,1
+759,banvit18 market,1
+760,frios market,1
+761,cada ocasião,1
+762,marketing responsável,1
+763,interações acolhidas,1
+764,sac canais,1
+765,próximos prêmio,1
+766,prêmio reclame,1
+767,reclame aqui,1
+768,aqui dr,1
+769,relacionamento destaques,1
+770,produtoras recebem,1
+771,recebem auditorias,1
+772,auditorias externasfood,1
+773,externasfood safety,1
+774,food transparency,1
+775,mantém projeto,1
+776,monitoramento sensorial,1
+777,trabalho hoje,1
+778,seguintes benefícios,1
+779,perus suínos,1
+780,2impactos ambientais,1
+781,renome internacionalporcentagem,1
+782,compramos origem,1
+783,fornecedor produtos,1
+784,compras alinhadas,1
+785,monitorados compras,1
+786,fornecedores monitorados,1
+787,feitas dentro,1
+788,relações trabalhistas,1
+789,commodities agrícolas,1
+790,commodities negociações,1
+791,plataforma commodities,1
+792,única plataforma,1
+793,centraliza processos,1
+794,sap ariba,1
+795,volume comprado,1
+796,comprado aderente,1
+797,fp10 fp11,1
+798,fp11 fp12,1
+799,fp12 fp13,1
+800,seguem parâmetros,1
+801,parâmetros nacionais,1
+802,fp12 sadia,1
+803,sadia bio,1
+804,utilizados hormônios,1
+805,animais clonados88,1
+806,clonados88 políticas,1
+807,criação relacionadas,1
+808,alterações físicas,1
+809,anestésico frango,1
+810,corte matrizes,1
+811,corte perus,1
+812,sistema sap,1
+813,evolução tecnológica,1
+814,procurement eficiência,1
+815,governança asg,1
+816,desafio contexto,1
+817,aprendizagem média,1
+818,1homensmulheresmédia75 saúde,1
+819,forma transversal,1
+820,transversal abrangendo,1
+821,abrangendo todos,1
+822,áreas controle,1
+823,acordos formais,1
+824,comitês formais,1
+825,tarefas críticas,1
+826,reduzidas taxas,1
+827,compromisso inegociável,1
+828,qualquer meta,1
+829,aspectos ambientais,1
+830,asg impactam,1
+831,internacional alessandro,1
+832,impactam todos,1
+833,grãos agropecuária,1
+834,agropecuária serviços,1
+835,fp1 milparceiros,1
+836,milparceiros compõem,1
+837,gestão afinada,1
+838,afinada todos,1
+839,contratos possuem,1
+840,possuem cláusulas,1
+841,cláusulas sobre,1
+842,sobre diversos,1
+843,diversos aspectos,1
+844,três grandes,1
+845,grandes grupos,1
+846,alessandro rosa,1
+847,parceiros logísticos,1
+848,rohner vice,1
+849,halal,1
+850,relacionados,1
+851,1importância,1
+852,materialidadematerialidade,1
+853,envolvidos,1
+854,compreender,1
+855,conectados,1
+856,levantamento,1
+857,materialidade,1
+858,trabalhista,1
+859,lançamento,1
+860,ciclos,1
+861,possibilitando,1
+862,30práticas,1
+863,produzidos,1
+864,principal,1
+865,recuperação,1
+866,melhoria,1
+867,1demonstração,1
+868,ambição,1
+869,líder,1
+870,prazer,1
+871,próximos,1
+872,novidades,1
+873,fortalezas,1
+874,esforços,1
+875,patamar,1
+876,bilhõesde,1
+877,adquire,1
+878,pauta,1
+879,expansão29,1
+880,europa,1
+881,norte,1
+882,reforçar,1
+883,expectativa,1
+884,forma,1
+885,plano,1
+886,permitindo,1
+887,seo,1
+888,disseminamos,1
+889,mote,1
+890,operaré,1
+891,chave,1
+892,expansão,1
+893,rede,1
+894,diferenciaisconheça,1
+895,inovação8,1
+896,ligadas,1
+897,médio,1
+898,oferta,1
+899,alavancas,1
+900,ação,1
+901,reestruturação,1
+902,requisito,1
+903,eufaçoparte,1
+904,comercial,1
+905,recebimento,1
+906,celeridade,1
+907,motoristas,1
+908,espera,1
+909,reduziu,1
+910,ups,1
+911,descarga,1
+912,agendamento,1
+913,tecnológica,1
+914,decisões,1
+915,tomada,1
+916,fumos,1
+917,pwc,1
+918,mídia,1
+919,inovadoras,1
+920,prefência,1
+921,atua,1
+922,tratadas,1
+923,voz,1
+924,pacto,1
+925,gt,1
+926,alinham,1
+927,reciclagem,1
+928,retirada,1
+929,vanguarda,1
+930,conduzir,1
+931,3trabalhamos,1
+932,participamos,1
+933,setor,1
+934,qualitativa,1
+935,conduzida,1
+936,destaque,1
+937,instituto,1
+938,empoderamento,1
+939,efluentes,1
+940,área,1
+941,mantidos,1
+942,1º,1
+943,educação,1
+944,reporte,1
+945,maioria,1
+946,dados,1
+947,dezembro,1
+948,janeiro,1
+949,período,1
+950,igajoule,1
+951,realizados,1
+952,2020intensidade,1
+953,brasil98,1
+954,veio,1
+955,quanto,1
+956,padroniza,1
+957,voluntariado,1
+958,1trabalhamos,1
+959,geral89,1
+960,fp769,1
+961,carreira,1
+962,composição,1
+963,avanço,1
+964,algumas,1
+965,equipe,1
+966,401com,1
+967,fp6201720182019,1
+968,academia,1
+969,teor,1
+970,renome,1
+971,alimentar,1
+972,adaptação,1
+973,linha,1
+974,reconhecimentos,1
+975,garantidos,1
+976,milfuncionários,1
+977,corte,1
+978,objetivo77,1
+979,abate,1
+980,estado,1
+981,gerenciamos,1
+982,trabalham,1
+983,divididos,1
+984,fornecimento,1
+985,acima,1
+986,multiplataformas,1
+987,ergonomia,1
+988,representados,1
+989,trabalhadores,1
+990,feito,1
+991,gerenciamento,1
+992,média,1
+993,reforça,1
+994,crescer,1
+995,análogo,1
+996,autoproduzida,1
+997,perfis,1
+998,públicos,1
+999,estabilidade,1
+1000,mesaperenidade,1
+1001,chegam,1
+1002,concretiza,1
+1003,discurso,1
+1004,intervenções,1
+1005,transforma,1
+1006,ambientais,1
+1007,acreditamos,1
+1008,atuamos,1
+1009,contamos,1
+1010,segmento,1
+1011,exportação,1
+1012,acionistas,1
+1013,investidores,1
+1014,práticos,1
+1015,garantam,1
+1016,ração,1
+1017,animal,1
+1018,conectividade,1
+1019,produtividade,1
+1020,ampliar,1
+1021,vizinhos,1
+1022,capilaridade,1
+1023,valor,1
+1024,rotina,1
+1025,repensar,1
+1026,motivar,1
+1027,colocamos,1
+1028,alinhamento,1
+1029,gerado,1
+1030,operação,1
+1031,bilhõestemos,1
+1032,vontade,1
+1033,50xposição,1
+1034,milhares,1
+1035,produzir,1
+1036,pandemia,1
+1037,responsabilidade,1
+1038,cientes,1
+1039,dedica,1
+1040,b3,1
+1041,retornarmos,1
+1042,fortalecimento,1
+1043,organizacional,1
+1044,virada,1
+1045,brfacesse,1
+1046,bem,1
+1047,capitais,1
+1048,desenvolvimento,1
+1049,ainda,1
+1050,lado8,1
+1051,valores,1
+1052,transformação,1
+1053,alavancagem,1
+1054,margem,1
+1055,aspectos,1
+1056,aprendizagem,1
+1057,iniciativas,1
+1058,lares,1
+1059,maisvaliosa,1
+1060,brasileira,1
+1061,marca,1
+1062,sadia,1
+1063,doméstico,1
+1064,representa,1
+1065,bilhões,1
+1066,cerca,1
+1067,alta,1
+1068,suínos,1
+1069,respondem,1
+1070,produção,1
+1071,mitigação,1
+1072,melhores,1
+1073,compartilhamento,1
+1074,medidas,1
+1075,negóciosdetecção,1
+1076,dinâmica,1
+1077,sintonia,1
+1078,419sistema,1
+1079,assessoramento,1
+1080,almeida,1
+1081,execução,1
+1082,desenho,1
+1083,vão,1
+1084,apoiamos,1
+1085,garantirmos,1
+1086,capacitação,1
+1087,comunicação,1
+1088,404em,1
+1089,requerer,1
+1090,olhar,1
+1091,aquisições,1
+1092,casos,1
+1093,fraude,1
+1094,consultas,1
+1095,comerciais,1
+1096,comprometidos,1
+1097,relacionadas,1
+1098,olho,1
+1099,série,1
+1100,canal,1
+1101,sessões,1
+1102,mecanismos,1
+1103,adotados,1
+1104,administração,1
+1105,aderente,1
+1106,consolidação,1
+1107,qualidaderotina,1
+1108,participação,1
+1109,mundoexportamos,1
+1110,líderes,1
+1111,valiosa,1
+1112,pontos,1
+1113,comercializadas,1
+1114,quais,1
+1115,gee,1
+1116,plantas,1
+1117,centro,1
+1118,globais,1
+1119,socioambientais,1
+1120,granjas,1
+1121,bilhão,1
+1122,rastreabilidade,1
+1123,mundo15,1
+1124,transporte,1
+1125,embaixadores,1
+1126,veículos,1
+1127,fadiga,1
+1128,monitoramento,1
+1129,telemetria,1
+1130,zona,1
+1131,afastamento,1
+1132,localidades,1
+1133,tempo,1
+1134,evolução,1
+1135,complexa,1
+1136,saborosos,1
+1137,qualidadeintegridade,1
+1138,jeito,1
+1139,estabelecer,1
+1140,igualdade,1
+1141,pública,1
+1142,patrício rohner,1
+1143,processos agropecuários,1
+1144,viva longa,1
+1145,cadeia viva,1
+1146,mundo fazemos,1
+1147,crençapropósito oferecer,1
+1148,essência crençapropósito,1
+1149,trabalhar próprio,1
+1150,diversa capaz,1
+1151,tempo forte,1
+1152,anos construímos,1
+1153,16ao longo,1
+1154,milcolaboradores compõem,1
+1155,dianosso portfólio,1
+1156,controlamos emissões,1
+1157,naturais controlamos,1
+1158,sempre focando,1
+1159,proporciona vida,1
+1160,vida melhor,1
+1161,mesa vida,1
+1162,pessoas interdependência,1
+1163,exportados redução,1
+1164,produtos exportados,1
+1165,menos reclamações,1
+1166,integridade menos,1
+1167,localidades visitadas,1
+1168,interdependência resultado,1
+1169,respeitosas pessoas,1
+1170,vida melhorum,1
+1171,relações honestas,1
+1172,enriquece relações,1
+1173,diversidade enriquece,1
+1174,qualidade princípiosevolução,1
+1175,demanda cada,1
+1176,melhorum futuro,1
+1177,fabris sempre,1
+1178,destaques investimos,1
+1179,selecionados matéria,1
+1180,aves conheça,1
+1181,semana geneticamente,1
+1182,produção semana,1
+1183,positivosobre comunidades,1
+1184,social positivosobre,1
+1185,prima selecionadainstituto,1
+1186,globais matéria,1
+1187,varejo econsumidores,1
+1188,fábricasprodutoras varejo,1
+1189,socioambientais fábricasprodutoras,1
+1190,critérios socioambientais,1
+1191,aves milsuínos,1
+1192,milhõesde aves,1
+1193,ambiente granjas,1
+1194,seguem normas,1
+1195,incubatórios seguem,1
+1196,geneticamente selecionadas,1
+1197,criações centro,1
+1198,distribuição plantascontamos,1
+1199,controles produção,1
+1200,maior exportadora,1
+1201,locais exportação,1
+1202,fábricas locais,1
+1203,produção direta,1
+1204,líderes nacionais,1
+1205,anosmarcas fortes,1
+1206,rigorosos controles,1
+1207,auditorias internas,1
+1208,logística conta,1
+1209,rigorpara garantir,1
+1210,logísticos rigorpara,1
+1211,produtiva atendendo,1
+1212,abrange toda,1
+1213,externas abrange,1
+1214,acas acidentes,1
+1215,tg taxa,1
+1216,gravidade pontos,1
+1217,net promoter,1
+1218,guaspari presidentemaria,1
+1219,attilio guaspari,1
+1220,independente attilio,1
+1221,vicentini membro,1
+1222,andré vicentini,1
+1223,executiva andré,1
+1224,diretoria executiva,1
+1225,fiscal diretoria,1
+1226,conselho fiscal,1
+1227,rodrigues membro,1
+1228,roberto rodrigues,1
+1229,furlan membro,1
+1230,fernando furlan,1
+1231,luiz fernando,1
+1232,mendes membro,1
+1233,presidentemaria paula,1
+1234,paula soares,1
+1235,soares aranha,1
+1236,investidores vinícius,1
+1237,manzaro diretor,1
+1238,rogério manzaro,1
+1239,sidney rogério,1
+1240,suprimentos sidney,1
+1241,barbosa diretor,1
+1242,vinícius barbosa,1
+1243,moura diretor,1
+1244,aranha membro,1
+1245,alberto bezerra,1
+1246,carlos alberto,1
+1247,global carlos,1
+1248,luz diretor,1
+1249,lorival luz,1
+1250,independente lorival,1
+1251,antônio mendes,1
+1252,roberto antônio,1
+1253,almeida filho,1
+1254,b3 assembleia,1
+1255,vão desde,1
+1256,processos decisórios,1
+1257,pessoas responsáveis,1
+1258,administração conselho,1
+1259,acionistas conselho,1
+1260,assembleia geral,1
+1261,fazemos parte,1
+1262,malieni jr,1
+1263,hábil engajada,1
+1264,liderança hábil,1
+1265,resultados depende,1
+1266,tecnologia embarcada,1
+1267,score nps,1
+1268,promoter score,1
+1269,implantaçãowalter malieni,1
+1270,jr membro,1
+1271,luiz osório,1
+1272,independente flavia,1
+1273,josé luiz,1
+1274,independente josé,1
+1275,petros membro,1
+1276,francisco petros,1
+1277,independente francisco,1
+1278,flavia buarque,1
+1279,ioschpe membro,1
+1280,membro pedro,1
+1281,independentedan ioschpe,1
+1282,presidente independentedan,1
+1283,cruz filho,1
+1284,presidenteaugusto marques,1
+1285,parente presidenteaugusto,1
+1286,pedro parente,1
+1287,suínos sinergia,1
+1288,óleo selecionados,1
+1289,2anexos,1
+1290,estudar novos,1
+1291,valores brasileira,1
+1292,b3 bolsa,1
+1293,números retornamos,1
+1294,covid saiba,1
+1295,essencial covid,1
+1296,mundo tornou,1
+1297,distribuir alimentos,1
+1298,covid momento,1
+1299,coronavírus covid,1
+1300,novo coronavírus,1
+1301,responsabilidade diante,1
+1302,maiores empresas,1
+1303,novos produtosﬂ,1
+1304,desenvolver novos,1
+1305,hábitos ajudando,1
+1306,externo atingiram,1
+1307,atingiram cerca,1
+1308,aproximadamente milhão,1
+1309,representamos cerca,1
+1310,treinamentos dando,1
+1311,internacionais1 horas,1
+1312,desenvolvidos desses,1
+1313,itens desenvolvidos,1
+1314,lançamos projetos,1
+1315,frango lançamos,1
+1316,lares representamos,1
+1317,toneladasanunciamos investimentos,1
+1318,paísincorporamos indústria,1
+1319,perdigão sendo,1
+1320,preferidas qualy,1
+1321,arábia sauditaatingimos,1
+1322,us milhões,1
+1323,aproximadamente us,1
+1324,interesses preferências,1
+1325,ﬁnosso time,1
+1326,grãos farelo,1
+1327,ficamos orgulhosos,1
+1328,1consumo,1
+1329,habitação,1
+1330,minerais,1
+1331,vitaminas,1
+1332,adição,1
+1333,pcd,1
+1334,negros,1
+1335,1estagiários,1
+1336,avaliações,1
+1337,homens,1
+1338,mulheres,1
+1339,desligamentos,1
+1340,contratações,1
+1341,detalhes,1
+1342,cumprimento,1
+1343,substâncias,1
+1344,destroem,1
+1345,camada,1
+1346,capitais iirc,1
+1347,qualidade ficamos,1
+1348,conseguimos evoluir,1
+1349,15em promovemos,1
+1350,financeiras mensagem,1
+1351,demonstrações financeiras,1
+1352,bem vindo,1
+1353,números apresentação,1
+1354,tratados,1
+1355,introdução neste,1
+1356,créditos introdução,1
+1357,introdução mensagem,1
+1358,sumário1 introdução,1
+1359,integrado sumário1,1
+1360,consultoria,1
+1361,dando suporte,1
+1362,competências técnicas,1
+1363,comportamentais além,1
+1364,sustentabilidade banvit,1
+1365,trabalhar saudabilidade,1
+1366,relacionamento confiança,1
+1367,redes eficientes,1
+1368,construir redes,1
+1369,ativos fabris,1
+1370,presença usar,1
+1371,manufaturado capilaridade,1
+1372,capital manufaturado,1
+1373,integridade incorporar,1
+1374,inovador engajar,1
+1375,potencial inovador,1
+1376,sociedade potencial,1
+1377,lideranças explorar,1
+1378,talentos valores,1
+1379,humano talentos,1
+1380,qualidade laços,1
+1381,ﬁentorno brfﬂ,1
+1382,cidadecapital intelectual,1
+1383,uso consciente,1
+1384,compramos grãos,1
+1385,grãos compramos,1
+1386,nutricional produzidas,1
+1387,rações milhõesde,1
+1388,supermercadofábricade rações,1
+1389,entregas supermercadofábricade,1
+1390,naturais desafio,1
+1391,intelectual marcas,1
+1392,natural recursos,1
+1393,negóciocapital natural,1
+1394,ampliar produtividade,1
+1395,acessar conhecimentos,1
+1396,indústria acessar,1
+1397,geografias ciência,1
+1398,consistência conexão,1
+1399,negócios entenda,1
+1400,inovadores valor,1
+1401,plantas21 centros,1
+1402,atendidos liderança,1
+1403,brasileiros atendidos,1
+1404,municípios brasileiros,1
+1405,plantas24 centros,1
+1406,mensais plantas24,1
+1407,entregas mensais,1
+1408,portfólio plantas21,1
+1409,marcas icônicas,1
+1410,dna brasileiro,1
+1411,auditorias externasmais,1
+1412,receberam auditorias,1
+1413,produtoras receberam,1
+1414,consumida autoproduzida,1
+1415,banvit marca,1
+1416,segmento contamos,1
+1417,compromissos crença,1
+1418,qualidadesaborosos práticos,1
+1419,reconhecidas tidas,1
+1420,seguindo transformações,1
+1421,renovação seguindo,1
+1422,constante renovação,1
+1423,interesse portfólio,1
+1424,vai além,1
+1425,ativos industriais,1
+1426,diferenciado marcas,1
+1427,crença propósito,1
+1428,sabor diferenciado,1
+1429,mensurável resultante,1
+1430,social mensurável,1
+1431,complexidade geração,1
+1432,sociais coerentes,1
+1433,propósito progresso,1
+1434,ortográfica créditos,1

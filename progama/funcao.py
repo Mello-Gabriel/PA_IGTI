@@ -66,12 +66,11 @@ def pdf_to_text(caminho):
 def wordcloud(text_path):
     texto=open(f'{text_path}', encoding='utf-8').read()
     stopwords=set(STOPWORDS)
-    stopwords= set(STOPWORDS)
     new_words = []
     with open(r"..\ref\stopwords.txt", 'r', encoding='utf-8') as f:
       [new_words.append(word) for line in f for word in line.split()]
     new_stopwords = stopwords.union(new_words)
-    wc=WordCloud(stopwords=new_stopwords).generate(texto)
+    wc=WordCloud(background_color='Black', stopwords=new_stopwords, min_font_size=3, width=1920, height=1080, colormap='viridis',collocation_threshold=10).generate(texto)
     palavras=wc.process_text(texto)
     palavras=pd.DataFrame.from_dict(palavras, orient='index')
     palavras.sort_values(ascending=False, by=0,inplace=True)
@@ -79,6 +78,7 @@ def wordcloud(text_path):
     palavras.columns=('palavras','quantidade')
     nome_arquivo=text_path.split("/")[-1].split('.')[-2]
     palavras.to_csv(f'../tabela_palavras/{nome_arquivo}.csv')
+    wc.to_file(f'../pic/{nome_arquivo}.png')
 # %%
 def sim_euclidiana(avaliacoes, c1, c2):
     mesmos_filmes = {}
