@@ -1,6 +1,14 @@
 # PA_IGTI
 
-https://github.com/Mello-Gabriel/PA_IGTI/blob/master/progama/script.py
+## Rotina para coleta de dados, utiliza as funções do 'funcao.py'
+https://github.com/Mello-Gabriel/PA_IGTI/blob/master/scripts/script.py
 
+## Funções do aplicativo
+https://github.com/Mello-Gabriel/PA_IGTI/blob/master/scripts/funcao.py
 
-https://github.com/Mello-Gabriel/PA_IGTI/blob/master/progama/funcao.py
+## Aplicativo para deploy via Streamlit
+https://github.com/Mello-Gabriel/PA_IGTI/blob/master/scripts/app.py
+
+Requerements
+
+https://github.com/Mello-Gabriel/PA_IGTI/blob/master/scripts/requirements.txt
