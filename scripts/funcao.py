@@ -10,7 +10,7 @@ from math import sqrt
 
 # %%
 def nome_empresas():
-    with open(r'..\ref\empresas.txt','r', encoding='utf-8') as texto:
+    with open('../ref/empresas.txt','r', encoding='utf-8') as texto:
         empresas=texto.readlines()  
         empresas=[x.replace('\n','').lower() for x in empresas]
         return empresas
@@ -67,7 +67,7 @@ def wordcloud(text_path):
     texto=open(f'{text_path}', encoding='utf-8').read()
     stopwords=set(STOPWORDS)
     new_words = []
-    with open(r"..\ref\stopwords.txt", 'r', encoding='utf-8') as f:
+    with open("../ref/stopwords.txt", 'r', encoding='utf-8') as f:
       [new_words.append(word) for line in f for word in line.split()]
     new_stopwords = stopwords.union(new_words)
     wc=WordCloud(background_color='Black', stopwords=new_stopwords, min_font_size=3, width=1920, height=1080, colormap='viridis',collocation_threshold=10).generate(texto)
