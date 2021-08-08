@@ -15,7 +15,7 @@ empresa=st.sidebar.selectbox('Selecione a empresa', empresas)
 
 
 #apresentar o WordCloud da empresa selecionada
-st.image(fr'/pic/{empresa}.png')
+st.image(fr'pic/{empresa}.png')
 
 #apresentar o grafico com as palavras mais usadas
 tabela=pd.read_csv(f'/tabela_palavras/{empresa}.csv', index_col=1).sort_values(by='quantidade',ascending=False)[:20]
