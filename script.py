@@ -3,7 +3,7 @@ import glob
 from funcao import *
 import pandas as pd
 #%%
-empresas=nome_empresas()
+# empresas=nome_empresas()
 pdfs=[pdf.split('\\')[-1].split('.')[0] for pdf in glob.glob('/pdf_files/*.pdf')]
 textos=[texto.split('\\')[-1].split('.')[0] for texto in glob.glob('/text_files/*.txt')]
 tabelas=[tabela.split('\\')[-1].split('.')[0] for tabela in glob.glob('/tabela_palavras/*.csv')]

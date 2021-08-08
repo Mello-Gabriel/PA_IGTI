@@ -10,7 +10,7 @@ from math import sqrt
 
 # %%
 def nome_empresas():
-    with open('/ref/empresas.txt','r', encoding='utf-8') as texto:
+    with open('empresas.txt','r', encoding='utf-8') as texto:
         empresas=texto.readlines()  
         empresas=[x.replace('\n','').lower() for x in empresas]
         return empresas
