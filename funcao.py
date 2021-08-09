@@ -132,7 +132,7 @@ def as_palavras():
     for palavra in palavras:
         ler_tabela=pd.read_csv(palavra, index_col=1).drop(columns='Unnamed: 0')
         ler_tabela=ler_tabela.to_dict('dict')
-        nome=palavra.split('\\')[-1].split('.')[0]
+        nome=palavra.split('/')[-1].split('.')[0]
         dicio_palavras[nome]=ler_tabela['quantidade']
     return dicio_palavras
 # %%
