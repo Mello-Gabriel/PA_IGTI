@@ -126,7 +126,7 @@ def matriz_similaridade(avaliacoes):
     dn = hierarchy.dendrogram(Z, labels=list(matriz_df.columns), leaf_rotation=90)
 
 #%%
-def palavras():
+def as_palavras():
     dicio_palavras={}
     palavras=glob.glob(r'tabela_palavras/*.csv')
     for palavra in palavras:

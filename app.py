@@ -2,7 +2,7 @@ import streamlit as st
 from funcao import *
 import plotly.express as px
 
-palavras=palavras()
+palavras=as_palavras()
 
 #layout da página
 st.set_page_config(layout='wide')
