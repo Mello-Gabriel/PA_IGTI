@@ -1,12 +1,20 @@
-from script import palavras
 import streamlit as st
 from funcao import *
 import plotly.express as px
+import glob as glob
 
+def palavras():
+    dicio_palavras={}
+    palavras=glob.glob(r'tabela_palavras/*.csv')
+    for palavra in palavras:
+        ler_tabela=pd.read_csv(palavra, index_col=1).drop(columns='Unnamed: 0')
+        ler_tabela=ler_tabela.to_dict('dict')
+        dicio_palavras[palavra.split('\\')[-1].split('.')[0]]=ler_tabela['quantidade']
+    return dicio_palavras
 palavras=palavras()
 
 #layout da página
-# st.set_page_config(layout='wide')
+st.set_page_config(layout='wide')
 
 #títulos do aplicativo
 st.title('SUSTENTABILIDADE EMPRESARIAL') # principal
