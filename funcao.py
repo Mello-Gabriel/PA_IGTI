@@ -1,5 +1,6 @@
 #%%
 import pandas as pd
+import glob as glob
 from googlesearch import search
 import requests
 import PyPDF2
@@ -123,3 +124,13 @@ def matriz_similaridade(avaliacoes):
     Z = hierarchy.linkage(np_matriz, 'single')
     plt.figure()
     dn = hierarchy.dendrogram(Z, labels=list(matriz_df.columns), leaf_rotation=90)
+
+#%%
+def palavras():
+    dicio_palavras={}
+    palavras=glob.glob(r'tabela_palavras/*.csv')
+    for palavra in palavras:
+        ler_tabela=pd.read_csv(palavra, index_col=1).drop(columns='Unnamed: 0')
+        ler_tabela=ler_tabela.to_dict('dict')
+        dicio_palavras[palavra.split('\\')[-1].split('.')[0]]=ler_tabela['quantidade']
+    return dicio_palavras
