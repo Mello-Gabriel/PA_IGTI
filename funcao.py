@@ -10,7 +10,7 @@ from math import sqrt
 
 # %%
 def nome_empresas():
-    with open('empresas.txt','r', encoding='utf-8') as texto:
+    with open(r'ref/empresas.txt','r', encoding='utf-8') as texto:
         empresas=texto.readlines()  
         empresas=[x.replace('\n','').lower() for x in empresas]
         return empresas
@@ -29,7 +29,7 @@ def pegar_pdfs(empresas, links):
     for empresa in empresas:
         try:
             r=requests.get(f"{links[empresa][0][0]}", allow_redirects=True, headers=headers)
-            open(fr'/pdf_files/{empresa}.pdf','wb').write(r.content)
+            open(fr'pdf_files/{empresa}.pdf','wb').write(r.content)
         except:
             print(f"Não foi possível baixar o link {links[empresa][0]}")
 #%%
@@ -57,7 +57,7 @@ def pdf_to_text(caminho):
         dici[page]=pdf_text
     lista="".join(dici.values())
     nome_arquivo=caminho.split("/")[-1].split('.')[-2]
-    f=open(f'/text_files/{nome_arquivo}.txt','w', encoding='utf-8')
+    f=open(fr'text_files/{nome_arquivo}.txt','w', encoding='utf-8')
     f.write(lista)
     f.close()    
     pdf_file.close()
@@ -67,7 +67,7 @@ def wordcloud(text_path):
     texto=open(f'{text_path}', encoding='utf-8').read()
     stopwords=set(STOPWORDS)
     new_words = []
-    with open("/ref/stopwords.txt", 'r', encoding='utf-8') as f:
+    with open(r"ref/stopwords.txt", 'r', encoding='utf-8') as f:
       [new_words.append(word) for line in f for word in line.split()]
     new_stopwords = stopwords.union(new_words)
     wc=WordCloud(background_color='Black', stopwords=new_stopwords, min_font_size=3, width=1920, height=1080, colormap='viridis',collocation_threshold=10).generate(texto)
@@ -77,8 +77,8 @@ def wordcloud(text_path):
     palavras.reset_index(inplace=True)
     palavras.columns=('palavras','quantidade')
     nome_arquivo=text_path.split("/")[-1].split('.')[-2]
-    palavras.to_csv(f'/tabela_palavras/{nome_arquivo}.csv')
-    wc.to_file(f'/pic/{nome_arquivo}.png')
+    palavras.to_csv(fr'tabela_palavras/{nome_arquivo}.csv')
+    wc.to_file(fr'pic/{nome_arquivo}.png')
 # %%
 def sim_euclidiana(avaliacoes, c1, c2):
     mesmos_filmes = {}
