@@ -25,8 +25,6 @@ st.sidebar.write('Esse é um aplicativo web desenvolvido para conclusão do curs
 st.sidebar.write('Eu sou Gabriel de Mello, me conheça melhor em [LinkedIn](https://www.linkedin.com/in/gabriel-guimaraes-de-mello/).')
 st.sidebar.write('Esse projeto foi escrito em Python e está disponível no [Github](https://github.com/Mello-Gabriel/PA_IGTI).')
 
-st.write(sim_euclidiana(palavras, empresa,empresa2))
-
 col1, col2 = st.columns(2)
 with col1:
     st.header(empresa.upper())#apresentar o WordCloud da empresa selecionada
@@ -51,5 +49,3 @@ with col2:
     top2=top_similares(palavras, empresa2)
     st.write("A empresa que possui o relatório mais similar é:", top2[0][1].upper())
     st.write(f'Faça o download do relatório da sustentabilidade da {empresa2.upper()} aqui: [link](https://raw.githubusercontent.com/Mello-Gabriel/PA_IGTI/master/pdf_files/{empresa2.replace(" ","%20")}.pdf)')
-
-st.write(sim_euclidiana(palavras, empresa,empresa2))
