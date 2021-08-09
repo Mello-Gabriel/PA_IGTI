@@ -6,7 +6,7 @@ import plotly.express as px
 palavras=palavras()
 
 #layout da página
-st.set_page_config(layout='wide')
+# st.set_page_config(layout='wide')
 
 #títulos do aplicativo
 st.title('SUSTENTABILIDADE EMPRESARIAL') # principal
