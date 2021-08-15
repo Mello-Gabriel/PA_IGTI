@@ -1,4368 +1,4107 @@
 ,palavras,quantidade
-0,gestão,106
-1,companhia,91
-2,cliente,90
-3,serviço,68
-4,dados,54
-5,sobre,48
-6,negócio,46
-7,processo,45
-8,colaboradores,43
-9,meio,38
-10,rede,38
-11,ano,35
-12,empresa,31
-13,relatório,30
-14,infraestrutura,30
-15,œ,29
+0,gestão,97
+1,cliente,93
+2,companhia,91
+3,serviço,69
+4,dados,55
+5,rede,48
+6,sobre,48
+7,negócio,48
+8,processo,46
+9,colaboradores,46
+10,ano,43
+11,meio,39
+12,trabalho,34
+13,empresa,33
+14,infraestrutura,31
+15,relatório,31
 16,risco,29
 17,abordagem,29
-18,tecnologia,28
-19,comunicação,27
-20,atendimento,27
-21,consumo,27
-22,trabalho,27
-23,fornecedores,26
-24,política,26
-25,objetivo,26
-26,explicação sobre,25
-27,tópico material,25
-28,programa,25
-29,conselho,25
-30,acordo,25
-31,gestão explicação,25
-32,gri abordagem,24
-33,telecomunicações,24
-34,setor,24
-35,limites abordagem,24
-36,todo,24
-37,uso,23
-38,desenvolvimento,23
-39,ética,23
-40,componentes evolução,23
-41,qualidade,22
-42,treinamento,22
-43,soluções,22
-44,operações,22
-45,mercado,21
-46,administração,21
-47,acesso,21
-48,sustentabilidade,21
-49,privacidade,21
-50,produto,20
-51,outro,20
-52,energia,20
-53,cidade,19
-54,5g,19
-55,saúde,19
-56,participações,18
-57,instituto,18
-58,tema,18
-59,direitos humanos,18
-60,iniciativa,18
-61,stakeholders,18
-62,base,17
-63,governança,17
-64,água,17
-65,página,17
-66,impacto,17
-67,área,17
-68,relação,16
-69,projeto,16
-70,gri standard,16
-71,segurança,15
-72,educação,15
-73,redução,15
-74,ambiente,15
-75,proteção,15
-76,desenvolvimento sustent,15
-77,resíduos,15
-78,diretrizes,15
-79,sustent vel,15
-80,ods,15
-81,combate,15
-82,relacionamento,15
-83,pesquisa,15
-84,standard divulgfiç,14
-85,op ginfiomiss,14
-86,ginfiomiss oobjetivos,14
-87,meta,14
-88,usuário,14
-89,mudança,14
-90,investimento,14
-91,divulgfiç op,14
-92,desempenho,14
-93,caso,13
-94,organização,13
-95,parte,13
-96,experiência,13
-97,promover,13
-98,canais,13
-99,período,13
-100,plataforma,13
-101,tempo,13
-102,conduta,13
-103,cerca,13
-104,crescimento,13
-105,satisfação,13
-106,inovação,13
-107,leia,13
-108,número,13
-109,rio,13
-110,elaboração,12
-111,site,12
-112,informação,12
-113,garantir,12
-114,internet,12
-115,parceria,12
-116,engajamento,12
-117,operação,12
-118,conformidade,12
-119,atividades,12
-120,responsável,11
-121,mil,11
-122,forma,11
-123,efeito estufa,11
-124,realizada,11
-125,corrupção,11
-126,código,11
-127,diversidade,11
-128,compromisso,11
-129,além,11
-130,venda,11
-131,público,11
-132,milhões,11
-133,aumento,11
-134,sociedade,11
-135,gases,11
-136,janeiro,11
-137,exemplo,11
-138,larga fixa,10
-139,ações,10
-140,tema material,10
-141,prevenção,10
-142,inclusão digital,10
-143,iot,10
-144,principais,10
-145,apoio,10
-146,dia,10
-147,órgão,10
-148,maior,10
-149,sistema,10
-150,resultado,10
-151,informações,10
-152,toda,10
-153,indicadores,10
-154,informações constantes,10
-155,governo,10
-156,asseguração limitada,10
-157,comitê,10
-158,direito,10
-159,canais digitais,9
-160,boas práticas,9
-161,taxa,9
-162,exigência,9
-163,oferece,9
-164,ultrabanda larga,9
-165,valor,9
-166,canal,9
-167,pacto global,9
-168,procedimento,9
-169,relacionada,9
-170,continuidade,9
-171,ainda,9
-172,considerando,9
-173,4g,9
-174,acidente,9
-175,presença,9
-176,outras,9
-177,controle,9
-178,plano,9
-179,oportunidade,9
-180,banda larga,8
-181,partir,8
-182,metodologia,8
-183,final,8
-184,cada,8
-185,participação,8
-186,call center,8
-187,aderência,8
-188,anticorrupção,8
-189,temas materiais,8
-190,criação,8
-191,medida,8
-192,pessoa,8
-193,pós pago,8
-194,lei,8
-195,função,8
-196,cadeia,8
-197,indústria,8
-198,divulgações gerais,8
-199,liderança,8
-200,emissões,8
-201,conectada,8
-202,membros,8
-203,legislação,8
-204,compliance,8
-205,novo,8
-206,pandemia,7
-207,tomada,7
-208,emiss ões,7
-209,importância,7
-210,composto,7
-211,crise,7
-212,gerenciamento,7
-213,volume,7
-214,interna,7
-215,longo prazo,7
-216,operadora,7
-217,contribui,7
-218,estratégia,7
-219,disponíveis,7
-220,móvel,7
-221,gestão ambiental,7
-222,sociais,7
-223,cultura,7
-224,relativo,7
+18,fornecedores,29
+19,consumo,28
+20,tecnologia,28
+21,atendimento,27
+22,telecomunicações,26
+23,comunicação,26
+24,tópico material,25
+25,gestão explicação,25
+26,programa,25
+27,acordo,25
+28,objetivo,25
+29,política,25
+30,explicação sobre,25
+31,todo,25
+32,conselho,25
+33,limites abordagem,24
+34,gestão gri,24
+35,setor,24
+36,desenvolvimento,24
+37,gri abordagem,24
+38,uso,23
+39,operações,23
+40,ética,23
+41,treinamento,23
+42,componentes evolução,23
+43,saúde,23
+44,outro,23
+45,qualidade,22
+46,privacidade,22
+47,soluções,22
+48,administração,22
+49,acesso,21
+50,mercado,21
+51,energia,21
+52,sustentabilidade,21
+53,cidade,20
+54,água,20
+55,produto,20
+56,instituto,19
+57,tema,19
+58,página,19
+59,impacto,19
+60,governança,19
+61,iniciativa,19
+62,projeto,18
+63,direitos humanos,18
+64,participações,18
+65,stakeholders,18
+66,segurança,18
+67,meta,17
+68,gri standard,17
+69,base,17
+70,combate,17
+71,relação,17
+72,área,17
+73,ods,16
+74,parte,16
+75,ambiente,16
+76,educação,16
+77,relacionamento,15
+78,redução,15
+79,proteção,15
+80,usuário,15
+81,diretrizes,15
+82,número,14
+83,desempenho,14
+84,divulg ç,14
+85,standard divulg,14
+86,gin omiss,14
+87,engajamento,14
+88,resíduos,14
+89,cerca,14
+90,ç op,14
+91,omiss oobjetivos,14
+92,mudança,14
+93,op gin,14
+94,inovação,14
+95,pesquisa,14
+96,canais,13
+97,pro ssionais,13
+98,conduta,13
+99,leia,13
+100,site,13
+101,mil,13
+102,caso,13
+103,público,13
+104,satisfação,13
+105,informação,13
+106,governo,13
+107,investimento,13
+108,plataforma,13
+109,tempo,13
+110,crescimento,13
+111,rio,13
+112,experiência,13
+113,período,13
+114,promover,13
+115,organização,13
+116,internet,12
+117,garantir,12
+118,venda,12
+119,sociedade,12
+120,elaboração,12
+121,conformidade,12
+122,parceria,12
+123,atividades,12
+124,operação,12
+125,taxa,11
+126,forma,11
+127,desenvolvimento sus,11
+128,tent vel,11
+129,inclusão digital,11
+130,sus tent,11
+131,ações,11
+132,aumento,11
+133,janeiro,11
+134,gases,11
+135,milhões,11
+136,corrupção,11
+137,efeito estufa,11
+138,compromisso,11
+139,realizada,11
+140,código,11
+141,tema material,11
+142,responsável,11
+143,exemplo,11
+144,oportunidade,10
+145,sistema,10
+146,principais,10
+147,informações constantes,10
+148,dia,10
+149,emissões,10
+150,diversidade,10
+151,além,10
+152,apoio,10
+153,comitê,10
+154,informações,10
+155,indicadores,10
+156,órgão,10
+157,asseguração limitada,10
+158,considerando,10
+159,cada,10
+160,maior,10
+161,signi cativo,10
+162,resultado,10
+163,pacto global,10
+164,prevenção,10
+165,toda,10
+166,ciência,10
+167,outras,9
+168,índice,9
+169,liderança,9
+170,valor,9
+171,exigência,9
+172,ainda,9
+173,plano,9
+174,pessoa,9
+175,identi car,9
+176,iot,9
+177,lei,9
+178,ultrabanda larga,9
+179,certi cação,9
+180,canal,9
+181,relacionada,9
+182,sociais,9
+183,boas práticas,9
+184,novo,9
+185,conectada,9
+186,canais digitais,9
+187,call center,9
+188,continuidade,9
+189,função,9
+190,direito,9
+191,presença,9
+192,oferece,9
+193,cobertura,9
+194,medida,9
+195,ambiental,9
+196,controle,9
+197,pós pago,8
+198,nal,8
+199,metodologia,8
+200,divulgações gerais,8
+201,móvel,8
+202,gri divulgações,8
+203,modelo,8
+204,cadeia,8
+205,indústria,8
+206,partir,8
+207,criação,8
+208,anticorrupção,8
+209,participação,8
+210,informações sobre,8
+211,gestão ambiental,8
+212,procedimento,8
+213,temas materiais,8
+214,compliance,8
+215,banda larga,8
+216,membros,8
+217,legislação,8
+218,larga xa,8
+219,acidente,8
+220,aderência,8
+221,relativo,7
+222,capacidade,7
+223,relevante,7
+224,fatura,7
 225,apresentado,7
-226,princípio,7
-227,índice,7
-228,empregados,7
-229,modelo,7
-230,plano estratégico,7
-231,informações sobre,7
-232,capacidade,7
-233,disponibiliza,7
-234,aspectos,7
-235,paulo,7
-236,ambiental,7
-237,çã,7
-238,gri divulgações,7
-239,tráfego,7
-240,fatura,7
-241,pessoa física,7
-242,reconhece,7
-243,relevante,7
-244,nº nº,6
-245,integridade,6
-246,frequência,6
-247,recurso,6
-248,comunica çã,6
-249,comprometimento,6
-250,meio ambiente,6
-251,res íduos,6
-252,inventário,6
-253,benefício,6
-254,curso,6
-255,garante,6
-256,vel gri,6
-257,living lab,6
-258,multa,6
-259,realizou,6
-260,gee,6
-261,norma,6
-262,financeiro,6
-263,representantes,6
-264,realização,6
-265,aquisição desde,6
-266,análise,6
-267,conectividade,6
-268,identificar,6
-269,cumprimento,6
-270,contrato,6
-271,demanda,6
-272,atuação,6
-273,investidores,6
-274,alta,6
-275,solução,6
-276,materialidade,6
-277,covid,6
-278,b3,6
-279,conectado,6
-280,país,6
-281,papel,6
-282,transparência,6
-283,testes,6
-284,live,6
-285,nota média,6
-286,inclusão,6
-287,transporte,6
-288,ambientais,6
-289,promoção,5
-290,experi ência,5
-291,responsabilidade social,5
-292,dados pessoais,5
-293,acionistas,5
-294,conexão,5
-295,erbs,5
-296,lista,5
-297,durante,5
-298,realizado,5
-299,oferta,5
-300,cobertura 4g,5
-301,asseguração,5
-302,prestação,5
-303,entende,5
-304,conclusão,5
-305,remuneração,5
-306,avaliação,5
-307,melhor,5
-308,conteúdo,5
-309,participa,5
-310,grupos,5
-311,monitoramento,5
-312,sindicato,5
-313,adoção,5
-314,independente,5
-315,tipo,5
-316,utilizado,5
-317,signatária,5
-318,tecnológica,5
-319,gestão 90gri,5
-320,homens,5
-321,5g living,5
-322,disponível,5
-323,startups,5
-324,neste relatório,5
-325,eficiente,5
-326,cada vez,5
-327,seguir,5
-328,responsabilidade,5
-329,tamb ém,5
-330,neg ócio,5
-331,longo,5
-332,emissões indiretas,5
-333,valores,5
-334,dezembro,5
-335,oferecer,5
-336,liberdade,5
-337,importante,5
-338,dessa forma,5
-339,global reporting,5
-340,telefonia móvel,5
-341,transparente,5
-342,compra,5
-343,ghg protocol,5
-344,trabalho infantil,5
-345,mensagem,5
-346,estado,5
-347,respeito,5
-348,busca,5
-349,evolução,5
-350,baixa latência,5
-351,realiza,5
-352,relacionado,5
-353,práticas,5
-354,compromete,5
-355,clima,5
-356,humano,5
+226,reconhece,7
+227,composto,7
+228,multa,7
+229,gee,7
+230,gerenciamento,7
+231,contribui,7
+232,ciente,7
+233,crise,7
+234,disponíveis,7
+235,aspectos,7
+236,papel,7
+237,representantes,7
+238,contrato,7
+239,princípio,7
+240,longo prazo,7
+241,tráfego,7
+242,plano estratégico,7
+243,alta,7
+244,tomada,7
+245,empregados,7
+246,interna,7
+247,cultura,7
+248,identi cado,7
+249,pandemia,7
+250,disponibiliza,7
+251,paulo,7
+252,volume,7
+253,estratégia,7
+254,importância,7
+255,operadora,7
+256,pessoa física,7
+257,emiss ões,7
+258,nota média,7
+259,live,6
+260,responsabilidade,6
+261,living lab,6
+262,conectado,6
+263,cumprimento,6
+264,país,6
+265,clima,6
+266,garante,6
+267,interno,6
+268,comunica çã,6
+269,meio ambiente,6
+270,conectividade,6
+271,investidores,6
+272,acionistas,6
+273,realização,6
+274,covid,6
+275,norma,6
+276,aquisição desde,6
+277,res íduos,6
+278,importante,6
+279,nº nº,6
+280,compra,6
+281,transporte,6
+282,vel gri,6
+283,integridade,6
+284,inventário,6
+285,tipo,6
+286,respeito,6
+287,solução,6
+288,comprometimento,6
+289,realizou,6
+290,frequência,6
+291,tco,6
+292,inclusão,6
+293,análise,6
+294,recurso,6
+295,çã,6
+296,nanceiro,6
+297,curso,6
+298,ambientais,6
+299,benefício,6
+300,materialidade,6
+301,demanda,6
+302,transparência,6
+303,testes,6
+304,lista,6
+305,avaliação,5
+306,liberdade,5
+307,tecnológica,5
+308,utilizado,5
+309,dezembro,5
+310,br,5
+311,mensagem,5
+312,experi ência,5
+313,realiza,5
+314,prestação,5
+315,oferecer,5
+316,atuação,5
+317,seguir,5
+318,grupos,5
+319,participa,5
+320,dessa forma,5
+321,neste relatório,5
+322,signatária,5
+323,compromete,5
+324,disponível,5
+325,oferta,5
+326,conexão,5
+327,promoção,5
+328,realizado,5
+329,transparente,5
+330,valores,5
+331,trabalho infantil,5
+332,anatel,5
+333,busca,5
+334,conteúdo,5
+335,mulheres,5
+336,tamb ém,5
+337,dados pessoais,5
+338,neg ócio,5
+339,humano,5
+340,colaborador,5
+341,independente,5
+342,conclusão,5
+343,monitoramento,5
+344,durante,5
+345,reciclagem,5
+346,eletricidade,5
+347,estado,5
+348,erbs,5
+349,práticas,5
+350,startups,5
+351,adoção,5
+352,emissões indiretas,5
+353,melhor,5
+354,responsabilidade social,5
+355,ghg protocol,5
+356,longo,5
 357,internet móvel,5
-358,fornecedores locais,5
-359,abrange,5
-360,rede 4g,5
-361,municípios,5
-362,principais stakeholders,5
-363,principalmente,4
-364,desenvolvimento sustentável,4
-365,limites,4
-366,técnico,4
-367,diretor presidente,4
-368,ods gestão,4
-369,definição,4
-370,transmissão,4
-371,primeira operadora,4
-372,significativo,4
-373,onde,4
-374,apoiar,4
-375,média salarial,4
-376,suprimentos,4
-377,integra,4
-378,terceiro,4
-379,nações unidas,4
-380,riscos corporativos,4
-381,compartilhamento,4
-382,mitiga çã,4
-383,interno,4
-384,permite,4
-385,escolas públicas,4
-386,externo,4
-387,implementação,4
-388,geração,4
-389,italia,4
-390,diverso,4
-391,parte desse,4
-392,centro,4
-393,garantia,4
-394,consumidores,4
-395,cobertura,4
-396,reconhecida,4
-397,valorização,4
-398,mundo,4
-399,reporting initiative,4
-400,riscos ambientais,4
-401,recebimento,4
-402,seguran ça,4
-403,janeiro rj,4
-404,conformidades relativas,4
-405,sendo,4
-406,utilização,4
-407,transformação,4
-408,nºt,4
-409,constante,4
-410,agronegócio,4
-411,funcionários,4
-412,cliente pessoa,4
-413,voz,4
-414,selecionado,4
-415,pr áticas,4
-416,material gestão,4
-417,brasileiro ghg,4
-418,marca,4
-419,questionário,4
-420,colaborador,4
-421,qualidade percebida,4
-422,órg ão,4
-423,linha,4
-424,rede móvel,4
-425,campo,4
-426,programa brasileiro,4
-427,construção,4
-428,implantação,4
-429,conduzir,4
-430,busca ativa,4
-431,governança corporativa,4
-432,https,4
-433,questões,4
-434,pré pago,4
-435,foco,4
-436,marketing,4
-437,água reciclada,4
-438,discriminação,4
-439,olhar,4
-440,equipes,4
-441,fornecimento,4
-442,publicidade,4
-443,alteração,4
-444,gest ão,4
-445,melhoria,4
-446,conforme,4
-447,rede 5g,4
-448,est á,4
-449,dois anos,4
-450,impactos econômicos,4
-451,demonstra,4
-452,velocidade,4
-453,mandato,4
-454,decisão,4
-455,interesse,4
-456,aplicação,4
-457,pegada,4
-458,razão,4
-459,mulheres,4
-460,conhecimento,4
-461,anatel,4
-462,entidade,4
-463,profissionais,4
-464,gerenciar,4
-465,opera çã,4
-466,apresentação,4
-467,conta,4
-468,mudanças climáticas,4
-469,pol ítica,4
-470,controles internos,4
-471,novas tecnologias,4
-472,chamadas,4
-473,conduzida,4
-474,necessidade,4
-475,legislação brasileira,4
-476,estratégica,4
-477,parceiros,4
-478,determinações,4
-479,relevância,4
-480,categoria funcional,3
-481,econômicos indiretos,3
-482,instituições,3
-483,capital humano,3
-484,eventos,3
-485,ensino,3
-486,ferramenta,3
-487,solicitação,3
-488,workshop,3
-489,conduzido,3
-490,responsáveis,3
-491,cadastro,3
-492,coisas,3
-493,impostos,3
-494,vida,3
-495,pós consumo,3
-496,população,3
-497,urbana,3
-498,proporcionar,3
-499,concorrência desleal,3
-500,pacote,3
-501,bolsa,3
-502,gestão 33gri,3
-503,cubo,3
-504,duas multas,3
-505,anual,3
-506,regulamentar aquisição,3
-507,líder,3
-508,fevereiro,3
-509,imagem,3
-510,competitividade,3
-511,superior,3
-512,uentes,3
-513,ratings fitch,3
-514,própria companhia,3
-515,fitch ratings,3
-516,risco fitch,3
-517,possibilidade,3
-518,nesse,3
-519,destaque,3
-520,unidades operacionais,3
-521,utilizada,3
-522,reutilizada,3
-523,efici ência,3
-524,œ proporcionam,3
-525,assumiu,3
-526,bem,3
-527,criaçã,3
-528,abrangência,3
-529,retorno,3
-530,reforçando,3
-531,órgãos reguladores,3
-532,próprio conselho,3
-533,denúncias,3
-534,emissões diretas,3
-535,resposta,3
-536,obtenção,3
-537,prevenir,3
-538,contratados,3
-539,ciência,3
-540,representam,3
-541,condução,3
-542,eventuais,3
-543,temas apontados,3
-544,público interno,3
-545,disponibilidade,3
-546,data center,3
-547,crc,3
-548,fontes renováveis,3
-549,associada,3
-550,comunicações,3
-551,força,3
-552,alto risco,3
-553,novo mercado,3
-554,associação brasileira,3
-555,sustentabilidade empresarial,3
-556,empresarial ise,3
-557,pró ética,3
-558,environmental social,3
-559,coisas iot,3
-560,assistência financeira,3
-561,dias perdidos,3
-562,dez temas,3
-563,initiative gri,3
-564,criou,3
-565,primeira vez,3
-566,manter,3
-567,desafios,3
-568,œ quadro,3
-569,faturamento,3
-570,isolamento social,3
-571,econômico social,3
-572,forma pioneira,3
-573,estudo,3
-574,certificação regulamentar,3
-575,desde método,3
-576,coleta consolidação,3
-577,prestadoras,3
-578,eixos econômico,3
-579,promove,3
-580,resultados financeiros,3
-581,pois,3
-582,registro,3
-583,campina grande,3
-584,aumentando,3
-585,expressão,3
-586,con ito,3
-587,seguiu,3
-588,executado,3
-589,ecossistema,3
-590,franquia,3
-591,análogo,3
-592,estratégico,3
-593,consultores,3
-594,valor adicionado,3
-595,pública,3
-596,atrair,3
-597,valor positivo,3
-598,aplicados,3
-599,inovação aplicada,3
-600,gestão estratégica,3
-601,pessoal próprio,3
-602,identificação,3
-603,transformação digital,3
-604,baixa renda,3
-605,média,3
-606,escravo,3
-607,prestadores,3
-608,reciclagem,3
-609,defesa,3
-610,áreas rurais,3
-611,preven çã,3
-612,permitir,3
-613,campanha,3
-614,reporte ﬁessencialﬂ,3
-615,identificado,3
-616,profissional,3
-617,passíveis,3
-618,critérios premissas,3
-619,ocorrência,3
-620,salário,3
-621,opção,3
-622,tec,3
-623,dentro,3
-624,aberto,3
-625,distância,3
-626,inteligente,3
-627,nova,3
-628,milhão,3
-629,reduzir,3
-630,além disso,3
-631,igualdade,3
-632,investimento social,3
-633,percebida anatel,3
-634,onu,3
-635,social corporativa,3
-636,pagamento,3
-637,possui,3
-638,br,3
-639,vivo,3
-640,regras,3
-641,equipamento,3
-642,desenvolvido,3
-643,deficiência,3
-644,telefonia,3
-645,cat transporte,3
-646,planos pós,3
-647,organizações,3
-648,auditores independentes,3
-649,descarte,3
-650,co 2e,3
-651,energia elétrica,3
-652,cálculo,3
-653,licenciamento,3
-654,natureza,3
-655,disposição,3
-656,eletricidade,3
-657,oportunidades devido,3
-658,acredita,3
-659,desenvolver,3
-660,geral,3
-661,inovadora,3
-662,envio,3
-663,câmera,3
-664,serviços oferecidos,3
-665,estufa escopo,3
-666,trabalho remoto,3
-667,organizacional,3
-668,espírito santo,3
-669,criança,3
-670,adequada,3
-671,due diligence,3
-672,nb iot,3
-673,método,3
-674,ampliação,3
-675,investimentos sociais,3
-676,próprio,3
-677,lançamento,3
-678,operacional,3
-679,estufa gee,3
-680,assuntos,3
-681,redu çã,3
-682,duração,3
-683,mapear,3
-684,opera ções,3
-685,dobro,3
-686,emissões fugitivas,3
-687,relatório anual,3
-688,decisões,3
-689,aplicativo,3
-690,estabilidade,3
-691,nível,3
-692,componentes,3
-693,etapa,3
-694,trabalho forçado,3
-695,mil pessoas,3
-696,dois,3
-697,bateria,3
-698,academia,3
-699,incentivam,3
-700,abrangem,2
-701,ionizante,2
-702,radiação,2
-703,ambiental cada,2
-704,possibilita,2
-705,primeira,2
-706,autoatendimento,2
-707,recargas consultas,2
-708,organiza çã,2
-709,objetivos estratégicos,2
-710,substituição,2
-711,temas importantes,2
-712,abrangendo,2
-713,aaa bra,2
-714,primeira antena,2
-715,positivo,2
-716,escala nacional,2
-717,rating inicial,2
-718,quinta geração,2
-719,controle consumer,2
-720,avaliada,2
-721,história,2
-722,próprio estagiários,2
-723,prestado,2
-724,gênero nºt,2
-725,referente,2
-726,centers estagiários,2
-727,margem,2
-728,novas leis,2
-729,telecomunica ções,2
-730,artigo,2
-731,agência,2
-732,agendas públicas,2
-733,assembleia geral,2
-734,pessoais lgpd,2
-735,mapeados,2
-736,políticas públicas,2
-737,intelig ência,2
-738,loco,2
-739,gerenciados,2
-740,reter talentos,2
-741,prédios administrativos,2
-742,avaliados,2
-743,normalidade,2
-744,atendem,2
-745,atuar,2
-746,deve,2
-747,reportado,2
-748,desastre,2
-749,estimado,2
-750,classifica çã,2
-751,novas ofertas,2
-752,monitorados,2
-753,ag ência,2
-754,https ri,2
-755,atrelada,2
-756,br showcanal,2
-757,ência artificial,2
-758,showcanal administracao,2
-759,apresenta,2
-760,escala,2
-761,taxas correspondem,2
-762,deslocamento,2
-763,dispõe,2
-764,massive mimo,2
-765,inova çã,2
-766,prioritário,2
-767,aperfeiçoar,2
-768,geração distribuída,2
-769,governan ça,2
-770,abordando temas,2
-771,técnicos profissionais,2
-772,seguintes etapas,2
-773,diretamente relacionado,2
-774,ambições,2
-775,mensais calculadas,2
-776,recursos humanos,2
-777,pagamentos realizados,2
-778,custo,2
-779,viabilizam,2
-780,clima leia,2
-781,assumiu compromisso,2
-782,diretrizes internas,2
-783,investido,2
-784,melhoria contínua,2
-785,segunda colocada,2
-786,centrais geradoras,2
-787,energia renovável,2
-788,aspectos socioambientais,2
-789,acompanha agendas,2
-790,mesma,2
-791,critérios ambientais,2
-792,papel essencial,2
-793,colaboradores ativos,2
-794,finalidade econômica,2
-795,ano superior,2
-796,quantidade,2
-797,relato,2
-798,expandiu,2
-799,ghz,2
-800,lei geral,2
-801,2g 3g,2
-802,rural,2
-803,sujeitos,2
-804,governança esg,2
-805,relacionamento próximo,2
-806,testado,2
-807,materialidade identificou,2
-808,conquistamos,2
-809,compromissos públicos,2
-810,empresa pró,2
-811,engajada,2
-812,eficiência energética,2
-813,controladoria geral,2
-814,garatéa iss,2
-815,união cgu,2
-816,digitalização,2
-817,cgu iniciativa,2
-818,precisão,2
-819,internet segura,2
-820,ambiente corporativo,2
-821,global desde,2
-822,rede brasileira,2
-823,julho,2
-824,org br,2
-825,prote çã,2
-826,desenvolvendo,2
-827,especificações,2
-828,cidades inteligentes,2
-829,segunda fase,2
-830,possível avaliar,2
-831,desde participa,2
-832,profissionais força,2
-833,iniciativas empresariais,2
-834,ganho,2
-835,leve,2
-836,desenvolvedores,2
-837,negociação coletiva,2
-838,acreditar,2
-839,registro público,2
-840,compilação,2
-841,indireta,2
-842,nbc,2
-843,enviado,2
-844,imagens transmitidas,2
-845,livre,2
-846,contabilidade,2
-847,fazer,2
-848,eficiência,2
-849,homensmulheres homensmulheres,2
-850,stakeholders mapeadas,2
-851,principais categorias,2
-852,project cdp,2
-853,realidade virtual,2
-854,disclosure project,2
-855,carbon disclosure,2
-856,aumentar,2
-857,eletrônicos,2
-858,hub,2
-859,cocriação,2
-860,fazer testes,2
-861,universidade,2
-862,recargas digitais,2
-863,intensivo,2
-864,conteúdo gri,2
-865,paciente,2
-866,casa,2
-867,legislação nacional,2
-868,meio desse,2
-869,serviços adquiridos,2
-870,etanol hidratado,2
-871,diagnóstico,2
-872,temas relevantes,2
-873,comunicado,2
-874,melhorar,2
-875,reporte,2
-876,lgpd,2
-877,agosto,2
-878,perda,2
-879,colaboradores treinados,2
-880,labriola diretor,2
-881,bem pago,2
-882,áreas chave,2
-883,dessa,2
-884,peso,2
-885,ativa escolar,2
-886,conceito,2
-887,ambiental realização,2
-888,show,2
-889,íduos perigosos,2
-890,minas gerais,2
-891,cultura organizacional,2
-892,consultas públicas,2
-893,ebitda normalizado,2
-894,luva,2
-895,aumentada ar,2
-896,respeitados,2
-897,anexo ii,2
-898,adequação,2
-899,direto gerado,2
-900,econômico direto,2
-901,conscientização,2
-902,representa institucionalmente,2
-903,distribuição,2
-904,valor econômico,2
-905,econômico valor,2
-906,impacto econômico,2
-907,social privado,2
-908,preparação,2
-909,contabilizado,2
-910,sustentabilidade metas,2
-911,agência nacional,2
-912,discriminado,2
-913,quebra,2
-914,energia dentro,2
-915,monopólio,2
-916,telecomunicações anatel,2
-917,horas pessoal,2
-918,créditos,2
-919,sanções,2
-920,saúde educação,2
-921,impactos significativos,2
-922,históricas,2
-923,aprovado,2
-924,realidade aumentada,2
-925,especialista,2
-926,ambições esg,2
-927,administracao ygjjru07xzclfdkgwbc9gq,2
-928,satisfação nacional,2
-929,nesse contexto,2
-930,fizeram,2
-931,infantil gri,2
-932,presta çã,2
-933,reciclagem indicador,2
-934,academic working,2
-935,4g atingindo,2
-936,desse processo,2
-937,próximo,2
-938,publica,2
-939,fazem parte,2
-940,atingindo aproximadamente,2
-941,segue,2
-942,anatel nota,2
-943,consideram,2
-944,aproximadamente cidades,2
-945,working capital,2
-946,prédios industriais,2
-947,sugestões,2
-948,podem,2
-949,deve atuar,2
-950,participaram,2
-951,90gri trabalho,2
-952,vez,2
-953,dedicação,2
-954,norma iso,2
-955,deixaram,2
-956,somatório,2
-957,saúde ocupacional,2
-958,á los,2
-959,libras,2
-960,orgulhamos,2
-961,conjunto,2
-962,gestão 35gri,2
+358,baixa latência,5
+359,evolução,5
+360,cada vez,5
+361,telefonia móvel,5
+362,impactos econômicos,5
+363,global reporting,5
+364,municípios,5
+365,principais stakeholders,5
+366,asseguração,5
+367,pré pago,5
+368,fornecedores locais,5
+369,homens,5
+370,remuneração,5
+371,questões,5
+372,marketing,5
+373,entende,5
+374,terceiro,5
+375,abrange,5
+376,controles internos,4
+377,gest ão,4
+378,pós consumo,4
+379,estratégica,4
+380,conformidades relativas,4
+381,seguran ça,4
+382,ods gestão,4
+383,sustent vel,4
+384,janeiro rj,4
+385,linha,4
+386,construção,4
+387,quali cação,4
+388,identi cação,4
+389,material gestão,4
+390,reporting initiative,4
+391,marca,4
+392,questionário,4
+393,qualidade percebida,4
+394,olhar,4
+395,parte desse,4
+396,nações unidas,4
+397,novas tecnologias,4
+398,implementação,4
+399,melhoria,4
+400,programa brasileiro,4
+401,pr áticas,4
+402,legislação brasileira,4
+403,gerenciar,4
+404,pol ítica,4
+405,órg ão,4
+406,necessidade,4
+407,governança corporativa,4
+408,centro,4
+409,brasileiro ghg,4
+410,conduzida,4
+411,consumidores,4
+412,conduzir,4
+413,externo,4
+414,est á,4
+415,ca çã,4
+416,mandato,4
+417,limites,4
+418,relevância,4
+419,sindicato,4
+420,https,4
+421,decisão,4
+422,rede móvel,4
+423,desenvolvimento sustentável,4
+424,demonstra,4
+425,integra,4
+426,reutilizada,4
+427,italia,4
+428,reconhecida,4
+429,pegada,4
+430,nb iot,4
+431,garantia,4
+432,determinações,4
+433,método,4
+434,chamadas,4
+435,busca ativa,4
+436,opera çã,4
+437,utilização,4
+438,apoiar,4
+439,implantação,4
+440,agronegócio,4
+441,vida,4
+442,onde,4
+443,apresentação,4
+444,escolas públicas,4
+445,voz,4
+446,nição,4
+447,permite,4
+448,recebimento,4
+449,valorização,4
+450,mudanças climáticas,4
+451,custo,4
+452,diretor presidente,4
+453,riscos ambientais,4
+454,foco,4
+455,mitiga çã,4
+456,alteração,4
+457,primeira operadora,4
+458,riscos corporativos,4
+459,água reciclada,4
+460,fornecimento,4
+461,denúncias,4
+462,média salarial,4
+463,selecionado,4
+464,escravo,4
+465,nºt,4
+466,razão,4
+467,conforme,4
+468,entidade,4
+469,relacionado,4
+470,discriminação,4
+471,compartilhamento,4
+472,diverso,4
+473,dois anos,4
+474,cliente pessoa,4
+475,suprimentos,4
+476,desa,4
+477,sendo,4
+478,conhecimento,4
+479,principalmente,4
+480,conta,4
+481,equipes,4
+482,quadro,4
+483,constante,4
+484,produção,4
+485,interesse,4
+486,funcionários,4
+487,transformação,4
+488,transmissão,4
+489,aplicação,4
+490,geração,4
+491,ce,4
+492,mundo,4
+493,parceiros,4
+494,velocidade,4
+495,campo,4
+496,investimentos sociais,3
+497,gestão estratégica,3
+498,trabalho forçado,3
+499,inovação aplicada,3
+500,aplicativo,3
+501,próprio conselho,3
+502,opção,3
+503,envio,3
+504,prevenir,3
+505,consultores,3
+506,con ito,3
+507,larga fixa,3
+508,resposta,3
+509,abrangência,3
+510,categoria funcional,3
+511,opera ções,3
+512,valor positivo,3
+513,câmera,3
+514,duas multas,3
+515,monitorados,3
+516,dois,3
+517,ssionais força,3
+518,signi cativa,3
+519,social corporativa,3
+520,bateria,3
+521,nesse,3
+522,áreas rurais,3
+523,igualdade,3
+524,valor adicionado,3
+525,solicitação,3
+526,geral,3
+527,competitividade,3
+528,accountability,3
+529,imagem,3
+530,cadastro,3
+531,seguiu,3
+532,próprio,3
+533,eixos econômico,3
+534,econômico social,3
+535,própria companhia,3
+536,criaçã,3
+537,ampliação,3
+538,relatório anual,3
+539,auditores independentes,3
+540,inovadora,3
+541,franquia,3
+542,inteligente,3
+543,reduzir,3
+544,espírito santo,3
+545,nova,3
+546,equipamento,3
+547,responsáveis,3
+548,técnico,3
+549,baixa renda,3
+550,campanha,3
+551,análogo,3
+552,reporte ﬁessencialﬂ,3
+553,líder,3
+554,salário,3
+555,critérios premissas,3
+556,faturamento,3
+557,referente,3
+558,disposição,3
+559,descarte,3
+560,data center,3
+561,transformação digital,3
+562,onu,3
+563,estratégico,3
+564,incentivam,3
+565,adequada,3
+566,workshop,3
+567,pessoal próprio,3
+568,eventuais,3
+569,assumiu,3
+570,cação regulamentar,3
+571,associada,3
+572,condução,3
+573,regulamentar aquisição,3
+574,unidades operacionais,3
+575,passíveis,3
+576,emissão,3
+577,dias perdidos,3
+578,anual,3
+579,bem,3
+580,estudo,3
+581,home,3
+582,utilizada,3
+583,aplicados,3
+584,iso certi,3
+585,fonte,3
+586,estrutura,3
+587,média,3
+588,especí ca,3
+589,retorno,3
+590,peso,3
+591,uentes,3
+592,possibilidade,3
+593,cálculo,3
+594,desde método,3
+595,coleta consolidação,3
+596,ocorrência,3
+597,assistência nanceira,3
+598,regulamentos,3
+599,dobro,3
+600,expressão,3
+601,publicidade,3
+602,criança,3
+603,dentro,3
+604,estabilidade,3
+605,nível,3
+606,fraude,3
+607,desenvol vimento,3
+608,vimento sustent,3
+609,destaque,3
+610,ciência energética,3
+611,especi cações,3
+612,milhão,3
+613,duração,3
+614,aberto,3
+615,proporcionam,3
+616,due diligence,3
+617,reforçando,3
+618,prestadoras,3
+619,representam,3
+620,regras,3
+621,promove,3
+622,pagamento,3
+623,possui,3
+624,contratados,3
+625,fundação,3
+626,obtenção,3
+627,registro,3
+628,alto risco,3
+629,agregar,3
+630,cubo,3
+631,executado,3
+632,eventos,3
+633,operacional,3
+634,estufa gee,3
+635,distância,3
+636,manter,3
+637,primeira vez,3
+638,emissões fugitivas,3
+639,população,3
+640,dez temas,3
+641,environmental social,3
+642,vivo,3
+643,licenciamento,3
+644,pois,3
+645,empresarial ise,3
+646,sustentabilidade empresarial,3
+647,acredita,3
+648,desenvolver,3
+649,novo mercado,3
+650,mil pessoas,3
+651,cat transporte,3
+652,resultados nanceiros,3
+653,academia,3
+654,campina grande,3
+655,componentes,3
+656,ci ência,3
+657,organizacional,3
+658,initiative gri,3
+659,forma pioneira,3
+660,crc,3
+661,fontes renováveis,3
+662,tec,3
+663,capital humano,3
+664,energia elétrica,3
+665,pacote,3
+666,desenvolvido,3
+667,isolamento social,3
+668,serviços oferecidos,3
+669,telefonia,3
+670,criou,3
+671,con ança,3
+672,planos pós,3
+673,percebida anatel,3
+674,associação brasileira,3
+675,anatel nota,3
+676,ampliou,3
+677,materiais,3
+678,além disso,3
+679,ecossistema,3
+680,etapa,3
+681,prestadores,3
+682,defesa,3
+683,organizações,3
+684,aumentando,3
+685,trabalho remoto,3
+686,mapear,3
+687,emissões diretas,3
+688,superior,3
+689,fevereiro,3
+690,lgpd,3
+691,assuntos,3
+692,disponibilidade,3
+693,perda,3
+694,coisas iot,3
+695,pró ética,3
+696,ferramenta,3
+697,órgãos reguladores,3
+698,coisas,3
+699,força,3
+700,norma iso,3
+701,fitch ratings,3
+702,proporcionar,3
+703,conteúdo gri,3
+704,ratings fitch,3
+705,permitir,3
+706,investimento social,3
+707,impostos,3
+708,gri,3
+709,instituições,3
+710,redu çã,3
+711,público interno,3
+712,decisões,3
+713,temas apontados,3
+714,risco fitch,3
+715,conduzido,3
+716,urbana,3
+717,preven çã,3
+718,escopo escopo,3
+719,atrair,3
+720,ensino,3
+721,lançamento,3
+722,reportado,2
+723,nesse contexto,2
+724,classi ca,2
+725,horas pessoal,2
+726,econômico valor,2
+727,enviado,2
+728,quatro projetos,2
+729,logística,2
+730,iniciativas empresariais,2
+731,ag ência,2
+732,melhorar,2
+733,atrelada,2
+734,desenvolvedores,2
+735,realidade virtual,2
+736,próprio estagiários,2
+737,desde participa,2
+738,ganho,2
+739,intelig ência,2
+740,resiliência,2
+741,estimado,2
+742,impacto econômico,2
+743,sustentabilidade metas,2
+744,margem,2
+745,américa latina,2
+746,colaboradores treinados,2
+747,união cgu,2
+748,precisão,2
+749,controladoria geral,2
+750,empresa pró,2
+751,garatéa iss,2
+752,quantidade,2
+753,indireta,2
+754,primeira antena,2
+755,relacionamento próximo,2
+756,engajada,2
+757,ghz,2
+758,objetivo emitir,2
+759,expandiu,2
+760,distribuição,2
+761,conscientização,2
+762,contabilizado,2
+763,tema envolve,2
+764,inovação aberta,2
+765,seguintes ações,2
+766,aumentar,2
+767,narrow band,2
+768,universidade,2
+769,remota,2
+770,maior hub,2
+771,imagens transmitidas,2
+772,incluindo,2
+773,celulares,2
+774,substituição,2
+775,social privado,2
+776,quanti ca,2
+777,governança esg,2
+778,time,2
+779,recargas digitais,2
+780,radiação,2
+781,licença,2
+782,disseminação,2
+783,disclosure project,2
+784,intensivo,2
+785,massive mimo,2
+786,carbon disclosure,2
+787,março,2
+788,abrangendo,2
+789,conceito,2
+790,serviços técnicos,2
+791,técnicos pro,2
+792,assim,2
+793,global desde,2
+794,pagamentos realizados,2
+795,ionizante,2
+796,rural,2
+797,abrangem,2
+798,positivo,2
+799,controle consumer,2
+800,eletrônicos,2
+801,hub,2
+802,recargas consultas,2
+803,cocriação,2
+804,internet segura,2
+805,show,2
+806,voltada,2
+807,modalidade,2
+808,saúde educação,2
+809,consultas públicas,2
+810,meio desse,2
+811,inova çã,2
+812,valor econômico,2
+813,opinião sobre,2
+814,históricas,2
+815,artigo,2
+816,atendem,2
+817,cidades inteligentes,2
+818,classi,2
+819,telecomunica ções,2
+820,especialista,2
+821,investido,2
+822,econômico direto,2
+823,relato,2
+824,critérios ambientais,2
+825,escala,2
+826,segunda colocada,2
+827,registro público,2
+828,bolsas instituto,2
+829,rede brasileira,2
+830,livre,2
+831,luva,2
+832,direto gerado,2
+833,paciente,2
+834,casa,2
+835,agência,2
+836,melhoria contínua,2
+837,project cdp,2
+838,org br,2
+839,biodiversidade,2
+840,diagnóstico,2
+841,digitalização,2
+842,quinta geração,2
+843,dispõe,2
+844,serviços adquiridos,2
+845,canal fale,2
+846,abordando temas,2
+847,identi ca,2
+848,seguintes etapas,2
+849,ebitda normalizado,2
+850,ano superior,2
+851,rating inicial,2
+852,escala nacional,2
+853,aaa bra,2
+854,econômicos ambientais,2
+855,papel essencial,2
+856,outras emissões,2
+857,focar,2
+858,futuro,2
+859,documentos internos,2
+860,distanciamento social,2
+861,documentos setoriais,2
+862,escopo emissões,2
+863,presente,2
+864,relat ório,2
+865,kg co,2
+866,assumiu compromisso,2
+867,geração distribuída,2
+868,segmento,2
+869,viagens aéreas,2
+870,nova tecnologia,2
+871,labriola diretor,2
+872,pietro labriola,2
+873,certi cações,2
+874,impactos signi,2
+875,reter talentos,2
+876,recomendações,2
+877,contabilidade,2
+878,nbc,2
+879,cação ambiental,2
+880,identi cou,2
+881,materialidade identi,2
+882,leve,2
+883,acreditar,2
+884,compilação,2
+885,temas relevantes,2
+886,anexo ii,2
+887,áreas chave,2
+888,ambiental realização,2
+889,sujeitos,2
+890,estabeleceu meta,2
+891,presidente atuação,2
+892,compromissos públicos,2
+893,car possíveis,2
+894,fazer testes,2
+895,quatro,2
+896,ambições esg,2
+897,florianópolis sc,2
+898,santa rita,2
+899,sapucaí mg,2
+900,prédios administrativos,2
+901,á los,2
+902,roaming internacional,2
+903,di culdade,2
+904,bem estar,2
+905,alta velocidade,2
+906,íduos perigosos,2
+907,carbono neutra,2
+908,órgãos governamentais,2
+909,meta reciclagem,2
+910,meta tonelada,2
+911,reciclagem indicador,2
+912,diversas áreas,2
+913,consumo interno,2
+914,suspensão parcial,2
+915,materiais usados,2
+916,coronavírus sus,2
+917,perigosos ton,2
+918,aplicativo coronavírus,2
+919,consecutivo,2
+920,arti cial,2
+921,resíduos discriminados,2
+922,novas ofertas,2
+923,cursos livres,2
+924,energia dentro,2
+925,grande pb,2
+926,frota própria,2
+927,centrais geradoras,2
+928,melhores práticas,2
+929,ambientais sociais,2
+930,insumos energéticos,2
+931,principais resultados,2
+932,insumos comprados,2
+933,ecoe ciência,2
+934,sustentável ods,2
+935,unidas onu,2
+936,energia renovável,2
+937,diretrizes internas,2
+938,etanol hidratado,2
+939,diretos cujas,2
+940,cujas atividades,2
+941,execução remota,2
+942,mwh mwh,2
+943,tco eescopo,2
+944,working capital,2
+945,academic working,2
+946,segmento corporativo,2
+947,minas gerais,2
+948,prédios industriais,2
+949,segunda fase,2
+950,pública,2
+951,orgulhamos,2
+952,recursos humanos,2
+953,realidade aumentada,2
+954,aumentada ar,2
+955,vez,2
+956,visão,2
+957,lculo,2
+958,informado,2
+959,dez,2
+960,matriz,2
+961,igual,2
+962,indivíduo,2
 963,ingressaram,2
-964,comum,2
-965,ambientais ppra,2
-966,pago pessoa,2
-967,produção,2
-968,risco significativo,2
-969,edição,2
-970,fornecedores identificados,2
-971,atua,2
-972,junto,2
-973,continuamente monitorados,2
-974,periódico,2
-975,perigosos ton,2
-976,online,2
-977,agregar,2
-978,portanto,2
-979,novos fornecedores,2
-980,fornecedores novos,2
-981,90gri avaliação,2
-982,quantitativas,2
-983,avaliação ambiental,2
-984,segmento corporativo,2
-985,fortalece,2
-986,realizou ações,2
-987,lculo,2
-988,seguido,2
-989,advertência,2
-990,gestores,2
-991,construir,2
-992,face,2
-993,primeiros testes,2
-994,afastamento afastamentos,2
-995,outras emissões,2
-996,fornecedores selecionados,2
-997,fibra óptica,2
-998,segurança cibernética,2
-999,igual,2
-1000,atualização,2
-1001,envolveu,2
-1002,momento atual,2
-1003,visão,2
-1004,interrupções críticas,2
-1005,entrevista,2
-1006,painel,2
-1007,operação proporcionados,2
-1008,avaliações,2
-1009,consumidor,2
-1010,mídia,2
-1011,podem afetar,2
-1012,indivíduo,2
-1013,dez,2
-1014,priorizar,2
-1015,sede,2
-1016,matriz,2
-1017,segurança ocupacional,2
-1018,escopo emissões,2
-1019,mudanças clim,2
-1020,clim áticas,2
-1021,municipal,2
-1022,download,2
-1023,institucionais,2
-1024,insumos energéticos,2
-1025,distorções relevantes,2
-1026,ce,2
-1027,obter segurança,2
-1028,busca engajar,2
-1029,reforço,2
-1030,gasto,2
-1031,games,2
-1032,presidente,2
-1033,pode ativar,2
-1034,assinatura,2
-1035,leitura,2
-1036,ações judiciais,2
-1037,pretendido,2
-1038,participar,2
-1039,condições,2
-1040,conselho federal,2
-1041,contato,2
-1042,upload,2
-1043,incentivar,2
-1044,normas regulamentadoras,2
-1045,relatório através,2
-1046,obriga ções,2
-1047,horário,2
-1048,aspectos sociais,2
-1049,semana,2
-1050,manutenção,2
-1051,data protection,2
-1052,bem estar,2
-1053,comprometem,2
-1054,dinâmica,2
-1055,práticas relacionadas,2
-1056,preservação,2
-1057,mitigação,2
-1058,data privacy,2
-1059,alta velocidade,2
-1060,insumos comprados,2
-1061,comitês formais,2
-1062,regulamentos ambientais,2
-1063,br sp,2
-1064,procedimentos analíticos,2
-1065,abril,2
-1066,democratização,2
-1067,carbono neutra,2
-1068,limitada conduzido,2
-1069,fi305 2emissão,2
-1070,março,2
-1071,disseminação,2
-1072,opinião sobre,2
-1073,canal fale,2
-1074,ciente,2
-1075,implicações financeiras,2
-1076,restrição,2
-1077,time,2
-1078,meta reciclagem,2
-1079,meta tonelada,2
-1080,satisfação geral,2
-1081,resolução,2
-1082,cont ínuo,2
-1083,escassez energética,2
-1084,resiliência,2
-1085,nenhum,2
-1086,smartphones,2
-1087,boas pr,2
-1088,desenvolveu,2
-1089,modalidade,2
-1090,kg co,2
-1091,incentivo,2
-1092,dados cadastrais,2
-1093,viagens aéreas,2
-1094,companhia deu,2
-1095,telecom italia,2
-1096,roaming internacional,2
-1097,objetivo emitir,2
-1098,exercício findo,2
-1099,cursos livres,2
-1100,versão standards,2
-1101,participam,2
-1102,jornada,2
-1103,app,2
-1104,representados,2
-1105,adapta çã,2
-1106,diversas áreas,2
-1107,whatsapp,2
-1108,diversos setores,2
-1109,ministério,2
-1110,afastamentos registrados,2
-1111,legisla çã,2
-1112,sobre assuntos,2
-1113,aplicável,2
-1114,relacionam,2
-1115,nacional unidades,2
-1116,desde gerenciamento,2
-1117,reeleição,2
-1118,negativo,2
-1119,listada,2
-1120,motivo,2
-1121,qualidade aquisição,2
-1122,requisitos legais,2
-1123,br ri,2
-1124,estrutura,2
-1125,composta,2
-1126,perenidade,2
-1127,qualquer momento,2
-1128,qualquer,2
-1129,auditoria,2
-1130,momento,2
-1131,capitais,2
-1132,legais,2
-1133,divulgado,2
-1134,operacionais onde,2
-1135,fomentar,2
-1136,cria,2
-1137,avanço,2
-1138,identificar possíveis,2
-1139,órgãos governamentais,2
-1140,florianópolis sc,2
-1141,nova tecnologia,2
-1142,passou,2
-1143,nacional qualidade,2
-1144,diferencial,2
-1145,materiais,2
-1146,finalidade,2
-1147,operadores,2
-1148,mwh mwh,2
-1149,iso certificação,2
-1150,rpt sustentabilidade,2
-1151,aderente,2
-1152,estabeleceu meta,2
-1153,financeira recebida,2
-1154,relat ório,2
-1155,entrada,2
-1156,chuva,2
-1157,monitorar,2
-1158,tecnologia volte,2
-1159,documentos setoriais,2
-1160,abastecimento,2
-1161,copas,2
-1162,ultra banda,2
-1163,posse,2
-1164,três membros,2
-1165,escritório,2
-1166,grande,2
-1167,quatro projetos,2
-1168,distanciamento social,2
-1169,recebeu,2
-1170,determinação,2
-1171,arquivada,2
-1172,padrão,2
-1173,conselho fiscal,2
-1174,fraude,2
-1175,violação,2
-1176,geram,2
-1177,aplicativo coronavírus,2
-1178,três comitês,2
-1179,américa latina,2
-1180,maior hub,2
-1181,reforçam,2
-1182,narrow band,2
-1183,volte voice,2
-1184,administra çã,2
-1185,cultura esg,2
-1186,miss ão,2
-1187,documentos internos,2
-1188,tema envolve,2
-1189,inovação aberta,2
-1190,seguintes ações,2
-1191,consumo interno,2
-1192,coronavírus sus,2
-1193,outros assuntos,2
-1194,remunera çã,2
-1195,envolve,2
-1196,avaliou,2
-1197,comprometida,2
-1198,declara,2
-1199,econômicos ambientais,2
-1200,anexo quadro,2
-1201,santa rita,2
-1202,dispon íveis,2
-1203,fundação,2
-1204,diretos cujas,2
-1205,recebeu oito,2
-1206,certificação ambiental,2
-1207,qualificação,2
-1208,gênero,2
-1209,saiba,2
-1210,execução remota,2
-1211,cujas atividades,2
-1212,suspensão parcial,2
-1213,presente,2
-1214,horas homem,2
-1215,lte,2
-1216,home ofice,2
-1217,homem trabalhadas,2
-1218,principais resultados,2
-1219,matemática,2
-1220,certificação iso,2
-1221,tópicos materiais,2
-1222,meta estratégica,2
-1223,demonstrações financeiras,2
-1224,unidas onu,2
-1225,oito representações,2
-1226,conar três,2
-1227,cat sistema,2
-1228,ri,2
-1229,após reclamações,2
-1230,órgão após,2
-1231,outro órgão,2
-1232,mil aplicada,2
-1233,consumidor relativo,2
-1234,relaciona,2
-1235,recomendações,2
-1236,accountability,2
-1237,consumidor devido,2
-1238,reclamações recebidas,2
-1239,promulgação,2
-1240,milhões aplicada,2
-1241,regulação,2
-1242,pagou duas,2
-1243,aguardando julgamento,2
-1244,ainda aguardando,2
-1245,quatro,2
-1246,três arquivadas,2
-1247,três casos,2
-1248,coordenada,2
-1249,pioneirismo,2
-1250,melhores práticas,2
-1251,períodos anteriores,2
-1252,ambientais sociais,2
-1253,alta incidência,2
-1254,ampliou,2
-1255,engajando,2
-1256,agência reguladora,2
-1257,capacitar,2
-1258,saldo,2
-1259,registrado,2
-1260,bens,2
-1261,focar,2
-1262,consecutivo,2
-1263,grande pb,2
-1264,desenvolve,2
-1265,essenciais,2
-1266,inglês,2
-1267,consultoria gri,2
-1268,sapucaí mg,2
-1269,lei nº,2
-1270,quantifica,2
-1271,gerencia,2
-1272,avalia,2
-1273,discussões sobre,2
-1274,12º ano,2
-1275,mínimo,2
-1276,sustentável ods,2
-1277,implementa çã,2
-1278,ajustados neste,2
-1279,falta,2
-1280,alavancar,2
-1281,baixa,2
-1282,incluem,2
-1283,acelerar,2
-1284,vel práticas,2
-1285,contribuam,2
-1286,fixa,2
-1287,agentes públicos,2
-1288,altamente dependente,1
-1289,fornecimento impactam,1
-1290,padrões exigidos,1
-1291,interrup ções,1
-1292,eventuais interrup,1
-1293,1as questões,1
-1294,energética ˇ103,1
-1295,fornecimento cont,1
-1296,painéis solares,1
-1297,licença 1as,1
-1298,gri 67eficiência,1
-1299,67eficiência energética,1
-1300,solares geradores,1
-1301,operacional diretamente,1
-1302,mitigar impactos,1
-1303,exemplo regularização,1
-1304,ço significa,1
-1305,geradoras hidrelétricas,1
-1306,pois passaram,1
-1307,br participantes,1
-1308,correta geração,1
-1309,https registropublicodeemissoes,1
-1310,propõem boas,1
-1311,ton 2geração,1
-1312,ton 2materiais,1
-1313,2materiais usados,1
-1314,exceto baterias,1
-1315,contínuo esforço,1
-1316,discussão externos,1
-1317,baterias inerente,1
-1318,menos intensivas,1
-1319,equipamentos obsoletos,1
-1320,encontrar soluções,1
-1321,ˆarbono associada,1
-1322,incentiv á,1
-1323,participantes saiba,1
-1324,destinação correta,1
-1325,aguardavam destinação,1
-1326,baterias acumuladas,1
-1327,en 75a,1
-1328,contribuíram tanto,1
-1329,resíduos sólidos,1
-1330,regularmente verificados,1
-1331,net en,1
-1332,externas seguindo,1
-1333,sga 71resíduos,1
-1334,71resíduos discriminados,1
-1335,reciclagem aterro,1
-1336,cdp net,1
-1337,aterro papel,1
-1338,interno 3reciclagem,1
-1339,3reciclagem papel,1
-1340,cobranças 2total,1
-1341,perigosos enviados,1
-1342,valores totais,1
-1343,pois passou,1
-1344,hidrelétricas cghs,1
-1345,gee 74a,1
-1346,riscos decorrentes,1
-1347,mudan ça,1
-1348,climática saiba,1
-1349,funcion ários,1
-1350,combust ível,1
-1351,consequentemente emitem,1
-1352,dar transpar,1
-1353,considera portanto,1
-1354,logística 72metas,1
-1355,quest ão,1
-1356,terceira parte,1
-1357,estrat égica,1
-1358,sendo imprescind,1
-1359,imprescind ível,1
-1360,fontes emissoras,1
-1361,fontes poluidoras,1
-1362,onu sabe,1
-1363,impactos globais,1
-1364,energ ética,1
-1365,ência energ,1
-1366,indicador coleta,1
-1367,baterias modens,1
-1368,conscientiz á,1
-1369,demais acessórios,1
-1370,indicador reciclagem,1
-1371,escritórios administrativos,1
-1372,œ reciclados,1
-1373,transpar ência,1
-1374,reciclados nota,1
-1375,possível alcançar,1
-1376,gerados menos,1
-1377,estabelece princípios,1
-1378,normativo considera,1
-1379,órgãos regulamentadores,1
-1380,conformidade legal,1
+964,somatório,2
+965,deixaram,2
+966,participam,2
+967,representados,2
+968,aspectos sociais,2
+969,práticas relacionadas,2
+970,momento,2
+971,busca engajar,2
+972,participar,2
+973,pretendido,2
+974,comitês formais,2
+975,institucionais,2
+976,telecom italia,2
+977,gênero,2
+978,pro ssional,2
+979,zeram,2
+980,reporte,2
+981,grande,2
+982,primeiros testes,2
+983,ultra banda,2
+984,volte voice,2
+985,escopo,2
+986,tecnologia volte,2
+987,dedicação,2
+988,escritório,2
+989,copas,2
+990,chuva,2
+991,realizou ações,2
+992,negativo,2
+993,retirada,2
+994,homem trabalhadas,2
+995,horas homem,2
+996,diferencial,2
+997,percentual,2
+998,cat sistema,2
+999,capacitar,2
+1000,afastamentos registra,2
+1001,afastamento afastamentos,2
+1002,ambiente corporativo,2
+1003,con abilidade,2
+1004,engajando,2
+1005,rpt sustentabilidade,2
+1006,estagiários jovens,2
+1007,centers estagiários,2
+1008,gerência pro,2
+1009,diretoria gerência,2
+1010,aspectos socioambientais,2
+1011,homensmulheres homensmulheres,2
+1012,objetivos estratégicos,2
+1013,ambiental cada,2
+1014,avaliada,2
+1015,cultura organizacional,2
+1016,natureza,2
+1017,temas importantes,2
+1018,legislação nacional,2
+1019,comunicado,2
+1020,consultoria gri,2
+1021,requisitos legais,2
+1022,tópico,2
+1023,possível avaliar,2
+1024,monopólio,2
+1025,stakeholders mapeadas,2
+1026,preparação,2
+1027,principais categorias,2
+1028,jovens aprendizes,2
+1029,clima leia,2
+1030,comprometem,2
+1031,homens mulheres,2
+1032,alta incidência,2
+1033,gasto,2
+1034,nanceira recebida,2
+1035,democratização,2
+1036,mês empregados,2
+1037,colaboradores ativos,2
+1038,mensais calculadas,2
+1039,matemática,2
+1040,taxas correspondem,2
+1041,contribuam,2
+1042,gênero nºt,2
+1043,proporção salarial,2
+1044,faixa etária,2
+1045,discussões sobre,2
+1046,novas leis,2
+1047,bem pago,2
+1048,políticas públicas,2
+1049,seguido,2
+1050,julho,2
+1051,testado,2
+1052,agendas públicas,2
+1053,acompanha agendas,2
+1054,cgu iniciativa,2
+1055,próximo,2
+1056,atender,2
+1057,lei geral,2
+1058,perenidade,2
+1059,normas regulamentadoras,2
+1060,upload,2
+1061,prote çã,2
+1062,qualquer,2
+1063,auditoria,2
+1064,download,2
+1065,capitais,2
+1066,resolução,2
+1067,relaciona,2
+1068,fornecedores selecionados,2
+1069,legais,2
+1070,nenhum,2
+1071,monitorar,2
+1072,smartphones,2
+1073,incentivar,2
+1074,escassez energética,2
+1075,diretamente relacionado,2
+1076,municipal,2
+1077,digital,2
+1078,acima,2
+1079,composta,2
+1080,concorrência desleal,2
+1081,qualidade aquisição,2
+1082,divulgado,2
+1083,relacionam,2
+1084,operacionais onde,2
+1085,pessoais lgpd,2
+1086,reforço,2
+1087,três,2
+1088,ambições,2
+1089,saúde ocupacional,2
+1090,nacional unidades,2
+1091,relatório através,2
+1092,reeleição,2
+1093,desde gerenciamento,2
+1094,regulação,2
+1095,mudanças clim,2
+1096,listada,2
+1097,motivo,2
+1098,procedimentos analíticos,2
+1099,promulgação,2
+1100,clim áticas,2
+1101,cultura esg,2
+1102,cont ínuo,2
+1103,boas pr,2
+1104,anexo quadro,2
+1105,conselheiros,2
+1106,primeira,2
+1107,gestores,2
+1108,posse,2
+1109,avaliação ambiental,2
+1110,suspensão,2
+1111,locais,2
+1112,companhia deu,2
+1113,libras,2
+1114,recebeu,2
+1115,determinação,2
+1116,fortalece,2
+1117,arquivada,2
+1118,emprego,2
+1119,padrão,2
+1120,outros assuntos,2
+1121,violação,2
+1122,novos fornecedores,2
+1123,geram,2
+1124,doações,2
+1125,construir,2
+1126,oportunidades devido,2
+1127,face,2
+1128,estufa escopo,2
+1129,br ri,2
+1130,presta çã,2
+1131,diversos setores,2
+1132,informa,2
+1133,qualquer momento,2
+1134,atingindo aproximadamente,2
+1135,aproximadamente cidades,2
+1136,envolve,2
+1137,avaliou,2
+1138,administra çã,2
+1139,comprometida,2
+1140,declara,2
+1141,miss ão,2
+1142,adapta çã,2
+1143,fazer,2
+1144,conquistamos,2
+1145,reforçam,2
+1146,bra óptica,2
+1147,aplicável,2
+1148,ambientais ppra,2
+1149,cria,2
+1150,mínimo,2
+1151,jornada,2
+1152,recebeu oito,2
+1153,incentivo,2
+1154,diretores gerentes,2
+1155,saldo,2
+1156,falta,2
+1157,bens,2
+1158,quarentena,2
+1159,meta estratégica,2
+1160,legisla çã,2
+1161,agentes públicos,2
+1162,desenvolve,2
+1163,limitada conduzido,2
+1164,obriga ções,2
+1165,essenciais,2
+1166,data protection,2
+1167,inglês,2
+1168,vel práticas,2
+1169,conselho federal,2
+1170,incluem,2
+1171,exercício ndo,2
+1172,baixa,2
+1173,oito representações,2
+1174,sobre assuntos,2
+1175,dados cadastrais,2
+1176,órgão após,2
+1177,acelerar,2
+1178,outro órgão,2
+1179,mil aplicada,2
+1180,consumidor relativo,2
+1181,consumidor devido,2
+1182,milhões aplicada,2
+1183,pagou duas,2
+1184,aguardando julgamento,2
+1185,ainda aguardando,2
+1186,per,2
+1187,app,2
+1188,três arquivadas,2
+1189,avalia,2
+1190,três casos,2
+1191,ções,2
+1192,conar três,2
+1193,alavancar,2
+1194,abril,2
+1195,restrição,2
+1196,segurança cibernética,2
+1197,continuamente monitorados,2
+1198,nalidade,2
+1199,operadores,2
+1200,comunicações,2
+1201,bolsa,2
+1202,deve atuar,2
+1203,saiba,2
+1204,leitura,2
+1205,assinatura,2
+1206,obter segurança,2
+1207,fazem parte,2
+1208,créditos,2
+1209,distorções relevantes,2
+1210,aderente,2
+1211,desse processo,2
+1212,ri,2
+1213,econômicos indiretos,2
+1214,games,2
+1215,entrada,2
+1216,ações judiciais,2
+1217,nacional qualidade,2
+1218,contato,2
+1219,momento atual,2
+1220,gerencia,2
+1221,lte,2
+1222,pioneirismo,2
+1223,coordenada,2
+1224,tópicos materiais,2
+1225,fomentar,2
+1226,avanço,2
+1227,digitais,2
+1228,condições,2
+1229,data privacy,2
+1230,whatsapp,2
+1231,versão standards,2
+1232,passou,2
+1233,cobrança,2
+1234,ministério,2
+1235,podem afetar,2
+1236,operação proporcionados,2
+1237,interrupções críticas,2
+1238,desenvolveu,2
+1239,remunera çã,2
+1240,planejamento,2
+1241,br showcanal,2
+1242,sede,2
+1243,junto,2
+1244,possibilita,2
+1245,horário,2
+1246,uência,2
+1247,administracao ygjjru,2
+1248,atualização,2
+1249,aprovado,2
+1250,conjunto,2
+1251,lei nº,2
+1252,organiza çã,2
+1253,envolveu,2
+1254,telecomunicações anatel,2
+1255,ajustados neste,2
+1256,preservação,2
+1257,dessa,2
+1258,apresenta,2
+1259,semana,2
+1260,avaliações,2
+1261,ygjjru xzclfdkgwbc,2
+1262,agência reguladora,2
+1263,xzclfdkgwbc gq,2
+1264,podem,2
+1265,showcanal administracao,2
+1266,história,2
+1267,mesma,2
+1268,autoatendimento,2
+1269,nalidade econômica,2
+1270,atua,2
+1271,agosto,2
+1272,aperfeiçoar,2
+1273,assembleia geral,2
+1274,consumidor,2
+1275,mitigação,2
+1276,periódico,2
+1277,pago pessoa,2
+1278,respeitados,2
+1279,reclamações recebidas,2
+1280,edição,2
+1281,presenciais,2
+1282,deslocamento,2
+1283,viabilizam,2
+1284,prioritário,2
+1285,priorizar,2
+1286,https ri,2
+1287,implementa çã,2
+1288,governan ça,2
+1289,br sp,2
+1290,três comitês,2
+1291,ativa escolar,2
+1292,portanto,2
+1293,representa institucionalmente,2
+1294,dinâmica,2
+1295,consideram,2
+1296,períodos anteriores,2
+1297,normalidade,2
+1298,infantil gri,2
+1299,política pública,2
+1300,segue,2
+1301,atuar,2
+1302,deve,2
+1303,adequação,2
+1304,comum,2
+1305,satisfação geral,2
+1306,participaram,2
+1307,painel,2
+1308,desastre,2
+1309,avaliação social,2
+1310,satisfação nacional,2
+1311,risco signi,2
+1312,três membros,2
+1313,desenvolvendo,2
+1314,publica,2
+1315,quantitativas,2
+1316,entrevista,2
+1317,justiça,2
+1318,mídia,2
+1319,prestado,2
+1320,presidente,2
+1321,online,2
+1322,dispon íveis,2
+1323,agência nacional,2
+1324,avaliados,2
+1325,manutenção,2
+1326,pode ativar,2
+1327,sugestões,2
+1328,quebra,2
+1329,loco,2
+1330,conselho fiscal,2
+1331,negociação coletiva,2
+1332,gerenciados,2
+1333,padr ão,1
+1334,sga atuando,1
+1335,logística reversa,1
+1336,manuten çã,1
+1337,information security,1
+1338,corporativa consultoria,1
+1339,ambientais mapeados,1
+1340,excel ência,1
+1341,çar níveis,1
+1342,rádio base,1
+1343,procedimentos estabelecidos,1
+1344,reversa res,1
+1345,estações rádio,1
+1346,instalação dessa,1
+1347,ambientalmente adequada,1
+1348,ão isms,1
+1349,informaç ão,1
+1350,própria instalação,1
+1351,instala çã,1
+1352,perigosos tanto,1
+1353,iso padr,1
+1354,destinação ambientalmente,1
+1355,administrativos quanto,1
+1356,contador crc,1
+1357,coleta diferenciada,1
+1358,usuários únicos,1
+1359,alcan çar,1
+1360,security management,1
+1361,simcards baterias,1
+1362,assume publicamente,1
+1363,agregado vas,1
+1364,baterias fones,1
+1365,assinam contratos,1
+1366,scalizadores assim,1
+1367,cl áusula,1
+1368,ouvido modens,1
+1369,projeto editorial,1
+1370,editorial integra,1
+1371,acessórios considerando,1
+1372,con dencialidade,1
+1373,impressoras fax,1
+1374,fixa nota,1
+1375,fax scanner,1
+1376,copiadoras independentes,1
+1377,equipamentos multifuncionais,1
+1378,princípios declarados,1
+1379,centralizam todas,1
+1380,impressão associadas,1
 1381,consumo contribuíram,1
-1382,impressão associadas,1
-1383,carbono estudo,1
-1384,eletricidade2 2total,1
-1385,gj gasolina,1
-1386,conhecer todas,1
-1387,gasolina etanol,1
-1388,hidratado 96diesel,1
-1389,96diesel œ,1
-1390,veículos diesel,1
-1391,geradores eletricidade2,1
-1392,buscado fontes,1
-1393,ões específicas,1
-1394,energias renov,1
-1395,renov áveis,1
-1396,áveis desligamento,1
-1397,liberar espaço,1
-1398,espaço físico,1
-1399,projetos 69gestão,1
-1400,res íduosˇ103,1
-1401,organização gj,1
-1402,corrigidos neste,1
-1403,continua investindo,1
-1404,meta assumida,1
-1405,cghs dessa,1
-1406,ecoeficiência estipulada,1
-1407,carbono ocorreram,1
-1408,prazo citada,1
-1409,contrato bilateral,1
-1410,renováveis nesse,1
-1411,nesse caminho,1
-1412,operado cinco,1
-1413,cinco centrais,1
-1414,geradoras hidrel,1
-1415,hidrel étricas,1
-1416,étricas cghs,1
-1417,gerais dedicadas,1
-1418,medida estimula,1
-1419,matriz elétrica,1
-1420,custos operacionais,1
-1421,regulat órios,1
-1422,responsabilidade compartilhada,1
-1423,multas 70para,1
-1424,urnas coletoras,1
-1425,depositem resíduos,1
-1426,smartphones simcards,1
-1427,simcards baterias,1
-1428,baterias fones,1
-1429,ouvido modens,1
-1430,acessórios considerando,1
-1431,significa conhecer,1
-1432,impressoras fax,1
-1433,servi ço,1
-1434,fax scanner,1
-1435,copiadoras independentes,1
-1436,equipamentos multifuncionais,1
-1437,centralizam todas,1
-1438,vida calcular,1
-1439,disponibiliza urnas,1
-1440,san ções,1
-1441,smartphones modens,1
-1442,contamina çã,1
-1443,modens baterias,1
-1444,ém gera,1
-1445,procedimentos estabelecidos,1
-1446,destinação ambientalmente,1
-1447,ambientalmente adequada,1
-1448,coleta diferenciada,1
-1449,logística reversa,1
-1450,reversa res,1
-1451,perigosos tanto,1
-1452,administrativos quanto,1
-1453,instala çã,1
-1454,manuten çã,1
-1455,descartados corretamente,1
-1456,ão ocasionarem,1
-1457,ocasionarem contamina,1
-1458,ambientais decorrem,1
-1459,hectares nesse,1
-1460,três termos,1
-1461,ﬁ5g living,1
-1462,timﬂ centros,1
-1463,refer ência,1
-1464,ócio consolidou,1
-1465,munic ípios,1
-1466,ípios cobertura,1
-1467,habilitar á,1
-1468,lan çar,1
-1469,tempo alcançar,1
-1470,abrang ência,1
-1471,solu ções,1
-1472,melhoria cont,1
-1473,cont ínua,1
-1474,incluem testes,1
-1475,5g implementou,1
-1476,implementou ainda,1
-1477,virtualiza çã,1
-1478,instalou data,1
-1479,52algumas alterações,1
-1480,brasileira acarretam,1
-1481,acarretam impactos,1
-1482,congresso nacional,1
-1483,lab timﬂ,1
-1484,ecossistemas ﬁ5g,1
-1485,principalmente mhz,1
-1486,quatro ecossistemas,1
-1487,mil km,1
-1488,somou biosites,1
-1489,biosites ativos,1
-1490,totalizou biosites,1
-1491,biosites além,1
-1492,menor custo,1
-1493,custo rápida,1
-1494,rápida instalação,1
-1495,instalação baixo,1
-1496,baixo impacto,1
-1497,impacto visual,1
-1498,multifuncionalidade capaz,1
-1499,domic ílios,1
-1500,conexão ftth,1
-1501,ftth fiber,1
-1502,milhões fttc,1
-1503,fttc somando,1
-1504,somando quase,1
-1505,quase milh,1
-1506,milh ões,1
-1507,usuário 51a,1
-1508,poderes executivo,1
-1509,legislativo estaduais,1
-1510,municipais aprovaram,1
-1511,aprovaram políticas,1
-1512,coisas utilizando,1
-1513,móvel nbiot,1
-1514,nbiot narrow,1
-1515,uenciado toda,1
-1516,empresas compradoras,1
-1517,mhz 55ł,1
-1518,55ł ampliou,1
-1519,iniciou parceria,1
-1520,open d'or,1
-1521,d'or voltada,1
-1522,atuou ativamente,1
-1523,economia participou,1
-1524,programa pilotos,1
-1525,pilotos iot,1
-1526,novas abordagens,1
-1527,produ çã,1
-1528,desenvolveu alianças,1
-1529,alianças estratégicas,1
-1530,bndes œa,1
-1531,agronegócio ideas,1
-1532,ideas 4milk,1
-1533,contato próximo,1
-1534,natural social,1
-1535,humano natural,1
-1536,diferentes municípios,1
-1537,geraram impacto,1
-1538,nº tornou,1
-1539,tornou obrigatório,1
-1540,mercado secundário,1
-1541,renovações sucessivas,1
-1542,espectro impactos,1
-1543,decreto nº,1
-1544,livre concorrência,1
-1545,livre circulação,1
-1546,exibilizar melhorar,1
-1547,capital intelectual,1
-1548,sites 53inovação,1
-1549,53inovação 54a,1
-1550,busca atender,1
-1551,forma proativa,1
-1552,proativa acompanhando,1
-1553,ativos intangíveis,1
-1554,intangíveis estratégicos,1
-1555,tão importante,1
-1556,importante quanto,1
-1557,mhz atingindo,1
-1558,projeto fttcity,1
-1559,habilitou parceria,1
-1560,seguintes pontos,1
-1561,colaboradores autorizados,1
-1562,informa ções,1
-1563,situa ções,1
-1564,valor agregado,1
-1565,agregado vas,1
-1566,vas œ,1
-1567,œ assinam,1
-1568,assinam contratos,1
-1569,cl áusula,1
-1570,ções telef,1
-1571,telef ônicas,1
-1572,ão compartilhados,1
-1573,compartilhados apenas,1
-1574,sigilo telefônico,1
-1575,protection officer,1
-1576,officer dpo,1
-1577,atribuição atuar,1
-1578,ãos competentes,1
-1579,comit ê,1
-1580,privacy coordenado,1
-1581,cinco diretores,1
-1582,somente colaboradores,1
-1583,requisitos mandatórios,1
-1584,densifica çã,1
-1585,management system,1
-1586,digitais 44privacidade,1
-1587,dados 45a,1
-1588,pode gerar,1
-1589,gerar multas,1
-1590,nº passará,1
-1591,determinações demandarão,1
-1592,exigências obrigam,1
-1593,implementarem práticas,1
-1594,princípios elencados,1
-1595,tratamento bem,1
-1596,lgdp entrará,1
-1597,dispositivos referentes,1
-1598,lgpd 46na,1
-1599,iso padr,1
-1600,padr ão,1
-1601,informaç ão,1
-1602,ão isms,1
-1603,isms œ,1
-1604,œ information,1
-1605,information security,1
-1606,security management,1
-1607,á desenvolvendo,1
-1608,dados iniciado,1
-1609,procedimentos necessários,1
-1610,atender afilei,1
-1611,mil ofícios,1
-1612,poder judiciário,1
-1613,interceptações telefônicas,1
-1614,extratos telefônicos,1
-1615,institucional seguranca,1
-1616,seguranca politica,1
-1617,serviços 49a,1
-1618,melhor experi,1
-1619,investe continuamente,1
-1620,expans ão,1
-1621,setor atendendo,1
-1622,motivo ampliou,1
-1623,desses aperfeiçoamentos,1
-1624,lideran ça,1
-1625,ano refor,1
-1626,refor çando,1
-1627,sociedade 50em,1
-1628,50em cerca,1
-1629,óptica aumentando,1
-1630,portadoras técnica,1
-1631,usuário habilitando,1
-1632,webservice disponibilizado,1
-1633,autoridades competentes,1
-1634,pedidos realizados,1
-1635,identificados monitorados,1
-1636,afilei data,1
-1637,protection oˆcer,1
-1638,norma isofi27001,1
-1639,isofi27001 47em,1
-1640,quais aguardam,1
-1641,aguardam julgamento,1
-1642,encerradas sendo,1
-1643,casos concluídos,1
-1644,registrou incidentes,1
-1645,devidas tratativas,1
-1646,manualmente bem,1
-1647,possível auferir,1
-1648,autoridades diferentes,1
-1649,podem solicitar,1
-1650,solicitar dados,1
-1651,linha msisdn,1
-1652,cpf além,1
-1653,atualmente precisar,1
-1654,pedidos atendidos,1
-1655,atendidos manualmente,1
-1656,4milk œem,1
-1657,agtech garage,1
-1658,parcial dessas,1
-1659,alarmes telessensor,1
-1660,telemonitoramento esteira,1
-1661,braço mecânico,1
-1662,solução permitiu,1
-1663,permitiu comparar,1
-1664,comparar dois,1
-1665,cenários distintos,1
-1666,possível ver,1
-1667,alta confiabilidade,1
-1668,industrial 62segurança,1
-1669,câmeras inteligentes,1
-1670,permitiram controle,1
-1671,visitas virtuais,1
-1672,próprio inatel,1
-1673,inatel casa,1
-1674,casa futurista,1
-1675,futurista conectada,1
-1676,eletrônicos habilitados,1
-1677,automatizados gaming,1
-1678,novos jogos,1
-1679,streaming proporcionada,1
-1680,5g 63gestão,1
-1681,telessensor telemonitoramento,1
-1682,smart manufacturing,1
-1683,local educação,1
-1684,manufatura smart,1
-1685,gap educacional,1
-1686,solução desenvolvida,1
-1687,desenvolvida utiliza,1
-1688,viagem exploratória,1
-1689,pulmão sadio,1
-1690,sadio versus,1
-1691,fumante entretenimento,1
-1692,banda dividida,1
-1693,cada metade,1
-1694,localidade realizou,1
-1695,delay 61indústriał,1
-1696,61indústriał colaboração,1
-1697,robôs suportada,1
-1698,robô yumi,1
-1699,yumi primeiro,1
-1700,primeiro robô,1
-1701,robô colaborativo,1
-1702,dois braços,1
-1703,mundo interage,1
-1704,pessoas servindo,1
-1705,servindo café,1
-1706,63gestão ambiental,1
-1707,ambiental 64a,1
-1708,64a crescente,1
-1709,crescente expectativa,1
-1710,estações rádio,1
-1711,rádio base,1
-1712,própria instalação,1
-1713,instalação dessa,1
-1714,monitoramento periódico,1
-1715,dessas localidades,1
-1716,causem impactos,1
-1717,relatórios teóricos,1
-1718,medições garantem,1
-1719,organização mundial,1
-1720,saúde oms,1
-1721,emissões eletromagnéticas,1
-1722,eletromagnéticas mensuradas,1
-1723,métodos definidos,1
-1724,parâmetros permitidos,1
-1725,permitidos 66em,1
-1726,recebeu duas,1
-1727,registrou autos,1
-1728,penalidade monetária,1
-1729,corpo técnico,1
-1730,assessorias jurídicas,1
-1731,iso referente,1
-1732,sga atuando,1
-1733,excel ência,1
-1734,tr ês,1
-1735,socioambientais reforça,1
-1736,ágina embora,1
-1737,sido identificado,1
-1738,reporta dados,1
-1739,princípios declarados,1
-1740,fiscalizadores assim,1
-1741,ítica define,1
-1742,assume publicamente,1
-1743,publicamente tr,1
-1744,ês compromissos,1
-1745,çar níveis,1
-1746,principal fator,1
-1747,melhorar continuamente,1
-1748,re etir,1
-1749,re etidos,1
-1750,respons ável,1
-1751,ável 65a,1
-1752,ém identifica,1
-1753,identifica oportunidades,1
-1754,alcan çar,1
-1755,reduzir rapidamente,1
-1756,único local,1
-1757,piracicaba sp,1
-1758,57os 5g,1
-1759,5g completo,1
-1760,completo conectando,1
-1761,conectando diferentes,1
-1762,diferentes atores,1
-1763,aberta identificar,1
-1764,bem sucedida,1
-1765,turim bari,1
-1766,bari matera,1
-1767,san marino,1
-1768,marino 58aplicações,1
-1769,5g criam,1
-1770,criam valor,1
-1771,quarta revolução,1
-1772,revolução industrial,1
-1773,industrial permitirá,1
-1774,aplicação comercial,1
-1775,setores industriais,1
-1776,utilizam processos,1
-1777,máquinas tornará,1
-1778,tornará possível,1
-1779,novas arquiteturas,1
-1780,labs permitem,1
-1781,sendo testada,1
-1782,gerenciados simultaneamente,1
-1783,brasília df,1
-1784,igloo network,1
-1785,network hub,1
-1786,sete laboratórios,1
-1787,laboratórios comunitários,1
-1788,comunitários tip,1
-1789,fornecem conexão,1
-1790,celulares 56a,1
-1791,fundação certi,1
-1792,ambiente constituiu,1
-1793,instituto virtus,1
-1794,universidade federal,1
-1795,múltiplos parceiros,1
-1796,parceiros tendo,1
-1797,permite conectar,1
-1798,conectar usuários,1
-1799,usuários finais,1
-1800,finais pesquisadores,1
-1801,pesquisadores empresas,1
-1802,startups instituições,1
-1803,validar produtos,1
-1804,painel telebrasil,1
-1805,sistemas terminais,1
-1806,latência viabilizarão,1
-1807,máquina máquina,1
-1808,vasta aplicação,1
-1809,médico baseado,1
-1810,imagem obtida,1
-1811,equipamento controlado,1
-1812,controlado remotamente,1
-1813,luva tátil,1
-1814,estímulos recebidos,1
-1815,médico operava,1
-1816,lugar remoto,1
-1817,transmitidas simultaneamente,1
-1818,simultaneamente permitiram,1
-1819,médico realizar,1
-1820,teleconsulta utilizando,1
-1821,utilizando equipamentos,1
-1822,alta resolução,1
-1823,teleconferência integrado,1
-1824,integrado possibilitando,1
-1825,levando tratamento,1
-1826,regiões remotas,1
-1827,remotas 60cidade,1
-1828,60cidade conectada,1
-1829,virtual demonstrando,1
-1830,lab permitiu,1
-1831,gaps sociais,1
-1832,possam reduzir,1
-1833,virtual tornando,1
-1834,sensores ampliando,1
-1835,viabilizando processos,1
-1836,muitos benefícios,1
-1837,irá estimular,1
-1838,economia criativa,1
-1839,levar recursos,1
-1840,acesso replicar,1
-1841,replicar materiais,1
-1842,materiais educativos,1
-1843,tornando possível,1
-1844,beneficiar toda,1
-1845,possível visita,1
-1846,consulta médica,1
-1847,tempo real,1
-1848,real 59o,1
-1849,59o 5g,1
-1850,irá acelerar,1
-1851,muitas oportunidades,1
-1852,pilotadas relacionadas,1
-1853,pode beneficiar,1
-1854,extra çã,1
-1855,formação básica,1
-1856,mat érias,1
-1857,vão além,1
-1858,rede alemã,1
-1859,vulneráveis crianças,1
-1860,adolescentes mulheres,1
-1861,última autoavaliação,1
-1862,resultado médio,1
-1863,colaboradores realizaram,1
-1864,ambições esga,1
-1865,vem publicando,1
-1866,metas anuais,1
-1867,anuais relacionadas,1
-1868,esforço conjunto,1
-1869,sociedade esgambiçõesmetfisprfizo,1
-1870,733educação aplicações,1
-1871,esgambiçõesmetfisprfizo eł,1
-1872,eł aumentando,1
-1873,energia verde,1
-1874,operações ecoe,1
-1875,ecoe ciência,1
-1876,tráfego transmitido,1
-1877,transmitido emissões,1
-1878,neutra sł,1
-1879,sł melhorando,1
-1880,ranking brasileiro,1
-1881,colaboradores mq3,1
-1882,diagnostic hrcd,1
-1883,capacity diagnostic,1
-1884,rights capacity,1
-1885,human rights,1
-1886,506188trabalho inclusão257,1
-1887,inclusão257 1outros,1
-1888,1outros 65470iniciativas,1
-1889,comunidade 550patrocínios,1
-1890,550patrocínios esportivos,1
-1891,esportivos patrocínios,1
-1892,patrocínios culturais,1
-1893,culturais outros,1
-1894,incentivos fiscais,1
-1895,inclusos nesta,1
-1896,nesta categoria,1
-1897,humanos organizado,1
-1898,infantil forçado,1
-1899,forçado respeito,1
-1900,assédio moral,1
-1901,sexual valoriza,1
-1902,coletiva leia,1
-1903,due diligenceo,1
-1904,diligenceo processo,1
-1905,realizado periodicamente,1
-1906,princípios orientadores,1
-1907,john ruggie,1
-1908,autoavaliação human,1
-1909,mq3 colaboradores,1
-1910,pessoas gł,1
-1911,alto nível,1
-1912,vel per,1
-1913,sede localização,1
-1914,atendidos porte,1
-1915,trabalhadores cadeia,1
-1916,negociações iniciadas,1
-1917,mou memorandum,1
-1918,understanding resultando,1
-1919,cessão onerosa,1
-1920,onerosa voltados,1
-1921,precaução iniciativas,1
-1922,desenvolvidas externamente,1
-1923,associações 27estratégia,1
-1924,27estratégia gri,1
-1925,gerais declaração,1
-1926,decisão sênior,1
-1927,sênior 03ética,1
-1928,princípios padrões,1
-1929,comportamento 1916governança,1
-1930,1916governança gri,1
-1931,governança 30engajamento,1
-1932,categoria sinttel,1
-1933,trabalhadores conforme,1
-1934,acordo coletivo,1
-1935,revisão anual,1
-1936,gerais nome,1
-1937,gri11 divulgações,1
-1938,ise manter,1
-1939,conteúdo gri11,1
-1940,obter anexo,1
-1941,certificações certi,1
-1942,certi cação,1
-1943,cação áreficerti,1
-1944,áreficerti cfidfiabrfingêncifiiso,1
-1945,cfidfiabrfingêncifiiso certificação,1
-1946,executados minas,1
-1947,paulo pará,1
-1948,pará paraná,1
-1949,paraná pernambuco,1
-1950,brasília iso,1
-1951,faturamento fixo,1
-1952,smp certificação,1
-1953,smp nacional,1
-1954,stfc certificação,1
-1955,telefônico fixo,1
-1956,fixo comutado,1
-1957,comutado œ,1
-1958,stfc nacional,1
-1959,scm certificação,1
-1960,comunicação multimídia,1
-1961,multimídia œ,1
-1962,scm nacional,1
-1963,aplicações 506188trabalho,1
-1964,doações23073124 projetos,1
-1965,três federações,1
-1966,fundadora anna,1
-1967,mentorias desde,1
-1968,cinco finalistas,1
-1969,hackbrazil œ,1
-1970,competição internacional,1
-1971,internacional promovida,1
-1972,brazil conference,1
-1973,harvard mit,1
-1974,mit œ,1
-1975,awc destaque,1
-1976,segundo lugar,1
-1977,sócia fundadora,1
-1978,anna luísa,1
-1979,mil doações23073124,1
-1980,luísa beserra,1
-1981,jovem campeã,1
-1982,transforma água,1
-1983,água potável,1
-1984,luz solar,1
-1985,solar garatéa,1
-1986,missão garatéa,1
-1987,maior consórcio,1
-1988,consórcio espacial,1
-1989,espacial brasileiro,1
-1990,paulo usp,1
-1991,protótipos tecnológicos,1
-1992,querem transformar,1
-1993,apoia estudantes,1
-1994,educação empreendedora,1
-1995,tecnológica produtiva,1
-1996,jovens inclusãoauxilia,1
-1997,https institutotim,1
-1998,institutotim org,1
-1999,br 97bolsas,1
-2000,97bolsas instituto,1
-2001,obmep desde,1
-2002,obmep olimpíada,1
-2003,olimpíada brasileira,1
-2004,bolsas mensais,1
-2005,estudantes medalhistas,1
-2006,astronomia biologia,1
-2007,biologia computação,1
-2008,computação economia,1
-2009,economia engenharia,1
-2010,engenharia estatística,1
-2011,estatística física,1
-2012,matemática medicina,1
-2013,química atualmente,1
-2014,atualmente estudantes,1
-2015,estudantes recebem,1
-2016,bolsas academic,1
-2017,capital awc,1
-2018,química fafq,1
-2019,leva alunos,1
-2020,alunos brasileiros,1
-2021,infância unicef,1
-2022,educação musical,1
-2023,crianças jovens,1
-2024,integrantes possui,1
-2025,possui algum,1
-2026,algum tipo,1
-2027,mestre músicos,1
-2028,músicos monitores,1
-2029,apresentação especial,1
-2030,prêmio anatel,1
-2031,telecomunicações conquistado,1
-2032,ovacionada além,1
-2033,ﬁitalianorioﬂ copacabana,1
-2034,copacabana open,1
-2035,beach tennis,1
-2036,tennis convenção,1
-2037,tradicional carnaval,1
-2038,praça xavier,1
-2039,mini bloco,1
-2040,bloco bloco,1
-2041,bloco infantil,1
-2042,espetáculo ﬁovoﬂ,1
-2043,cirque du,1
-2044,du soleil,1
-2045,unicef desenvolveram,1
-2046,tics œ,1
-2047,norte americano,1
-2048,gratuitamente atualmente,1
-2049,americano student,1
-2050,student space,1
-2051,space ight,1
-2052,ight experiments,1
-2053,experiments program,1
-2054,program ssep,1
-2055,ssep incentivando,1
-2056,ciências espaciais,1
-2057,experimento vencedor,1
-2058,edição capilaridade,1
-2059,capilaridade vs,1
-2060,vs gravidade,1
-2061,agência espacial,1
-2062,espacial norte,1
-2063,norte americana,1
-2064,americana nasa,1
-2065,estação espacial,1
-2066,espacial internacional,1
-2067,internacional iss,1
-2068,iss onde,1
-2069,software livre,1
-2070,abertos oferecidos,1
-2071,oferecidos gratuitamente,1
-2072,cláusulas financeiras,1
-2073,federações sindicais,1
-2074,beneficiaram cerca,1
-2075,selecionados basearamse,1
-2076,isae consiste,1
-2077,consiste principalmente,1
-2078,obter evidências,1
-2079,possibilite concluir,1
-2080,limitada requer,1
-2081,procedimentos adicionais,1
-2082,auditor independente,1
-2083,independente toma,1
-2084,toma conhecimento,1
-2085,podem apresentar,1
-2086,apresentar distorções,1
-2087,procedimentos compreenderam,1
-2088,paz justiça,1
-2089,gestores responsáveis,1
-2090,verificação amostral,1
-2091,determinadas evidências,1
-2092,registros contábeis,1
-2093,limitada compreenderam,1
-2094,protocol aplicáveis,1
-2095,evidências obtidas,1
-2096,limitada alcance,1
-2097,substancialmente menos,1
-2098,menos extensos,1
-2099,possibilitam obter,1
-2100,incluindo requisitos,1
-2101,normas requerem,1
-2102,contadores aplicáveis,1
-2103,federação internacional,1
-2104,fortes parcerias,1
-2105,rj introdução,1
-2106,indicadores contidos,1
-2107,reporting iniciative,1
-2108,iniciative relatório,1
-2109,estufa ﬁgriﬂ,1
-2110,ﬁgriﬂ versão,1
-2111,estufa ﬁinventário,1
-2112,geeﬂ responsabilidades,1
-2113,ﬁessencialﬂ especificações,1
-2114,protocol inventário,1
-2115,distorção relevante,1
-2116,relevante independentemente,1
-2117,erro responsabilidade,1
-2118,expressar conclusão,1
-2119,comunicado técnico,1
-2120,ibracon ct,1
-2121,ct aprovado,1
-2122,elaborado tomando,1
-2123,revisão emitida,1
-2124,œ cfc,1
-2125,internacional isae,1
-2126,isae emitida,1
-2127,tomamos conhecimento,1
-2128,opinião poderíamos,1
-2129,eventuais distorções,1
-2130,projeto editorial,1
-2131,report œ,1
-2132,redação andressa,1
-2133,andressa malcher,1
-2134,malcher mtb,1
-2135,mtb sp,1
-2136,sp consultoria,1
-2137,gri karina,1
-2138,karina simão,1
-2139,relacionamento ana,1
-2140,ana souza,1
-2141,souza projeto,1
-2142,projeto grá,1
-2143,grá co,1
-2144,co leandro,1
-2145,leandro lopes,1
-2146,lopes diagramação,1
-2147,diagramação rpt,1
-2148,sustentabilidade fotogra,1
-2149,imagensrevisão ortográ,1
-2150,ortográ ca,1
-2151,ca ana,1
-2152,ana paula,1
-2153,paula cardoso,1
-2154,editorial integrado,1
-2155,corporativa consultoria,1
-2156,limitações inerentes,1
-2157,relations œ,1
-2158,financeiros dada,1
-2159,determinar calcular,1
-2160,dados interpretações,1
-2161,interpretações qualitativas,1
-2162,pressupostos individuais,1
-2163,julgamentos adicionalmente,1
-2164,realizamos qualquer,1
-2165,projeções futuras,1
-2166,realizados descritos,1
-2167,descritos neste,1
-2168,relatório nada,1
-2169,nada chegou,1
-2170,sido elaboradas,1
-2171,ernst young,1
-2172,young auditores,1
-2173,crc 2sp015199,1
-2174,2sp015199 fernando,1
-2175,fernando alberto,1
-2176,magalhães contador,1
-2177,contador crc,1
-2178,œ 1sp133169,1
-2179,regulatory institutional,1
-2180,press relations,1
-2181,instituições fortes,1
-2182,terra paz,1
-2183,sindicais identificação,1
-2184,recuperados 12energia,1
-2185,casos confirmados,1
-2186,medidas tomadas3316,1
-2187,tomadas3316 gri,1
-2188,33gri concorrência,1
-2189,judiciais movidas,1
-2190,aberto atualmente,1
-2191,três concluídos,1
-2192,16materiais gri,1
-2193,70gri materiais,1
-2194,materiais usados,1
-2195,embalagens recuperados,1
-2196,12energia gri,1
-2197,d'água vida,1
-2198,67gri energia,1
-2199,78gri água,1
-2200,fonte percentual,1
-2201,12biodiversidade gri,1
-2202,65gri biodiversidade,1
-2203,biodiversidade emissõesgri,1
-2204,emissõesgri abordagem,1
-2205,111gri standard,1
-2206,escopo intensidade,1
-2207,disposição 12conformidade,1
-2208,12conformidade ambiental,1
-2209,operações submetidas,1
-2210,importantes 9212combate,1
-2211,compras proporção,1
-2212,indiretos significativos,1
-2213,preocupações levantadas,1
-2214,levantadas gri,1
-2215,entidades incluídas,1
-2216,financeiras consolidadas,1
-2217,consolidadas definindo,1
-2218,tópico10102 lista,1
-2219,informações quaisquer,1
-2220,quaisquer reformulações,1
-2221,tabelas página,1
-2222,recente ciclo,1
-2223,relatório9102 opção,1
-2224,standards sumário,1
-2225,desempenho econômicogri,1
-2226,econômicogri abordagem,1
-2227,21gri desempe,1
-2228,desempe nho,1
-2229,nho econômico,1
-2230,distribuído implicações,1
-2231,climáticas ajuda,1
-2232,ajuda financeira,1
-2233,governo 15impactos,1
-2234,15impactos econômicos,1
-2235,52gri impactos,1
-2236,ambientais 92emprego,1
-2237,92emprego gri,1
-2238,80gri emprego,1
-2239,35gri marketing,1
-2240,46gri privacidade,1
-2241,queixas comprovadas,1
-2242,comprovadas relativas,1
-2243,conformidade socioeconômica,1
-2244,socioeconômica gri,1
-2245,35gri conformidade,1
-2246,conformidade socioeconômi,1
-2247,socioeconômi ca,1
-2248,econômicosconsiderando multas,1
-2249,sustentável erradicação,1
-2250,pobreza fome,1
-2251,fome zero,1
-2252,zero boa,1
-2253,saneamento energia,1
-2254,energia acessível,1
-2255,limpa emprego,1
-2256,emprego digno,1
-2257,desigualdades cidades,1
-2258,comunidades sustentáveis,1
-2259,produção responsáveis,1
-2260,alterações climáticas,1
-2261,vida debaixo,1
-2262,debaixo d'água,1
-2263,rotulagem casos,1
-2264,92política pública,1
-2265,novas contratações,1
-2266,sociais 92política,1
-2267,86gri saúde,1
-2268,empregados representados,1
-2269,lesões taxas,1
-2270,lesões doenças,1
-2271,doenças ocupacionais,1
-2272,ocupacionais dias,1
-2273,perdidos absenteísmo,1
-2274,mortes relacionadas,1
-2275,ocupação 8treinamento,1
-2276,88gri treinamento,1
-2277,aprendizagem contínua,1
-2278,aposentadoria percentual,1
-2279,recebem regularmente,1
-2280,regularmente análises,1
-2281,carreira 8diversidade,1
-2282,razão matemática,1
-2283,discri minação,1
-2284,minação casos,1
-2285,medidas corretivas,1
-2286,corretivas tomadas825,1
-2287,tomadas825 trabalho,1
-2288,escravo 928avaliação,1
-2289,928avaliação social,1
-2290,democratiza estratégias,1
-2291,aplicações investe,1
-2292,érias primas,1
-2293,afinidade diversidade,1
-2294,mostrou resultados,1
-2295,resultados satisfatórios,1
-2296,favorabilidade bateu,1
-2297,bateu recorde,1
-2298,recorde subindo,1
-2299,subindo pontos,1
-2300,alcançando 82a,1
-2301,people caring,1
-2302,caring inclusion,1
-2303,inclusion management,1
-2304,externas assim,1
-2305,afinidade ações,1
-2306,prédios administrados,1
-2307,ações focadas,1
-2308,gênero lgbti,1
-2309,lgbti raça,1
-2310,raça gerações,1
-2311,deficiência assim,1
-2312,comunicações contínuas,1
-2313,contínuas alguns,1
-2314,cultura inclusiva,1
-2315,inclusiva demais,1
-2316,implementação completa,1
-2317,plano ocorrerão,1
-2318,faz parte,1
-2319,seleções internas,1
-2320,colaboradores participarem,1
-2321,resultados demonstram,1
-2322,concessionária responsável,1
-2323,uentes descartados,1
-2324,ocasionam impacto,1
-2325,afetam corpos,1
-2326,corpos hídricos,1
-2327,significativa 79água,1
-2328,79água retirada,1
-2329,font águas,1
-2330,fontes poço,1
-2331,poço artesiano,1
-2332,artesiano caminhão,1
-2333,caminhão pipa,1
-2334,reutilizada 904abastecimento,1
-2335,904abastecimento municipal,1
-2336,sendo revisto,1
-2337,parcialmente contabilizado,1
-2338,reutilizada 80gestão,1
-2339,pessoas 81para,1
-2340,conhecimentos habilidades,1
-2341,talentos diversos,1
-2342,participaram superando,1
-2343,participação anterior,1
-2344,ponto percentual,1
-2345,oito denúncias,1
-2346,advertência feedback,1
-2347,deficiência 83empregados,1
-2348,proporções correspondem,1
-2349,indicam média,1
-2350,proporção salarial,1
-2351,remuneração variável,1
-2352,colaboradores excluindo,1
-2353,gênero homem,1
-2354,homem 1387mulher,1
-2355,1387mulher 0213faixa,1
-2356,0213faixa etária,1
-2357,etária anos00,1
-2358,anos00 000de,1
-2359,anos11 anos5,1
-2360,anos5 561173total,1
-2361,561173total 16fi100,1
-2362,16fi100 fi16,1
-2363,fi16 fi100,1
-2364,fi100 empregados,1
-2365,homens1 mulheres,1
-2366,admissões mensais,1
-2367,mês 85empregados,1
-2368,2homens1 mulheres,1
-2369,mulheres 19712total,1
-2370,19712total taxas,1
-2371,ajustadas neste,1
-2372,valores maiores,1
-2373,99call centers,1
-2374,número bsoluto,1
-2375,04lojas 99call,1
-2376,col bor,1
-2377,bor dores,1
-2378,tegori homensmulheres,1
-2379,homensmulheres diretoria,1
-2380,diretoria gerência,1
-2381,gerência profissionais,1
-2382,estagiários jovens,1
-2383,jovens aprendizes,1
-2384,raça cor,1
-2385,cor nº,1
-2386,nº brancos,1
-2387,brancos 63negros,1
-2388,63negros 7pardos,1
-2389,7pardos 27amarelos,1
-2390,27amarelos 1indígenas340,1
-2391,informado 2total,1
-2392,2total 84proporção,1
-2393,84proporção salarial,1
-2394,funcional 2diretoria,1
-2395,2diretoria 54gerência,1
-2396,54gerência 09profissionais,1
-2397,09profissionais 09força,1
-2398,vendas 04lojas,1
-2399,brasileira controlados,1
-2400,meta mantémse,1
-2401,mês empregados,1
-2402,cat 3a,1
-2403,132frota própria,1
-2404,própria geradores,1
-2405,fugitivas refrigerantes,1
-2406,refrigerantes emissões,1
-2407,fugitivas extintores,1
-2408,extintores escopo,1
-2409,escopo 806consumo,1
-2410,eletricidade 806escopo,1
-2411,escopo 353cat,1
-2412,353cat produção,1
-2413,comprados cat,1
-2414,3a produção,1
-2415,tendo alcançado,1
-2416,energéticos cat,1
-2417,cat 3c,1
-2418,3c perdas,1
-2419,distribuição upstream,1
-2420,upstream 425ˇcat,1
-2421,425ˇcat disposição,1
-2422,resíduos 558cat,1
-2423,558cat viagens,1
-2424,aéreas viagens,1
-2425,táxis cat,1
-2426,funcionários casa,1
-2427,escopo 132frota,1
-2428,fontefi305 escopo,1
-2429,emissões discriminadas,1
-2430,2e1 parte,1
-2431,estudo concluiu,1
-2432,cada mb,1
-2433,dados trafegados,1
-2434,etapas impactantes,1
-2435,gases causadores,1
-2436,pesofi305 2emissõesfi305,1
-2437,2emissõesfi305 escopo,1
-2438,tco 2e13,1
-2439,2e13 tco,1
-2440,tco 2e5,1
-2441,2e5 tco2eescopo,1
-2442,tco2eescopo mwh,1
-2443,mwh tco,1
-2444,tco 2e51,1
-2445,2e51 tco,1
-2446,tco 2e53,1
-2447,2e53 tco2eescopo,1
-2448,tco2eescopo tco,1
-2449,tco 2e37,1
-2450,2e37 tco,1
-2451,tco 2e29,1
-2452,2e29 tco,1
-2453,tco 2e1,1
-2454,distribuição downstream,1
-2455,downstream algumas,1
-2456,algumas transportadoras,1
-2457,comprada escopo,1
-2458,combustível proveniente,1
-2459,œ trajeto,1
-2460,trajeto diário,1
-2461,frota terceirizada,1
-2462,transporte aéreo,1
-2463,carga gerenciamento,1
-2464,comprados produção,1
-2465,energéticos combustíveis,1
-2466,combustíveis perdas,1
-2467,eletricidade 78gestão,1
-2468,banheiros cozinhas,1
-2469,proveniente principalmente,1
-2470,impacto expressivo,1
-2471,permanece conduzindo,1
-2472,conduzindo iniciativas,1
-2473,inspeções frequentes,1
-2474,prevenir eventuais,1
-2475,eventuais vazamentos,1
-2476,vazamentos instalação,1
-2477,equipamentos hidroeficientes,1
-2478,possíveis desvios,1
-2479,ar condicionado,1
-2480,condicionado 1em,1
-2481,indiretas queima,1
-2482,eletricidade comprada,1
-2483,transportadoras terceirizadas,1
-2484,incêndios escopo,1
-2485,dados primários,1
-2486,emissões 77ano,1
-2487,77ano emissão,1
-2488,colaborador kg,1
-2489,2e colaborador,1
-2490,colaborador fi305,1
-2491,2emissão associa,1
-2492,receita operacional,1
-2493,operacional líquida,1
-2494,líquida kg,1
-2495,kg tco,1
-2496,tco 2e,1
-2497,fi305 4escopo,1
-2498,4escopo 30escopo,1
-2499,30escopo escopo,1
-2500,escopo escopofi305,1
-2501,escopofi305 3tipo,1
-2502,emissão escopo,1
-2503,diretas queima,1
-2504,frota própria,1
-2505,própria queima,1
-2506,óleo diesel,1
-2507,fugitivas oriundas,1
-2508,desligamentos mensais,1
-2509,funcional diretores,1
-2510,matemática aplicações,1
-2511,considerados fornecedores,1
-2512,locais 1compras,1
-2513,1compras locais,1
-2514,informação 808serviços,1
-2515,808serviços técnicos,1
-2516,profissionais real,1
-2517,real estate,1
-2518,estate outros,1
-2519,outros 718fornecedores,1
-2520,718fornecedores estrangeiros,1
-2521,estrangeiros infraestrutura,1
-2522,orçamento gasto,1
-2523,possui sede,1
-2524,indicadornovos colaboradores,1
-2525,possível prioriza,1
-2526,prioriza fornecedores,1
-2527,fornecedores nacionais,1
-2528,nacionais 93inclusão,1
-2529,93inclusão digital,1
-2530,digital 94tema,1
-2531,94tema material,1
-2532,telecomunicações participando,1
-2533,exemplo regulamentam,1
-2534,fez contribuições,1
-2535,acompanhou cerca,1
-2536,estimulando boas,1
-2537,fornecedores divulgando,1
-2538,avanço conjunto,1
-2539,mútuos identificar,1
-2540,cumprida horas,1
-2541,horas totais,1
-2542,estagiários alcançada,1
-2543,alcançada treinados,1
-2544,meta 90cadeia,1
-2545,90cadeia desuprimentos,1
-2546,criação conjunta,1
-2547,telefones celulares,1
-2548,modem œ,1
-2549,consultorias auditorias,1
-2550,visa identificar,1
-2551,abrange diversas,1
-2552,diversas questões,1
-2553,fornecedores responderam,1
-2554,questionário superando,1
-2555,envolvidos neste,1
-2556,obrigatoriedades legais,1
-2557,menção expressa,1
-2558,infantil ilegal,1
-2559,legislação trabalhista,1
-2560,responsabilidade socioambiental,1
-2561,fortalecer compromissos,1
-2562,compromissos mútuos,1
-2563,âmbito federal,1
-2564,esferas regionais,1
-2565,serem ferramentas,1
-2566,br setorregulado,1
-2567,index php,1
-2568,php component,1
-2569,component content,1
-2570,content article,1
-2571,article id,1
-2572,digital geograficamente,1
-2573,geograficamente mantendo,1
-2574,4g 96como,1
-2575,96como parte,1
-2576,distrito federal,1
-2577,públicas beneficiando,1
-2578,beneficiando mil,1
-2579,mil professores,1
-2580,inovações tecnológicas,1
-2581,tecnológicas devem,1
-2582,devem servir,1
-2583,instituto tim103,1
-2584,quer avançar,1
-2585,quatro frentes,1
-2586,frentes ensinodesenvolve,1
-2587,democratiza abordagens,1
-2588,abordagens pedagógicas,1
-2589,recursos didáticos,1
-2590,setorregulado index,1
-2591,gov br,1
-2592,pequenas empresas,1
-2593,anatel gov,1
-2594,empresas promovendo,1
-2595,comunidades isoladas,1
-2596,isoladas áreas,1
-2597,rede 95o,1
-2598,95o modelo,1
-2599,deu continuidade,1
-2600,ofertas comerciais,1
-2601,tarifas acessíveis,1
-2602,acessíveis oferecidas,1
-2603,liberty web,1
-2604,web rural,1
-2605,centros urbanos,1
-2606,santo paraná,1
-2607,santa catarina,1
-2608,catarina œ,1
-2609,comunidades rurais,1
-2610,rurais 2adquiriram,1
-2611,frequências definidas,1
-2612,licitação nº,1
-2613,regiões rurais,1
-2614,localizadas escolas,1
-2615,rj es,1
-2616,es pr,1
-2617,terceiros cumprida,1
-2618,job indicadornovos,1
-2619,diretores 6060gerentes,1
-2620,representantes 1os,1
-2621,quick massage,1
-2622,massage disponibilizados,1
-2623,semana interna,1
-2624,trabalho sipat,1
-2625,sipat todo,1
-2626,impacto 2em,1
-2627,comissão interna,1
-2628,acidentes cipa,1
-2629,cipa conforme,1
-2630,legislação portaria,1
-2631,portaria norma,1
-2632,1os colaboradores,1
-2633,aula online,1
-2634,ocupacional pcmso,1
-2635,recomendados exames,1
-2636,exames médicos,1
-2637,médicos ocupacionais,1
-2638,ocupacionais relacionados,1
-2639,caso existam,1
-2640,existam comoparte,1
-2641,admissão demissão,1
-2642,demissão retorno,1
-2643,função 2a,1
-2644,flex time,1
-2645,segurança laboral,1
-2646,ginástica saúde,1
-2647,ergonômicas além,1
-2648,avaliações ergonômicas,1
-2649,6060gerentes profissionais,1
-2650,estagiários 210jovens,1
-2651,210jovens aprendizes,1
-2652,região região,1
-2653,região no258,1
-2654,no258 263ne506709,1
-2655,263ne506709 co366370,1
-2656,co366370 se8,1
-2657,se8 sul864,1
-2658,faixa etária,1
-2659,anos9801 190acima,1
-2660,anos 4649total,1
-2661,4649total 86a,1
-2662,realizado anualmente,1
-2663,conduzidas inspeções,1
-2664,respectivas medidas,1
-2665,exercem função,1
-2666,doenças 3no,1
-2667,3no entanto,1
-2668,mantém atenção,1
-2669,atenção constante,1
-2670,atividades ligadas,1
-2671,risco cognitivo,1
-2672,recebem gympass,1
-2673,gympass serviço,1
-2674,práticas esportivas,1
-2675,treinamentos transversais,1
-2676,cujas capacitações,1
-2677,colaboradores percorrem,1
-2678,percorrem trilhas,1
-2679,aprendizagem específicos,1
-2680,específicos 2programa,1
-2681,2programa evolution,1
-2682,evolution proporciona,1
-2683,registraram aumento,1
-2684,vendas abordando,1
-2685,programa onboarding,1
-2686,onboarding integra,1
-2687,organizacional abordando,1
-2688,anticorrupção posicionamento,1
-2689,cenário competitivo,1
-2690,competitivo trilha,1
-2691,pro ssionais,1
-2692,ti aborda,1
-2693,aborda conhecimentos,1
-2694,reforçarem normativos,1
-2695,mecanismos anticorrupção,1
-2696,colaboradores elegíveis,1
-2697,primeiro semestre,1
-2698,horas sala,1
-2699,transversais œ,1
-2700,técnica específica,1
-2701,vida saudável,1
-2702,atualização técnica,1
-2703,odontológico além,1
-2704,serem convidados,1
-2705,vacinação contra,1
-2706,gripe realizada,1
-2707,recebem auxílio,1
-2708,auxílio creche,1
-2709,licenças maternidade,1
-2710,paternidade qualidade,1
-2711,trabalho 87em,1
-2712,acidentes alcançando,1
-2713,superado alcançando,1
-2714,trabalho 111número,1
-2715,trabalho 11136taxa,1
-2716,trabalhadas taxa,1
-2717,gravidade número,1
-2718,trabalhadas 6número,1
-2719,perdidos 88programas,1
-2720,habilidades conectadas,1
-2721,principais frentes,1
-2722,cenários futuros,1
-2723,ações 2ł,1
-2724,2ł treinamentos,1
-2725,proporcionam qualificação,1
-2726,aplicativo whatsapp,1
-2727,ão reabastecer,1
-2728,digitais registraram,1
-2729,estímulos,1
-2730,logística,1
-2731,funcionalidades,1
-2732,antes,1
-2733,formato,1
-2734,museus,1
-2735,viabilizar,1
-2736,movimentação,1
-2737,vestia,1
-2738,movia,1
-2739,mão,1
-2740,recebidos,1
-2741,intenso,1
-2742,joystick,1
-2743,enviava,1
-2744,movimento,1
-2745,demonstração,1
-2746,captura,1
-2747,levando,1
-2748,pudessem,1
-2749,aluno,1
-2750,ar,1
-2751,manipulação,1
-2752,empreendimentos,1
-2753,viabilizarão,1
-2754,diesel,1
-2755,experimentação,1
-2756,embrapa,1
-2757,convocação,1
-2758,habilitou,1
-2759,challenge,1
-2760,aceleradora,1
-2761,laboratórios,1
-2762,celulares,1
-2763,antena,1
-2764,huawei,1
-2765,criados,1
-2766,tendo,1
-2767,suporte,1
-2768,ponte,1
-2769,estabelecimento,1
-2770,disponibilizar,1
-2771,permitem,1
-2772,possibilitando,1
-2773,quer,1
-2774,expertise,1
-2775,república,1
-2776,habilitará,1
-2777,automatizados,1
-2778,geopolítica,1
-2779,explicações,1
-2780,pulmão,1
-2781,ambição,1
-2782,maioria,1
-2783,acompanham,1
-2784,fortalecer,1
-2785,ˇ103,1
-2786,funcionamento,1
-2787,autogeração,1
-2788,microgeração,1
-2789,geradores,1
-2790,biogás,1
-2791,revista,1
-2792,68a,1
-2793,robô,1
-2794,celebração,1
-2795,especificamente,1
-2796,aneel,1
-2797,estimula,1
-2798,proveniente,1
-2799,expandido,1
-2800,decomissioning,1
-2801,alterados,1
-2802,publicados,1
-2803,métricas,1
-2804,ajuste,1
-2805,tratadas,1
-2806,infração,1
-2807,regulamentos,1
-2808,proposta,1
-2809,demonstrar,1
-2810,confiabilidade,1
-2811,convívio,1
-2812,mesa,1
-2813,chão,1
-2814,fábrica,1
-2815,simulação,1
-2816,óculos,1
-2817,cabeça,1
-2818,eletrodomésticos,1
-2819,gera,1
-2820,constam,1
-2821,normativo,1
-2822,assim,1
-2823,inspirado,1
-2824,poluição,1
-2825,licença,1
-2826,emissão,1
-2827,operou,1
-2828,biodiversidade,1
-2829,automação,1
-2830,cobre,1
-2831,promoveu,1
-2832,observância,1
-2833,plenário,1
-2834,câmara,1
-2835,pl,1
-2836,vigor,1
-2837,permissão,1
-2838,confidencialidade,1
-2839,telemático,1
-2840,regula,1
-2841,dpo,1
-2842,regulamentações,1
-2843,titulares,1
-2844,solicitações,1
-2845,cabendo,1
-2846,necessários,1
-2847,atender,1
-2848,pouco,1
-2849,favor,1
-2850,resoluções,1
-2851,afetados,1
-2852,pedidos,1
-2853,alvo,1
-2854,imei,1
-2855,garantam,1
-2856,tratamento,1
-2857,legitimar,1
-2858,devendo,1
-2859,descontinuada,1
-2860,introdução,1
-2861,42informações,1
-2862,sac,1
-2863,ouvidoria,1
-2864,justiça,1
-2865,encerrados,1
-2866,simplificou,1
-2867,preferência,1
-2868,agrega,1
-2869,cresceu,1
-2870,demostram,1
-2871,acompanhou,1
-2872,reputação,1
-2873,retenção,1
-2874,vigorar,1
-2875,ampla,1
-2876,rígida,1
-2877,estruturadas,1
-2878,seguirem,1
-2879,coleta,1
-2880,correspondem,1
-2881,48infraestrutura,1
-2882,bndes,1
-2883,junho,1
-2884,soluçã,1
-2885,situações,1
-2886,concentração,1
-2887,termos,1
-2888,legislativo,1
-2889,obrigatório,1
-2890,construída,1
-2891,radiofrequência,1
-2892,viabilizou,1
-2893,instituído,1
-2894,tratam,1
-2895,investe,1
-2896,alteradas,1
-2897,impulsionar,1
-2898,referência,1
-2899,padrões,1
-2900,intelectual,1
-2901,convênio,1
-2902,inatel,1
-2903,voltada,1
-2904,economia,1
-2905,participou,1
-2906,instalou,1
-2907,modernização,1
-2908,afastados,1
-2909,explorar,1
-2910,aprimoramento,1
-2911,refarming,1
-2912,consiste,1
-2913,reaproveitamento,1
-2914,populaçã,1
-2915,capex,1
-2916,destinado,1
-2917,expandir,1
-2918,expansão,1
-2919,fibra,1
-2920,agregação,1
-2921,ativação,1
-2922,densificação,1
-2923,sustentáveis,1
-2924,iluminação,1
-2925,habilitadas,1
-2926,ms,1
-2927,corresponde,1
-2928,leva,1
-2929,conduziu,1
-2930,aplicabilidade,1
-2931,veículos,1
-2932,remoção,1
-2933,física,1
-2934,convidada,1
-2935,facilita,1
-2936,adolescentes,1
-2937,98escola,1
-2938,aderiram,1
-2939,adultos,1
-2940,integrantes,1
-2941,intérprete,1
-2942,comemorar,1
-2943,acessibilidade,1
-2944,ocasião,1
-2945,tocar,1
-2946,cadastradas,1
-2947,brito,1
-2948,lado,1
-2949,assistir,1
-2950,aportados,1
-2951,representaram,1
-2952,99a,1
-2953,pautados,1
-2954,proíbe,1
-2955,compulsório,1
-2956,respondam,1
-2957,fundo,1
-2958,astronauta,1
-2959,acessórios,1
-2960,jovem,1
-2961,regulações,1
-2962,viabiliza,1
-2963,residem,1
-2964,classes,1
-2965,pobres,1
-2966,mbps,1
-2967,kbps,1
-2968,solicitou,1
-2969,integrassem,1
-2970,fundado,1
-2971,cumprir,1
-2972,lançado,1
-2973,promovam,1
-2974,difusão,1
-2975,ingressam,1
-2976,apoiados,1
-2977,aqualuz,1
-2978,conquistou,1
-2979,premiada,1
-2980,terra,1
-2981,patrocina,1
-2982,filtração,1
-2983,verificar,1
-2984,mapeou,1
-2985,idosos,1
-2986,compreensão,1
-2987,limpa,1
-2988,prol,1
-2989,administradores,1
-2990,ﬁrelatórioﬂ,1
-2991,determinou,1
-2992,causada,1
-2993,diferente,1
-2994,equivalente,1
-2995,independência,1
-2996,indagações,1
-2997,serviram,1
-2998,contribuído,1
-2999,entendimento,1
-3000,suportam,1
-3001,confronto,1
-3002,entendemos,1
-3003,suficientes,1
-3004,apropriadas,1
-3005,fundamentar,1
-3006,limitações,1
-3007,emitir,1
-3008,opinião,1
-3009,rotulagem,1
-3010,82gri,1
-3011,empregados83,1
-3012,8saúde,1
-3013,agora,1
-3014,duradouro,1
-3015,aproveitando,1
-3016,reforçar,1
-3017,localização,1
-3018,propriedade,1
-3019,trabalhadores,1
-3020,telefônica,1
-3021,complemento,1
-3022,informaram,1
-3023,tomador,1
-3024,filiação,1
-3025,negocia,1
-3026,seleção,1
-3027,reformulações,1
-3028,indicadas,1
-3029,tópico,1
-3030,truste,1
-3031,fonte,1
-3032,69gri,1
-3033,rotatividade,1
-3034,acompanhar,1
-3035,situam,1
-3036,critérios,1
-3037,ida,1
-3038,debatem,1
-3039,calculou,1
-3040,ciclo,1
-3041,macroprocessos,1
-3042,emitidos,1
-3043,queima,1
-3044,compartilharam,1
-3045,combustível,1
-3046,aparelhos,1
-3047,refrigeração,1
-3048,volta,1
-3049,percentual,1
-3050,águaˇ103,1
-3051,sanitários,1
-3052,hidrômetros,1
-3053,reaproveita,1
-3054,condensação,1
-3055,esgoto,1
-3056,retirada,1
-3057,impulsionam,1
-3058,atitudes,1
-3059,motivar,1
-3060,discussão,1
-3061,fóruns,1
-3062,detalhada,1
-3063,mapeamento,1
-3064,si,1
-3065,pósconsumo,1
-3066,destinação,1
-3067,recuperação,1
-3068,precisam,1
-3069,descartados,1
-3070,tarefas,1
-3071,tonner,1
-3072,realizam,1
-3073,identificada,1
-3074,duplicidade,1
-3075,esforço,1
-3076,concluiu,1
-3077,73gestão,1
-3078,devem,1
-3079,parcela,1
-3080,estabeleceu,1
-3081,carbono,1
-3082,expostos,1
-3083,consequentemente,1
-3084,auditado,1
-3085,adesão,1
-3086,assertividade,1
-3087,repúdio,1
-3088,previsão,1
-3089,indicados,1
-3090,elegem,1
-3091,flex,1
-3092,fiexibilidade,1
-3093,saída,1
-3094,competências,1
-3095,específica,1
-3096,imersão,1
-3097,líderes,1
-3098,adotou,1
-3099,89indicadortreinamento,1
-3100,carreira,1
-3101,sala,1
-3102,aula,1
-3103,91a,1
-3104,inibir,1
-3105,desabastecimento,1
-3106,diferenciais,1
-3107,envolvidos,1
-3108,mantida,1
-3109,92fornecedores,1
-3110,aderirem,1
-3111,comissões,1
-3112,regulamentadora,1
-3113,regionais,1
-3114,relaxamento,1
-3115,aposentadoria,1
-3116,diferenças,1
-3117,direcionado,1
-3118,inclusiva,1
-3119,criada,1
-3120,trazer,1
-3121,board,1
-3122,prevê,1
-3123,atuam,1
-3124,externa,1
-3125,completa,1
-3126,classificadas,1
-3127,procedentes,1
-3128,resultaram,1
-3129,tot,1
-3130,informado,1
-3131,proporção,1
-3132,faixa,1
-3133,danos,1
-3134,alívio,1
-3135,estresse,1
-3136,atendente,1
-3137,qualidadepesquisas,1
-3138,adicionalmente,1
-3139,fim,1
-3140,setorial,1
-3141,móveis,1
-3142,eficácia,1
-3143,entender,1
-3144,facilitar,1
-3145,notificou,1
-3146,provedores,1
-3147,otts,1
-3148,especial,1
-3149,streaming,1
-3150,conter,1
-3151,anônimos,1
-3152,priorizando,1
-3153,gratuito,1
-3154,estadual,1
-3155,hospitais,1
-3156,hospital,1
-3157,estádio,1
-3158,pacaembu,1
-3159,smss,1
-3160,coordenação,1
-3161,autoridades,1
-3162,fechado,1
-3163,prefeitura,1
-3164,conversa,1
-3165,menor,1
-3166,inadimplência,1
-3167,comunicarem,1
-3168,quitação,1
-3169,débito,1
-3170,regime,1
-3171,garantido,1
-3172,disponibilizou,1
-3173,quarentena,1
-3174,auxilia,1
-3175,prépagos,1
-3176,tv,1
-3177,fechar,1
-3178,auxiliar,1
-3179,acessar,1
-3180,segunda,1
-3181,controlar,1
-3182,ativar,1
-3183,fazerem,1
-3184,central,1
-3185,digitais,1
-3186,hotsite,1
-3187,sociedadeł,1
-3188,vídeo,1
-3189,ação,1
-3190,apresentar,1
-3191,definidos,1
-3192,seguintes,1
-3193,presenciais,1
-3194,rj,1
-3195,analisar,1
-3196,causa,1
-3197,efeito,1
-3198,levou,1
-3199,priorização,1
-3200,benchmarking,1
-3201,ós,1
-3202,qualitativas,1
-3203,brasileira,1
-3204,serviçosexperiência,1
-3205,negóciosinvestimento,1
-3206,estabelece,1
-3207,disseminar,1
-3208,mobilização,1
-3209,cuidado,1
-3210,aperfeiçoamento,1
-3211,estimular,1
-3212,desdobramento,1
-3213,colaboração,1
-3214,início,1
-3215,uenciam,1
-3216,documentos,1
-3217,consulta,1
-3218,manterem,1
-3219,voltado,1
-3220,apesar,1
-3221,universitário,1
-3222,adaptada,1
-3223,graduação,1
-3224,constituídas,1
-3225,antecipar,1
-3226,adaptar,1
-3227,ir,1
-3228,encontro,1
-3229,confiante,1
-3230,trará,1
-3231,quantitativos,1
-3232,1º,1
-3233,subsidiária,1
-3234,opera,1
-3235,óvel,1
-3236,mail,1
-3237,uência,1
-3238,estruturado,1
-3239,confiança,1
-3240,juros,1
-3241,seis,1
-3242,pioneira,1
-3243,informar,1
-3244,certo,1
-3245,fechamos,1
-3246,segmento,1
-3247,manteve,1
-3248,segundo,1
-3249,totalizou,1
-3250,performance,1
-3251,olho,1
-3252,futuro,1
-3253,construímos,1
-3254,difícil,1
-3255,fruto,1
-3256,conduzimos,1
-3257,melhores,1
-3258,fez,1
-3259,carteira,1
-3260,primeiro,1
-3261,direcionar,1
-3262,governance,1
-3263,reúne,1
-3264,agenda,1
-3265,consumir,1
-3266,ajudou,1
-3267,essencial,1
-3268,complexo,1
-3269,anexo,1
-3270,quadro,1
-3271,certificações,1
-3272,realidade,1
-3273,tudo,1
-3274,fizemos,1
-3275,motivará,1
-3276,demonstrou,1
-3277,baseada,1
-3278,bilhões,1
-3279,classificação,1
-3280,financeira,1
-3281,credibilidade,1
-3282,retomada,1
-3283,apresentamos,1
-3284,conquistas,1
-3285,abertura,1
-3286,considerar,1
-3287,vivemos,1
-3288,subitamente,1
-3289,cenário,1
-3290,falar,1
-3291,home,1
-3292,hoje,1
-3293,nuvem,1
-3294,concessão,1
-3295,bônus,1
-3296,2gb,1
-3297,liberação,1
-3298,europa,1
-3299,porventura,1
-3300,acima,1
-3301,desconto,1
-3302,microsoft,1
-3303,outlook,1
-3304,entretenimento,1
-3305,execução,1
-3306,playkids,1
-3307,somam,1
-3308,jornais,1
-3309,livros,1
-3310,book,1
-3311,skeelo,1
-3312,cobrança,1
-3313,entrarem,1
-3314,mês,1
-3315,parcelamento,1
-3316,suspensão,1
-3317,renda,1
-3318,meses,1
-3319,garantirá,1
-3320,remota,1
-3321,incluindo,1
-3322,motivação,1
-3323,mostram,1
-3324,prontos,1
-3325,enfrentamento,1
-3326,contenção,1
-3327,remotização,1
-3328,virtualização,1
-3329,portfólio,1
-3330,permitindo,1
-3331,mantendo,1
-3332,contingência,1
-3333,prédios,1
-3334,proceder,1
-3335,entendendo,1
-3336,incertezas,1
-3337,horas,1
-3338,jurídica,1
-3339,familiares,1
-3340,combinando,1
-3341,rodas,1
-3342,intranet,1
-3343,tarifas,1
-3344,extraordinária,1
-3345,atos,1
-3346,colegiado,1
-3347,proteger,1
-3348,valorizar,1
-3349,maximizar,1
-3350,formada,1
-3351,destituídos,1
-3352,cargos,1
-3353,registrada,1
-3354,ata,1
-3355,respondem,1
-3356,adequaçã,1
-3357,cujo,1
-3358,submetido,1
-3359,posiçã,1
-3360,diante,1
-3361,informa,1
-3362,aplicar,1
-3363,comparadas,1
-3364,anteriores,1
-3365,regulamentares,1
-3366,respeitar,1
-3367,supervisiona,1
-3368,atribuições,1
-3369,integração,1
-3370,organiza,1
-3371,competição,1
-3372,isonômico,1
-3373,regulamentação,1
-3374,encorajando,1
-3375,cidadania,1
-3376,trabalha,1
-3377,missão,1
-3378,presidência,1
-3379,potencial,1
-3380,reputacionais,1
-3381,pequeno,1
-3382,destituição,1
-3383,players,1
-3384,cláusula,1
-3385,deliberação,1
-3386,destituíveis,1
-3387,diretoria,1
-3388,eleger,1
-3389,principal,1
-3390,assessoramento,1
-3391,apoiam,1
-3392,coincidem,1
-3393,respeitada,1
-3394,corrupçã,1
-3395,suborno,1
-3396,ampliar,1
-3397,fator,1
-3398,consequência,1
-3399,afetam,1
-3400,ausência,1
-3401,contribuem,1
-3402,setores,1
-3403,uencia,1
-3404,ponto,1
-3405,prioridade,1
-3406,aportes,1
-3407,pessoalmente,1
-3408,despesas,1
-3409,desbloqueio,1
-3410,meutim,1
-3411,problemas,1
-3412,twitter,1
-3413,fanpage,1
-3414,facebook,1
-3415,multiplataformas,1
-3416,consultam,1
-3417,procon,1
-3418,regularizam,1
-3419,baseado,1
-3420,édico,1
-3421,proposição,1
-3422,suspeita,1
-3423,doações,1
-3424,anualmente,1
-3425,conselheiros,1
-3426,declaração,1
-3427,2a,1
-3428,learnings,1
-3429,relativas,1
-3430,reclamações,1
-3431,assédio,1
-3432,desconformidade,1
-3433,protocolo,1
-3434,acompanhamento,1
-3435,tramitação,1
-3436,garantindo,1
-3437,anonimato,1
-3438,alinhada,1
-3439,committee,1
-3440,orienta,1
-3441,seguro,1
-3442,nome,1
-3443,averiguação,1
-3444,operar,1
-3445,representa,1
-3446,contempladas,1
-3447,curiosidade,1
-3448,mailing,1
-3449,engajar,1
-3450,preenchimento,1
-3451,telecomunicação,1
-3452,controlada,1
-3453,serv,1
-3454,part,1
-3455,cuidar,1
-3456,fazemos,1
-3457,ouvimos,1
-3458,levamos,1
-3459,marcada,1
-3460,consideração,1
-3461,contribuir,1
-3462,francas,1
-3463,usamos,1
-3464,criatividade,1
-3465,fazermos,1
-3466,reconhecemos,1
-3467,talento,1
-3468,rápido,1
-3469,dinâmico,1
-3470,ios,1
-3471,android,1
-3472,atende,1
-3473,fale,1
-3474,endobranding,1
-3475,endomarketing,1
-3476,alinhamento,1
-3477,posicionamento,1
-3478,frequente,1
-3479,reforça,1
-3480,propósito,1
-3481,15clientes,1
-3482,tradicionais,1
-3483,regiões,1
-3484,acompanha,1
-3485,discussões,1
-3486,viabilização,1
-3487,inovações,1
-3488,dependem,1
-3489,três,1
-3490,tabela,1
-3491,comportamento,1
-3492,ético,1
-3493,divulgação,1
-3494,analistas,1
-3495,trajetória,1
-3496,ligações,1
-3497,habilitação,1
-3498,distribuir,1
-3499,ções,1
-3500,correspondente,1
-3501,mantiveram,1
-3502,significativa,1
-3503,favorabilidade,1
-3504,eleita,1
-3505,portal,1
-3506,outros3,1
-3507,amortização,1
-3508,transferências,1
-3509,subsídios,1
-3510,iniciou,1
-3511,exercício,1
-3512,gerado,1
-3513,desde,1
-3514,inegociáveis,1
-3515,cdp,1
-3516,comunidade,1
-3517,registra,1
-3518,troca,1
-3519,demonstrando,1
-3520,receber,1
-3521,lidar,1
-3522,destaca,1
-3523,perfil,1
-3524,atribuído,1
-3525,antártida,1
-3526,domicílios,1
-3527,ligação,1
-3528,nição,1
-3529,completar,1
-3530,marítimas,1
-3531,intuito,1
-3532,suprir,1
-3533,depender,1
-3534,planejamento,1
-3535,retomar,1
-3536,comunica,1
-3537,restaurar,1
-3538,empoderar,1
-3539,contínua,1
-3540,investindo,1
-3541,autonomia,1
-3542,íquida,1
-3543,bilhõeslucro,1
-3544,íquido,1
-3545,tim39,1
-3546,expressamos,1
-3547,estimar,1
-3548,faturas enviadas,1
-3549,telecomunicações competitivas,1
-3550,nomeada empresa,1
-3551,íntegro ético,1
-3552,criteriosa avaliação,1
-3553,comitê gestor,1
-3554,gestor formado,1
-3555,instituto ethos,1
-3556,reconhecimento 27sindicato,1
-3557,27sindicato nacional,1
-3558,pessoal sinditelebrasil,1
-3559,móveis autorizadas,1
-3560,competitivas telcomp,1
-3561,realiza avaliações,1
-3562,competição justo,1
-3563,telecomunicações contribuindo,1
-3564,cidadania corporativa,1
-3565,organizações externas,1
-3566,externas fi102,1
-3567,fi102 associação,1
-3568,telebrasil participa,1
-3569,entidade civil,1
-3570,civil privada,1
-3571,governança gsm,1
-3572,operadora nomeada,1
-3573,msci realiza,1
-3574,crit ério,1
-3575,stanley capital,1
-3576,getulio vargas,1
-3577,vargas fgvces,1
-3578,busca produzir,1
-3579,produzir conhecimento,1
-3580,empresas 26índice,1
-3581,ise recomenda,1
-3582,recomenda ações,1
-3583,alto grau,1
-3584,corporativa morgan,1
-3585,morgan stanley,1
-3586,capital international,1
-3587,prezando sempre,1
-3588,international msci,1
-3589,msci environmental,1
-3590,governance research,1
-3591,research esg,1
-3592,integra carteiras,1
-3593,índices ligados,1
-3594,msci esg,1
-3595,esg leaders,1
-3596,leaders index,1
-3597,corporativa prezando,1
-3598,gsm association,1
-3599,association gsma,1
-3600,mundo associação,1
-3601,31a estrutura,1
-3602,deliberação colegiada,1
-3603,colegiada composto,1
-3604,menos cinco,1
-3605,máximo membros,1
-3606,membros eleitos,1
-3607,nove membros,1
-3608,sendo proibido,1
-3609,conselho acumule,1
-3610,principal executivo,1
-3611,ygjjru07xzclfdkgwbc9gq 31a,1
-3612,órgãos colegiados,1
-3613,telecomunicações abr,1
-3614,sendo permitida,1
-3615,fiscal comitês,1
-3616,auditoria estatutário,1
-3617,estatutário cae,1
-3618,atribuições supervisionar,1
-3619,órios financeiros,1
-3620,legais regulat,1
-3621,regulat órias,1
-3622,estatut árias,1
-3623,remuneração cr,1
-3624,30governança gri,1
-3625,contratos 30governança,1
-3626,negócioso código,1
-3627,novos atores,1
-3628,abr telecom,1
-3629,associação cuja,1
-3630,cuja missão,1
-3631,promover operar,1
-3632,técnicas compartilhadas,1
-3633,obrigações regulatórias,1
-3634,portabilidade integra,1
-3635,telecomunicações 28responsabilidade,1
-3636,negócios 29a,1
-3637,œ orientadas,1
-3638,ítica anticorrup,1
-3639,anticorrup çã,1
-3640,princ ípios,1
-3641,comportamentos antiéticos,1
-3642,áticas corruptas,1
-3643,corruptas fraudes,1
-3644,causar impactos,1
-3645,reputacionais significativos,1
-3646,escala pode,1
-3647,pode criar,1
-3648,criar barreiras,1
-3649,fundação getulio,1
-3650,fgvces desde,1
-3651,empresariais fgvces,1
-3652,pago milhõesusuários,1
-3653,fitch ressalta,1
-3654,forte perfil,1
-3655,conservadores indicadores,1
-3656,aponta ainda,1
-3657,á preparada,1
-3658,regulado setor,1
-3659,milhõespré pago,1
-3660,disponível correspondente,1
-3661,popula çã,1
-3662,mantiveram conectados,1
-3663,4g566 miltim,1
-3664,portal especializado,1
-3665,miltim live,1
-3666,qualidade evolu,1
-3667,evolu çã,1
-3668,rede apoiada,1
-3669,significativa demanda,1
-3670,rede aprimorada,1
-3671,aprimorada reconhecida,1
-3672,medi ções,1
-3673,pr êmio,1
-3674,êmio canaltech,1
-3675,bra rating,1
-3676,bilhõesmaior ebitda,1
-3677,bilhões receita,1
-3678,entregam maior,1
-3679,20nosso negócio,1
-3680,mantém líder,1
-3681,países inclusive,1
-3682,live ultra,1
-3683,larga xa,1
-3684,domicílios cobertos,1
-3685,cobertos ligação,1
-3686,cidadesł parcerias,1
-3687,permaneçam conectados,1
-3688,campo oferecendo,1
-3689,liberdade exibilidade,1
-3690,hectares cobertos,1
-3691,rede visitante,1
-3692,visitante 21o,1
-3693,21o planejamento,1
-3694,manteve foco,1
-3695,abordagem ágil,1
-3696,decis ão,1
-3697,acelera çã,1
-3698,seguiu investindo,1
-3699,utilizando intelig,1
-3700,canaltech realizado,1
-3701,faturas entregues,1
-3702,comunidade acadêmica,1
-3703,fi201 25pacto,1
-3704,previdência privada,1
-3705,privada benefícios,1
-3706,contribuições expurgados,1
-3707,subsídios isenções,1
-3708,isenções juros,1
-3709,aluguéis juros,1
-3710,dividendos 438lucros,1
-3711,438lucros prejuízos,1
-3712,distribu ído,1
-3713,mil fi201,1
-3714,25pacto global,1
-3715,digitais disponibilização,1
-3716,pactoglobal org,1
-3717,br principios,1
-3718,principios direitos,1
-3719,inegociáveis leia,1
-3720,conduzem discussões,1
-3721,disseminam boas,1
-3722,clima fi103,1
-3723,fi103 responde,1
-3724,tema consultada,1
-3725,governamentais legisladores,1
-3726,previdenciários previdência,1
-3727,encargos previdenciários,1
-3728,salários375 encargos,1
-3729,adicionado líquido,1
-3730,1º lugar,1
-3731,ranking ﬁestad,1
-3732,ﬁestad ão,1
-3733,melhores servi,1
-3734,servi çosﬂ,1
-3735,çosﬂ pesquisa,1
-3736,jornal estadão,1
-3737,estadão colaboradores,1
-3738,recordes emficlima,1
-3739,serviçosmeu time,1
-3740,time faturamento,1
-3741,receita líquida,1
-3742,considera perdas,1
-3743,liquidação duvidosa,1
-3744,descontos concedidos,1
-3745,concedidos devolução,1
-3746,terceiros7 030custos,1
-3747,mercadorias vendidas4,1
-3748,vendidas4 materiais,1
-3749,adicionado bruto,1
-3750,retenções depreciação,1
-3751,avalia periodicamente,1
-3752,altos executivos,1
-3753,rapidamente facilitando,1
-3754,serviços 40por,1
-3755,estrat égico,1
-3756,égico garantir,1
-3757,experiência positiva,1
-3758,deu segmento,1
-3759,ponto prioritário,1
-3760,relacionamento multicanal,1
-3761,dia sete,1
-3762,sete dias,1
-3763,podem endereçar,1
-3764,endereçar reclamações,1
-3765,40por meio,1
-3766,ponto central,1
-3767,próprio celular,1
-3768,celular realizar,1
-3769,realizar bloqueio,1
-3770,linhas cancelamento,1
-3771,cancelamento automático,1
-3772,2ª via,1
-3773,chat online,1
-3774,desativar serviços,1
-3775,dúvidas recebidas,1
-3776,intranet mantém,1
-3777,direcionamento estrat,1
-3778,fideliza çã,1
-3779,assuntos ligados,1
-3780,secas prolongadas,1
-3781,corrupção reportados,1
-3782,den úncias,1
-3783,dúvidas comunicadas,1
-3784,página 37saúde,1
-3785,ppra relacionado,1
-3786,inspe çã,1
-3787,propostas medidas,1
-3788,eventos naturais,1
-3789,podem gerar,1
-3790,acarretaria impactos,1
-3791,pre ço,1
-3792,cliente03 39para,1
-3793,combustíveis fósseis,1
-3794,imposi çã,1
-3795,climáticas 2considerando,1
-3796,ções contribuem,1
-3797,oferecem alternativas,1
-3798,processos produtivos,1
-3799,fluxos logísticos,1
-3800,áticas apresenta,1
-3801,eventos climáticos,1
-3802,climáticos 38relacionamento,1
-3803,mantém ativos,1
-3804,aproximar operadoras,1
-3805,consumidor envolvendo,1
-3806,gerou redução,1
-3807,percentuais acima,1
-3808,voce atendimento,1
-3809,fale conosco,1
-3810,conosco 43meu,1
-3811,43meu timo,1
-3812,timo aplicativo,1
-3813,apresentou resultados,1
-3814,resultados consistentes,1
-3815,consistentes durante,1
-3816,plataforma gerou,1
-3817,usuários únicos,1
-3818,sociais timajuda,1
-3819,plataforma cresceu,1
-3820,tradicionais operados,1
-3821,entregam autonomia,1
-3822,agregar efici,1
-3823,entrega autonomia,1
-3824,usu ário,1
-3825,interesse crescente,1
-3826,registrou aumento,1
-3827,registraram crescimento,1
-3828,ós pago,1
-3829,conforme atualizações,1
-3830,2na empresa,1
-3831,solucionadas 2na,1
-3832,reclamações solucionadas,1
-3833,telefone site,1
-3834,ídias sociais,1
-3835,sociais 41é,1
-3836,41é parte,1
-3837,realizadas voluntariamente,1
-3838,reclamações registradas,1
-3839,consumidor gov,1
-3840,regulatorio publica,1
-3841,uenciam diretamente,1
-3842,planos promoções,1
-3843,pesquisa ﬁfriaﬂ,1
-3844,ﬁfriaﬂ nota,1
-3845,anatel 96nota,1
-3846,96nota média,1
-3847,pesquisa transacional,1
-3848,notas apresentadas,1
-3849,transacional realizada,1
-3850,humanos feitos,1
-3851,ligações atendidas,1
-3852,anatel 043na,1
-3853,043na justiça,1
-3854,patroc ínios,1
-3855,doa ções,1
-3856,brindes doa,1
-3857,legais regulamentares,1
-3858,melhores pr,1
-3859,corporativa entretanto,1
-3860,aborda questões,1
-3861,ão analisadas,1
-3862,detalhe sempre,1
-3863,sempre zelando,1
-3864,exig ências,1
-3865,cont ábeis,1
-3866,ábeis fiscais,1
-3867,fiscais legais,1
-3868,regimento interno,1
-3869,contém diretrizes,1
-3870,interno 33combate,1
-3871,forma íntegra,1
-3872,fornecem direta,1
-3873,indiretamente contribuições,1
-3874,contribuições vantagens,1
-3875,partidos movimentos,1
-3876,movimentos agentes,1
-3877,candidatos políticos,1
-3878,organizações sindicais,1
-3879,sindicais exceto,1
-3880,çoar continuamente,1
-3881,aperfei çoar,1
-3882,liderança fi102,1
-3883,procedimentos adotados,1
-3884,atuação permanente,1
-3885,permanente fiscaliza,1
-3886,informação prestada,1
-3887,independentes reconhecidos,1
-3888,outro vínculo,1
-3889,comitês assessoram,1
-3890,administração 32a,1
-3891,32a diretoria,1
-3892,delibera çã,1
-3893,patrim ônio,1
-3894,seis diretores,1
-3895,diretores executivos,1
-3896,executivos eleitos,1
-3897,anos podendo,1
-3898,diretoria estatutária,1
-3899,diretoria executiva,1
-3900,geral ordinária,1
-3901,respondem individualmente,1
-3902,autoavaliação cujo,1
-3903,questionário avalia,1
-3904,estrutura organizacional,1
-3905,casos previstos,1
-3906,adotar mecanismos,1
-3907,envolvam brindes,1
-3908,á dispon,1
-3909,colaboradores 90698total,1
-3910,90698total 35em,1
-3911,35em relação,1
-3912,fraude con,1
-3913,interesses discriminaçã,1
-3914,comportamento ilegal,1
-3915,ilegal incluindo,1
-3916,incluindo violação,1
-3917,ocorrências geram,1
-3918,denunciante garantindo,1
-3919,dispon ível,1
-3920,rejeitem comportamentos,1
-3921,intranet corporativa,1
-3922,denúncias 36gestão,1
-3923,normas internacionais,1
-3924,sponsoring organizations,1
-3925,thetreadway commission,1
-3926,commission coso,1
-3927,coso organização,1
-3928,ambiente confiável,1
-3929,al ém,1
-3930,reputa çã,1
-3931,644966369568499demais colaboradores,1
-3932,458256935695gerentes 644966369568499demais,1
-3933,diretores 458256935695gerentes,1
-3934,2público nº,1
-3935,comportamentos ilegais,1
-3936,impr óprios,1
-3937,óprios incluindo,1
-3938,incluindo atos,1
-3939,anticorrupção monitora,1
-3940,monitora continuamente,1
-3941,atividades consideradas,1
-3942,consideradas sensíveis,1
-3943,brindes presentes,1
-3944,representação eventos,1
-3945,patrocínios doações,1
-3946,fins lucrativos,1
-3947,ocorre anualmente,1
-3948,corrupção ligados,1
-3949,públicos 34os,1
-3950,34os conselheiros,1
-3951,declaram ciência,1
-3952,colaboradores concluíram,1
-3953,engajamento contínuo,1
-3954,antissuborno comunicação,1
-3955,presenciais 2público,1
-3956,todos 20nosso,1
-3957,executamos rapidamente,1
-3958,maio,1
-3959,banca virtual,1
-3960,backup permitindo,1
-3961,usuários salvar,1
-3962,compartilhar dados,1
-3963,inclusão gratuita,1
-3964,apps dedicados,1
-3965,planos atuais,1
-3966,assinatura net,1
-3967,net ix,1
-3968,ix inclusa,1
-3969,black família,1
-3970,revistas aplicativos,1
-3971,planos contam,1
-3972,globo livros,1
-3973,esporte interativo,1
-3974,interativo cartoon,1
-3975,cartoon network,1
-3976,network looke,1
-3977,fox networks,1
-3978,networks group,1
-3979,ajustes temporários,1
-3980,abril poderão,1
-3981,poderão negociar,1
-3982,protect backup,1
-3983,teams diversos,1
-3984,concedeu acesso,1
-3985,arcados exclusivamente,1
-3986,psicológica jurídica,1
-3987,financeira nutricional,1
-3988,nutricional fisioterápica,1
-3989,personal trainer,1
-3990,dois meses,1
-3991,renda líquida,1
-3992,trabalho suspensos,1
-3993,nível salarial,1
-3994,colaboradores seguirão,1
-3995,custos arcados,1
-3996,suspensão 06clientes,1
-3997,microsoft teams,1
-3998,segmentos pré,1
-3999,estados unidos,1
-4000,grande dificuldade,1
-4001,deslocamentos internacionais,1
-4002,live entrega,1
-4003,entrega internet,1
-4004,fixa ilimitada,1
-4005,larga ubb,1
-4006,pagos liberando,1
-4007,liberando acesso,1
-4008,seis meses,1
-4009,vezes isentando,1
-4010,isentando multa,1
-4011,públicos legitimados,1
-4012,inteligência artificial,1
-4013,sms chat,1
-4014,respectivo hotsite,1
-4015,covid utilizando,1
-4016,conhecimento adquirido,1
-4017,projeto semelhante,1
-4018,semelhante utilizado,1
-4019,œ assinado,1
-4020,assinado dia,1
-4021,entes públicos,1
-4022,dados anonimizados,1
-4023,chamado religa,1
-4024,anonimizados disponibilizados,1
-4025,dados originados,1
-4026,móveis permitirão,1
-4027,governamentais avaliar,1
-4028,restrição implementadas,1
-4029,implementadas entender,1
-4030,mobilidade populacional,1
-4031,visando uso,1
-4032,uso consciente,1
-4033,medidas efetivas,1
-4034,cognitiva baseada,1
-4035,atendimento cognitiva,1
-4036,inovadora central,1
-4037,primeiro login,1
-4038,confiança desbloqueando,1
-4039,desbloqueando nesse,1
-4040,serviços interrompidos,1
-4041,período adicional,1
-4042,velocidade reduzida,1
-4043,social apoiando,1
-4044,quarentena 07ł,1
-4045,menor renda,1
-4046,validade dobrada,1
-4047,dobrada estendida,1
-4048,campanha educativa,1
-4049,nesta jornada,1
-4050,possível acessar,1
-4051,segunda via,1
-4052,conta realizar,1
-4053,realizar recargas,1
-4054,recargas controlar,1
-4055,ofertas dentre,1
-4056,dentre outros,1
-4057,controle ganharão,1
-4058,ganharão bônus,1
-4059,assessoria psicológica,1
-4060,oferece assessoria,1
-4061,saúde emocional,1
-4062,muitas dessas,1
-4063,cenário extremamente,1
-4064,extremamente complexo,1
-4065,telecomunicações desempenham,1
-4066,dúvida alicerce,1
-4067,relações pessoais,1
-4068,trabalhar estudar,1
-4069,estudar consumir,1
-4070,œ transpor,1
-4071,transpor fronteiras,1
-4072,estar perto,1
-4073,presidente 04os,1
-4074,porque investimos,1
-4075,04os acionistas,1
-4076,transformação graças,1
-4077,segmento alcança,1
-4078,maior mix,1
-4079,market share,1
-4080,segundo trimestre,1
-4081,trimestre consecutivo,1
-4082,live alcançou,1
-4083,alcançou novas,1
-4084,boa performance,1
-4085,certamente inaugurará,1
-4086,atravessou continentes,1
-4087,pandemia atravessou,1
-4088,atual momento,1
-4089,serviços sumário53,1
-4090,sumário53 inovação,1
-4091,instituto tim99,1
-4092,tim99 respeito,1
-4093,certificações índice,1
-4094,gri carta,1
-4095,créditos 03pietro,1
-4096,03pietro labriola,1
-4097,mudanças vieram,1
-4098,ficar nessa,1
-4099,nessa nova,1
-4100,desafios futuros,1
-4101,ano passado,1
-4102,estratégia baseada,1
-4103,maior ebitda,1
-4104,lucro líquido,1
-4105,líquido normalizado,1
-4106,indicadores recebemos,1
-4107,nacional aaa,1
-4108,fitch atestando,1
-4109,impossível iniciar,1
-4110,aconteceu porque,1
-4111,investimos fortemente,1
-4112,pode abalar,1
-4113,converter todo,1
-4114,conseguido adotar,1
-4115,funcionários diretos,1
-4116,cenário mundial,1
-4117,mundial pietro,1
-4118,pietro labriola,1
-4119,presidente 05atuação,1
-4120,vírus abaixo,1
-4121,abaixo seguem,1
-4122,operadora implementadas,1
-4123,âmbito nacional,1
-4124,cloud uc,1
-4125,conectado continuamos,1
-4126,uc solução,1
-4127,duas centrais,1
-4128,rede passassem,1
-4129,funções remotamente,1
-4130,remotamente mantendo,1
-4131,campo voltadas,1
-4132,recebem contínuo,1
-4133,reparos externos,1
-4134,social aliado,1
-4135,temor provocado,1
-4136,momento difícil,1
-4137,seguiram trabalhando,1
-4138,poderia encerrar,1
-4139,esg incorporando,1
-4140,municípios representando,1
-4141,população urbana,1
-4142,quarta geração,1
-4143,geração ultrapassou,1
-4144,ultrapassou avançamos,1
-4145,futuro iniciamos,1
-4146,startups criando,1
-4147,criando quatro,1
-4148,sc santa,1
-4149,mg campina,1
-4150,operacionais positivos,1
-4151,eficiência accountability,1
-4152,compliance adotando,1
-4153,adotando processos,1
-4154,fez permanecer,1
-4155,selo pró,1
-4156,ética logo,1
-4157,governance esg,1
-4158,esg atualizamos,1
-4159,ainda assumindo,1
-4160,assumindo compromissos,1
-4161,assinantes corporativos,1
-4162,saúde 08segmento,1
-4163,planejamos decidimos,1
-4164,cinco regiões,1
-4165,encontros periódicos,1
-4166,abordam temas,1
-4167,management meeting,1
-4168,lideranças top,1
-4169,top management,1
-4170,promoveram re,1
-4171,re exões,1
-4172,entregar soluções,1
-4173,agreguem qualidade,1
-4174,nova eleição,1
-4175,regulatórias estratégicas,1
-4176,diálogo interno,1
-4177,telecomunicações modificações,1
-4178,neste contexto,1
-4179,contexto participa,1
-4180,outras inovações,1
-4181,recebe ainda,1
-4182,últimos três,1
-4183,comportamento ético,1
-4184,ético legal,1
-4185,legal honesto,1
-4186,honesto transparente,1
-4187,pessoas motiva,1
-4188,visa disseminar,1
-4189,08segmento governo,1
-4190,governo fornecedor,1
-4191,materialidade envolveu,1
-4192,entrevistas externas,1
-4193,painel concorrente,1
-4194,concorrente governo,1
-4195,survey online,1
-4196,participação anônima,1
-4197,tema 123foi,1
-4198,123foi possível,1
-4199,externos entrevistados,1
-4200,entrevistados governo,1
-4201,fornecedor clientesindicato,1
-4202,digital 14a,1
-4203,clientesindicato concorrentes11,1
-4204,concorrentes11 segunda,1
-4205,ambiental 12o,1
-4206,12o processo,1
-4207,identificou portanto,1
-4208,material correl,1
-4209,correl ç,1
-4210,ods 13processo,1
-4211,análises qualitativas,1
-4212,pós consumoética,1
-4213,leal leia,1
-4214,mil abatimentos,1
-4215,taxas subvenções,1
-4216,perguntas legítimas,1
-4217,stock exchange,1
-4218,exchange nyse,1
-4219,italia telecom,1
-4220,italia finance,1
-4221,minoritários composição,1
-4222,composição acionáriafi102,1
-4223,acionáriafi102 19nossos,1
-4224,19nossos valoresfi102,1
-4225,valoresfi102 cuidar,1
-4226,fazemos perguntas,1
-4227,poder contribuir,1
-4228,concessões 16acionistas,1
-4229,estabelecemos relações,1
-4230,relações claras,1
-4231,geramos confiança,1
-4232,inovamos criando,1
-4233,criando novas,1
-4234,propósito conectar,1
-4235,possam fazer,1
-4236,colaboramos colocando,1
-4237,cada gesto,1
-4238,gesto agilidade,1
-4239,york stock,1
-4240,new york,1
-4241,iorque new,1
-4242,nova iorque,1
-4243,resultados trimestrais,1
-4244,manter presente,1
-4245,agregar transparência,1
-4246,potenciais investidores,1
-4247,br faleconosco,1
-4248,faleconosco fale,1
-4249,sugestões endereçadas,1
-4250,investidores analistas,1
-4251,demais interessados,1
-4252,mail ri,1
-4253,ri timbrasil,1
-4254,fornecedores passam,1
-4255,diversas etapas,1
-4256,qualificação incluindo,1
-4257,socioambiental saiba,1
-4258,página 17tim01,1
-4259,17tim01 18tima,1
-4260,adrs american,1
-4261,american depositary,1
-4262,depositary receipts,1
-4263,receipts listadas,1
-4264,internamente chegando,1
-4265,validada internamente,1
-4266,relevantes validada,1
-4267,modalidade remota,1
-4268,web programação,1
-4269,programação produção,1
-4270,texto programação,1
-4271,linguagem java,1
-4272,java programação,1
-4273,dificuldades deste,1
-4274,deste momento,1
-4275,resolveu manter,1
-4276,empreendedorismo universitário,1
-4277,universitário academic,1
-4278,atua junto,1
-4279,acompanhando osimpactos,1
-4280,abordagem única,1
-4281,única cerca,1
-4282,itália vem,1
-4283,vem sendo,1
-4284,ações necessárias,1
-4285,sociedade estará,1
-4286,estará unida,1
-4287,sairá ainda,1
-4288,fortalecida desta,1
-4289,desta situação,1
-4290,estruturação web,1
-4291,empreendedorismo estruturação,1
-4292,vasto conteúdo,1
-4293,livres gratuitos,1
-4294,esferas federal,1
-4295,federal estadual,1
-4296,sendo tomados,1
-4297,disponibilidade sobretudo,1
-4298,disponibilizando gratuitamente,1
-4299,operadora enviou,1
-4300,continuará disponível,1
-4301,disponível nesta,1
-4302,nesta fundamental,1
-4303,fundamental campanha,1
-4304,estrita coordenação,1
-4305,autoridades federais,1
-4306,disponibilizou ainda,1
-4307,orientar usuários,1
-4308,campanha fiquebemfiqueemcasa,1
-4309,fiquebemfiqueemcasa iniciativa,1
-4310,claro oi,1
-4311,ação além,1
-4312,conectados traz,1
-4313,incentiva todos,1
-4314,instituto timł,1
-4315,seguirá acompanhando,1
-4316,relatório 09sobre,1
-4317,qualitativamente etapa,1
-4318,accounting standards,1
-4319,parceiros comerciais,1
-4320,comerciais 123entrevista,1
-4321,externo survey,1
-4322,survey onlinepesquisa,1
-4323,mídia benchmarkingdocumentos,1
-4324,benchmarkingdocumentos setoriais,1
-4325,materialidade abrangeu,1
-4326,estudos setoriais,1
-4327,onu sustainability,1
-4328,sustainability accounting,1
-4329,telecommunication sector,1
-4330,edição desenvolvida,1
-4331,sector œ,1
-4332,œ sasb,1
-4333,global risks,1
-4334,entrevistas presenciais,1
-4335,percepções estratégicas,1
-4336,painel presencial,1
-4337,oportunidades associados,1
-4338,stakeholders impactados,1
-4339,última fase,1
-4340,analisada qualitativamente,1
-4341,sociedade civil,1
-4342,associação setorial,1
-4343,stakeholders mapa,1
-4344,decisões destes,1
-4345,modalidade essencial,1
-4346,dados qualitativos,1
-4347,ernst acesse,1
-4348,œ ey,1
-4349,financeiros consideram,1
-4350,óvel fixa,1
-4351,fixa longa,1
-4352,longa distância,1
-4353,transmiss ão,1
-4354,alguns estados,1
-4355,pa ís,1
-4356,ís dúvidas,1
-4357,dúvidas comentários,1
-4358,mail respsocialcorp,1
-4359,respsocialcorp timbrasil,1
-4360,br 10in,1
-4361,10in uência,1
-4362,revisados processo,1
-4363,setoriais documentos,1
-4364,re etem,1
-4365,forma substancial,1
-4366,cardoso créditos,1
+1382,reporta dados,1
+1383,contribuíram tanto,1
+1384,publicamente tr,1
+1385,tr ês,1
+1386,ês compromissos,1
+1387,somente colaboradores,1
+1388,management system,1
+1389,descartados corretamente,1
+1390,ão ocasionarem,1
+1391,ocasionarem contamina,1
+1392,contamina çã,1
+1393,requisitos mandatórios,1
+1394,san ções,1
+1395,seguintes pontos,1
+1396,respons ável,1
+1397,re etidos,1
+1398,re etir,1
+1399,smartphones simcards,1
+1400,colaboradores autorizados,1
+1401,situa ções,1
+1402,disponibiliza urnas,1
+1403,urnas coletoras,1
+1404,melhorar continuamente,1
+1405,ﬁfriaﬂ nota,1
+1406,valor agregado,1
+1407,depositem resíduos,1
+1408,pesquisa ﬁfriaﬂ,1
+1409,principal fator,1
+1410,ém gera,1
+1411,ca ana,1
+1412,modens baterias,1
+1413,interesse crescente,1
+1414,contrato bilateral,1
+1415,ágina embora,1
+1416,operacional diretamente,1
+1417,especi camente,1
+1418,percentuais acima,1
+1419,registrou aumento,1
+1420,registraram crescimento,1
+1421,fornecimento cont,1
+1422,conforme atualizações,1
+1423,ós pago,1
+1424,faturas enviadas,1
+1425,renováveis nesse,1
+1426,altamente dependente,1
+1427,nesse caminho,1
+1428,padrões exigidos,1
+1429,exemplo regularização,1
+1430,digitais registraram,1
+1431,reclamações solucionadas,1
+1432,mitigar impactos,1
+1433,registraram aumento,1
+1434,aplicativo whatsapp,1
+1435,ana paula,1
+1436,pode gerar,1
+1437,gerar multas,1
+1438,ambientais decorrem,1
+1439,interrup ções,1
+1440,voce atendimento,1
+1441,pesquisa transacional,1
+1442,fornecimento impactam,1
+1443,gerou redução,1
+1444,plataforma gerou,1
+1445,consistentes durante,1
+1446,resultados consistentes,1
+1447,geradoras hidrelétricas,1
+1448,hidrelétricas cghs,1
+1449,apresentou resultados,1
+1450,simpli cou,1
+1451,cghs dessa,1
+1452,solares geradores,1
+1453,plataforma cresceu,1
+1454,tradicionais operados,1
+1455,regulatory institutional,1
+1456,entregam autonomia,1
+1457,press relations,1
+1458,ência arti,1
+1459,paula cardoso,1
+1460,timo aplicativo,1
+1461,entrega autonomia,1
+1462,painéis solares,1
+1463,ciência estipulada,1
+1464,usu ário,1
+1465,fale conosco,1
+1466,prazo citada,1
+1467,gerên cia,1
+1468,sanções ambientais,1
+1469,operado cinco,1
+1470,três termos,1
+1471,parcial dessas,1
+1472,hidratado diesel,1
+1473,veículos diesel,1
+1474,geradores eletricidade,1
+1475,nº passará,1
+1476,buscado fontes,1
+1477,energias renov,1
+1478,renov áveis,1
+1479,determinações demandarão,1
+1480,áveis desligamento,1
+1481,exigências obrigam,1
+1482,liberar espaço,1
+1483,causem impactos,1
+1484,implementarem práticas,1
+1485,dessas localidades,1
+1486,espaço físico,1
+1487,notas apresentadas,1
+1488,res íduosˇ,1
+1489,monitoramento periódico,1
+1490,princípios elencados,1
+1491,tratamento bem,1
+1492,regulat órios,1
+1493,lgdp entrará,1
+1494,responsabilidade compartilhada,1
+1495,smartphones modens,1
+1496,dispositivos referentes,1
+1497,relatórios teóricos,1
+1498,gasolina etanol,1
+1499,gj gasolina,1
+1500,medida estimula,1
+1501,assessorias jurídicas,1
+1502,corpo técnico,1
+1503,cinco centrais,1
+1504,geradoras hidrel,1
+1505,ligações atendidas,1
+1506,penalidade monetária,1
+1507,hidrel étricas,1
+1508,étricas cghs,1
+1509,humanos feitos,1
+1510,registrou autos,1
+1511,gerais dedicadas,1
+1512,transacional realizada,1
+1513,medições garantem,1
+1514,recebeu duas,1
+1515,parâmetros permitidos,1
+1516,eletromagnéticas mensuradas,1
+1517,matriz elétrica,1
+1518,meta assumida,1
+1519,continua investindo,1
+1520,emissões eletromagnéticas,1
+1521,saúde oms,1
+1522,corrigidos neste,1
+1523,organização mundial,1
+1524,organização gj,1
+1525,eventuais interrup,1
+1526,pessoas servindo,1
+1527,redação andressa,1
+1528,conexão ftth,1
+1529,pesquisadores empresas,1
+1530,domic ílios,1
+1531,multifuncionalidade capaz,1
+1532,startups instituições,1
+1533,validar produtos,1
+1534,painel telebrasil,1
+1535,brasília df,1
+1536,sendo testada,1
+1537,labs permitem,1
+1538,completo conectando,1
+1539,conectando diferentes,1
+1540,diferentes atores,1
+1541,aberta identificar,1
+1542,bem sucedida,1
+1543,turim bari,1
+1544,nais pesquisadores,1
+1545,ftth fiber,1
+1546,impacto visual,1
+1547,usuários nais,1
+1548,sete laboratórios,1
+1549,laboratórios comunitários,1
+1550,quase milh,1
+1551,comunitários tip,1
+1552,fornecem conexão,1
+1553,somando quase,1
+1554,fttc somando,1
+1555,ambiente constituiu,1
+1556,instituto virtus,1
+1557,milhões fttc,1
+1558,universidade federal,1
+1559,múltiplos parceiros,1
+1560,parceiros tendo,1
+1561,permite conectar,1
+1562,conectar usuários,1
+1563,bari matera,1
+1564,baixo impacto,1
+1565,quatro ecossistemas,1
+1566,mil km,1
+1567,mhz atingindo,1
+1568,máquinas tornará,1
+1569,tornará possível,1
+1570,novas arquiteturas,1
+1571,principalmente mhz,1
+1572,sistemas terminais,1
+1573,projeto fttcity,1
+1574,latência viabilizarão,1
+1575,densi ca,1
+1576,máquina máquina,1
+1577,usuário habilitando,1
+1578,vasta aplicação,1
+1579,sensores ampliando,1
+1580,viabilizando processos,1
+1581,muitos benefícios,1
+1582,diagramação rpt,1
+1583,somou biosites,1
+1584,instalação baixo,1
+1585,biosites ativos,1
+1586,san marino,1
+1587,marino aplicações,1
+1588,criam valor,1
+1589,quarta revolução,1
+1590,revolução industrial,1
+1591,industrial permitirá,1
+1592,rápida instalação,1
+1593,aplicação comercial,1
+1594,setores industriais,1
+1595,utilizam processos,1
+1596,custo rápida,1
+1597,menor custo,1
+1598,densi cação,1
+1599,biosites além,1
+1600,totalizou biosites,1
+1601,milh ões,1
+1602,processos regularmente,1
+1603,portadoras técnica,1
+1604,mercado secundário,1
+1605,iot narrow,1
+1606,uenciado toda,1
+1607,empresas compradoras,1
+1608,tornou obrigatório,1
+1609,nº tornou,1
+1610,iniciou parceria,1
+1611,atuou ativamente,1
+1612,geraram impacto,1
+1613,economia participou,1
+1614,co leandro,1
+1615,programa pilotos,1
+1616,pilotos iot,1
+1617,aprovaram políticas,1
+1618,novas abordagens,1
+1619,municipais aprovaram,1
+1620,coisas utilizando,1
+1621,contato próximo,1
+1622,hectares nesse,1
+1623,renovações sucessivas,1
+1624,exibilizar melhorar,1
+1625,diferentes municípios,1
+1626,livre circulação,1
+1627,forma proativa,1
+1628,livre concorrência,1
+1629,decreto nº,1
+1630,proativa acompanhando,1
+1631,ativos intangíveis,1
+1632,intangíveis estratégicos,1
+1633,tão importante,1
+1634,importante quanto,1
+1635,capital intelectual,1
+1636,humano natural,1
+1637,espectro impactos,1
+1638,natural social,1
+1639,legislativo estaduais,1
+1640,poderes executivo,1
+1641,ecossistemas ﬁ,1
+1642,tempo alcançar,1
+1643,lan çar,1
+1644,leandro lopes,1
+1645,habilitou parceria,1
+1646,habilitar á,1
+1647,ípios cobertura,1
+1648,munic ípios,1
+1649,ócio consolidou,1
+1650,refer ência,1
+1651,agtech garage,1
+1652,piracicaba sp,1
+1653,timﬂ centros,1
+1654,igloo network,1
+1655,network hub,1
+1656,lab timﬂ,1
+1657,lopes diagramação,1
+1658,milk œem,1
+1659,abrang ência,1
+1660,congresso nacional,1
+1661,solu ções,1
+1662,acarretam impactos,1
+1663,brasileira acarretam,1
+1664,algumas alterações,1
+1665,desenvolveu alianças,1
+1666,alianças estratégicas,1
+1667,instalou data,1
+1668,virtualiza çã,1
+1669,bndes œa,1
+1670,grá co,1
+1671,implementou ainda,1
+1672,incluem testes,1
+1673,cont ínua,1
+1674,melhoria cont,1
+1675,agronegócio ideas,1
+1676,ideas milk,1
+1677,irá estimular,1
+1678,economia criativa,1
+1679,andressa malcher,1
+1680,sp consultoria,1
+1681,procedimentos necessários,1
+1682,dados iniciado,1
+1683,robôs suportada,1
+1684,á desenvolvendo,1
+1685,cinco diretores,1
+1686,robô yumi,1
+1687,yumi primeiro,1
+1688,privacy coordenado,1
+1689,primeiro robô,1
+1690,comit ê,1
+1691,robô colaborativo,1
+1692,dois braços,1
+1693,mundo interage,1
+1694,busca atender,1
+1695,servindo café,1
+1696,indústriał colaboração,1
+1697,protection oˆcer,1
+1698,manufatura smart,1
+1699,delay indústriał,1
+1700,registrou incidentes,1
+1701,casos concluídos,1
+1702,solução desenvolvida,1
+1703,desenvolvida utiliza,1
+1704,viagem exploratória,1
+1705,pulmão sadio,1
+1706,sadio versus,1
+1707,encerradas sendo,1
+1708,fumante entretenimento,1
+1709,aguardam julgamento,1
+1710,banda dividida,1
+1711,quais aguardam,1
+1712,cada metade,1
+1713,localidade realizou,1
+1714,karina simão,1
+1715,ãos competentes,1
+1716,smart manufacturing,1
+1717,possível auferir,1
+1718,ão compartilhados,1
+1719,sustentabilidade fotogra,1
+1720,próprio inatel,1
+1721,inatel casa,1
+1722,telef ônicas,1
+1723,casa futurista,1
+1724,imagensrevisão ortográ,1
+1725,futurista conectada,1
+1726,eletrônicos habilitados,1
+1727,ções telef,1
+1728,ortográ ca,1
+1729,automatizados gaming,1
+1730,novos jogos,1
+1731,streaming proporcionada,1
+1732,crescente expectativa,1
+1733,socioambientais reforça,1
+1734,malcher mtb,1
+1735,compartilhados apenas,1
+1736,alarmes telessensor,1
+1737,visitas virtuais,1
+1738,telessensor telemonitoramento,1
+1739,telemonitoramento esteira,1
+1740,braço mecânico,1
+1741,atribuição atuar,1
+1742,solução permitiu,1
+1743,officer dpo,1
+1744,protection officer,1
+1745,permitiu comparar,1
+1746,comparar dois,1
+1747,cenários distintos,1
+1748,possível ver,1
+1749,câmeras inteligentes,1
+1750,permitiram controle,1
+1751,mtb sp,1
+1752,sigilo telefônico,1
+1753,devidas tratativas,1
+1754,autoridades diferentes,1
+1755,levar recursos,1
+1756,tempo real,1
+1757,irá acelerar,1
+1758,muitas oportunidades,1
+1759,seguranca politica,1
+1760,institucional seguranca,1
+1761,projeto grá,1
+1762,pilotadas relacionadas,1
+1763,extratos telefônicos,1
+1764,interceptações telefônicas,1
+1765,poder judiciário,1
+1766,pode bene,1
+1767,bene ciar,1
+1768,ciar toda,1
+1769,possam reduzir,1
+1770,gaps sociais,1
+1771,mil ofícios,1
+1772,certificação iso,1
+1773,melhor experi,1
+1774,lab permitiu,1
+1775,investe continuamente,1
+1776,óptica aumentando,1
+1777,acesso replicar,1
+1778,replicar materiais,1
+1779,materiais educativos,1
+1780,refor çando,1
+1781,virtual tornando,1
+1782,ano refor,1
+1783,tornando possível,1
+1784,lideran ça,1
+1785,desses aperfeiçoamentos,1
+1786,motivo ampliou,1
+1787,possível visita,1
+1788,consulta médica,1
+1789,setor atendendo,1
+1790,expans ão,1
+1791,webservice disponibilizado,1
+1792,médico baseado,1
+1793,gap educacional,1
+1794,médico realizar,1
+1795,utilizando equipamentos,1
+1796,alta resolução,1
+1797,cpf além,1
+1798,teleconferência integrado,1
+1799,integrado possibilitando,1
+1800,levando tratamento,1
+1801,linha msisdn,1
+1802,solicitar dados,1
+1803,regiões remotas,1
+1804,podem solicitar,1
+1805,virtual demonstrando,1
+1806,gerenciados simultaneamente,1
+1807,único local,1
+1808,local educação,1
+1809,reduzir rapidamente,1
+1810,teleconsulta utilizando,1
+1811,simultaneamente permitiram,1
+1812,autoridades competentes,1
+1813,transmitidas simultaneamente,1
+1814,imagem obtida,1
+1815,pedidos realizados,1
+1816,equipamento controlado,1
+1817,souza projeto,1
+1818,controlado remotamente,1
+1819,manualmente bem,1
+1820,atendidos manualmente,1
+1821,ana souza,1
+1822,pedidos atendidos,1
+1823,luva tátil,1
+1824,estímulos recebidos,1
+1825,médico operava,1
+1826,atualmente precisar,1
+1827,lugar remoto,1
+1828,relacionamento ana,1
+1829,resíduos sólidos,1
+1830,relatório nada,1
+1831,regularmente veri,1
+1832,agência espacial,1
+1833,limitada compreenderam,1
+1834,copacabana open,1
+1835,registros contábeis,1
+1836,beach tennis,1
+1837,tennis convenção,1
+1838,tradicional carnaval,1
+1839,praça xavier,1
+1840,mini bloco,1
+1841,bloco bloco,1
+1842,bloco infantil,1
+1843,demonstrações nanceiras,1
+1844,espetáculo ﬁovoﬂ,1
+1845,cirque du,1
+1846,du soleil,1
+1847,comunidade patrocínios,1
+1848,patrocínios esportivos,1
+1849,esportivos patrocínios,1
+1850,natureza nanceira,1
+1851,determinadas evidências,1
+1852,patrocínios culturais,1
+1853,culturais outros,1
+1854,ﬁitalianorioﬂ copacabana,1
+1855,ovacionada além,1
+1856,telecomunicações conquistado,1
+1857,gratuitamente atualmente,1
+1858,norte americana,1
+1859,americana nasa,1
+1860,estação espacial,1
+1861,espacial internacional,1
+1862,internacional iss,1
+1863,iss onde,1
+1864,software livre,1
+1865,abertos oferecidos,1
+1866,oferecidos gratuitamente,1
+1867,infância unicef,1
+1868,prêmio anatel,1
+1869,unicef desenvolveram,1
+1870,educação musical,1
+1871,crianças jovens,1
+1872,integrantes possui,1
+1873,possui algum,1
+1874,algum tipo,1
+1875,mestre músicos,1
+1876,músicos monitores,1
+1877,apresentação especial,1
+1878,incentivos fiscais,1
+1879,inclusos nesta,1
+1880,nesta categoria,1
+1881,esforço conjunto,1
+1882,adolescentes mulheres,1
+1883,última autoavaliação,1
+1884,resultado médio,1
+1885,colaboradores realizaram,1
+1886,ambições esga,1
+1887,vem publicando,1
+1888,toma conhecimento,1
+1889,metas anuais,1
+1890,anuais relacionadas,1
+1891,independente toma,1
+1892,veri car,1
+1893,auditor independente,1
+1894,vão além,1
+1895,sociedade esgambiçõesmet,1
+1896,procedimentos adicionais,1
+1897,esgambiçõesmet spr,1
+1898,spr zo,1
+1899,zo eł,1
+1900,eł aumentando,1
+1901,energia verde,1
+1902,vulneráveis crianças,1
+1903,rede alemã,1
+1904,humanos organizado,1
+1905,selecionados basearam,1
+1906,cação amostral,1
+1907,infantil forçado,1
+1908,gestores responsáveis,1
+1909,forçado respeito,1
+1910,assédio moral,1
+1911,sexual valoriza,1
+1912,procedimentos compreenderam,1
+1913,coletiva leia,1
+1914,due diligenceo,1
+1915,diligenceo processo,1
+1916,podem apresentar,1
+1917,apresentar distorções,1
+1918,realizado periodicamente,1
+1919,princípios orientadores,1
+1920,john ruggie,1
+1921,autoavaliação human,1
+1922,human rights,1
+1923,rights capacity,1
+1924,capacity diagnostic,1
+1925,diagnostic hrcd,1
+1926,espacial norte,1
+1927,vs gravidade,1
+1928,anatel gov,1
+1929,capilaridade vs,1
+1930,matemática aplicações,1
+1931,aplicações investe,1
+1932,beneficiaram cerca,1
+1933,democratiza estratégias,1
+1934,tecnológica produtiva,1
+1935,jovens inclusãoauxilia,1
+1936,https institutotim,1
+1937,institutotim org,1
+1938,substancialmente menos,1
+1939,obmep desde,1
+1940,obmep olimpíada,1
+1941,olimpíada brasileira,1
+1942,bolsas mensais,1
+1943,estudantes medalhistas,1
+1944,astronomia biologia,1
+1945,biologia computação,1
+1946,computação economia,1
+1947,economia engenharia,1
+1948,engenharia estatística,1
+1949,estatística física,1
+1950,matemática medicina,1
+1951,recursos didáticos,1
+1952,abordagens pedagógicas,1
+1953,democratiza abordagens,1
+1954,distrito federal,1
+1955,br setorregulado,1
+1956,setorregulado index,1
+1957,index php,1
+1958,php component,1
+1959,component content,1
+1960,content article,1
+1961,article id,1
+1962,digital geograficamente,1
+1963,geograficamente mantendo,1
+1964,públicas bene,1
+1965,frentes ensinodesenvolve,1
+1966,bene ciando,1
+1967,ciando mil,1
+1968,mil professores,1
+1969,inovações tecnológicas,1
+1970,tecnológicas devem,1
+1971,devem servir,1
+1972,menos extensos,1
+1973,quer avançar,1
+1974,quatro frentes,1
+1975,química atualmente,1
+1976,atualmente estudantes,1
+1977,estudantes recebem,1
+1978,norte americano,1
+1979,maior consórcio,1
+1980,consórcio espacial,1
+1981,espacial brasileiro,1
+1982,paulo usp,1
+1983,química fafq,1
+1984,leva alunos,1
+1985,evidências obtidas,1
+1986,protocol aplicáveis,1
+1987,alunos brasileiros,1
+1988,americano student,1
+1989,solar garatéa,1
+1990,student space,1
+1991,space ight,1
+1992,ight experiments,1
+1993,experiments program,1
+1994,program ssep,1
+1995,ssep incentivando,1
+1996,ciências espaciais,1
+1997,experimento vencedor,1
+1998,edição capilaridade,1
+1999,missão garatéa,1
+2000,luz solar,1
+2001,bolsas academic,1
+2002,brazil conference,1
+2003,capital awc,1
+2004,educação empreendedora,1
+2005,apoia estudantes,1
+2006,querem transformar,1
+2007,protótipos tecnológicos,1
+2008,mentorias desde,1
+2009,cinco nalistas,1
+2010,competição internacional,1
+2011,internacional promovida,1
+2012,harvard mit,1
+2013,água potável,1
+2014,awc destaque,1
+2015,segundo lugar,1
+2016,sócia fundadora,1
+2017,fundadora anna,1
+2018,limitada alcance,1
+2019,anna luísa,1
+2020,luísa beserra,1
+2021,jovem campeã,1
+2022,transforma água,1
+2023,limitada requer,1
+2024,tráfego transmitido,1
+2025,transmitido emissões,1
+2026,neutra sł,1
+2027,comunidades sustentáveis,1
+2028,desigualdades cidades,1
+2029,emprego digno,1
+2030,cia desleal,1
+2031,limpa emprego,1
+2032,judiciais movidas,1
+2033,aberto atualmente,1
+2034,con cluídos,1
+2035,energia acessível,1
+2036,embalagens recuperados,1
+2037,saneamento energia,1
+2038,zero boa,1
+2039,recuperados energia,1
+2040,biodiversi dade,1
+2041,biodiversidade emissõesgri,1
+2042,emissõesgri abordagem,1
+2043,fome zero,1
+2044,estufa esco,1
+2045,pobreza fome,1
+2046,esco po,1
+2047,escopo intensidade,1
+2048,concorrên cia,1
+2049,produção responsáveis,1
+2050,con rmados,1
+2051,instituições fortes,1
+2052,desempe nho,1
+2053,nho econômico,1
+2054,distribuído implicações,1
+2055,implicações nanceiras,1
+2056,oportuni dades,1
+2057,dades devido,1
+2058,climáticas ajuda,1
+2059,ajuda nanceira,1
+2060,fortes parcerias,1
+2061,econômicos indire,1
+2062,procedi mentos,1
+2063,indire tos,1
+2064,indiretos signi,1
+2065,paz justiça,1
+2066,terra paz,1
+2067,compras proporção,1
+2068,operações submetidas,1
+2069,rela cionados,1
+2070,vida debaixo,1
+2071,alterações climáticas,1
+2072,dis posição,1
+2073,posição conformidade,1
+2074,confor midade,1
+2075,mente análises,1
+2076,comprovadas relativas,1
+2077,ocupação treinamento,1
+2078,queixas comprovadas,1
+2079,aprendizagem contínua,1
+2080,empre gados,1
+2081,aposentadoria percentual,1
+2082,recebem regular,1
+2083,comu nicações,1
+2084,regular mente,1
+2085,carreira diversidade,1
+2086,priva cidade,1
+2087,razão matemática,1
+2088,adver tências,1
+2089,comunica ção,1
+2090,rotulagem casos,1
+2091,discri minação,1
+2092,minação casos,1
+2093,medidas corretivas,1
+2094,corretivas toma,1
+2095,fornecedo res,1
+2096,mortes relacionadas,1
+2097,perdidos absenteísmo,1
+2098,midade ambiental,1
+2099,cional empregados,1
+2100,sustentável erradicação,1
+2101,reclama ções,1
+2102,bientais avaliação,1
+2103,após reclama,1
+2104,di reito,1
+2105,forne cedores,1
+2106,cedores novos,1
+2107,novas contratações,1
+2108,ocupa cional,1
+2109,empregados representados,1
+2110,cionais dias,1
+2111,econômicosconsiderando multas,1
+2112,socioeconômi ca,1
+2113,lesões taxas,1
+2114,dade socioeconômi,1
+2115,conformi dade,1
+2116,lesões doenças,1
+2117,conformidade socioeconômica,1
+2118,doenças ocupa,1
+2119,ocupa cionais,1
+2120,rj introdução,1
+2121,indicadores contidos,1
+2122,reporting iniciative,1
+2123,scm certi,1
+2124,incluindo requisitos,1
+2125,normas requerem,1
+2126,contadores aplicáveis,1
+2127,smp nacional,1
+2128,stfc certi,1
+2129,telefônico fixo,1
+2130,federação internacional,1
+2131,fixo comutado,1
+2132,stfc nacional,1
+2133,comunicação multimídia,1
+2134,faturamento fixo,1
+2135,scm nacional,1
+2136,isae emitida,1
+2137,internacional isae,1
+2138,revisão emitida,1
+2139,elaborado tomando,1
+2140,ct aprovado,1
+2141,ibracon ct,1
+2142,comunicado técnico,1
+2143,expressar conclusão,1
+2144,smp certi,1
+2145,brasília iso,1
+2146,relevante independentemente,1
+2147,certificações certi,1
+2148,sł melhorando,1
+2149,ranking brasileiro,1
+2150,possibilite concluir,1
+2151,colaboradores mq,1
+2152,mq colaboradores,1
+2153,pessoas gł,1
+2154,alto nível,1
+2155,ise manter,1
+2156,obter anexo,1
+2157,cação áre,1
+2158,paraná pernambuco,1
+2159,áre certi,1
+2160,abr ngênci,1
+2161,ngênci iso,1
+2162,obter evidências,1
+2163,consiste principalmente,1
+2164,isae consiste,1
+2165,executados minas,1
+2166,paulo pará,1
+2167,pará paraná,1
+2168,erro responsabilidade,1
+2169,distorção relevante,1
+2170,iniciative relatório,1
+2171,demonstrações nan,1
+2172,trabalhadores conforme,1
+2173,estufa ﬁgriﬂ,1
+2174,revisão anual,1
+2175,cláusulas nanceiras,1
+2176,sindica tos,1
+2177,três federações,1
+2178,federações sindicais,1
+2179,preocupações levantadas,1
+2180,entidades incluídas,1
+2181,nan ceiras,1
+2182,tegoria sinttel,1
+2183,ceiras consolidadas,1
+2184,informações quaisquer,1
+2185,quaisquer reformulações,1
+2186,tabelas página,1
+2187,recente ciclo,1
+2188,rela tório,1
+2189,tório opção,1
+2190,desempenho econômicogri,1
+2191,econômicogri abordagem,1
+2192,ﬁgriﬂ versão,1
+2193,ca tegoria,1
+2194,gerais nome,1
+2195,cessão onerosa,1
+2196,sede localização,1
+2197,protocol inventário,1
+2198,atendidos porte,1
+2199,trabalhadores cadeia,1
+2200,informa ram,1
+2201,ﬁessencialﬂ especi,1
+2202,negociações iniciadas,1
+2203,mou memorandum,1
+2204,understanding resultando,1
+2205,onerosa voltados,1
+2206,portamento governança,1
+2207,precaução iniciativas,1
+2208,desenvolvidas externamente,1
+2209,geeﬂ responsabilidades,1
+2210,associações estratégia,1
+2211,estufa ﬁinventário,1
+2212,gerais declaração,1
+2213,decisão sênior,1
+2214,sênior ética,1
+2215,princípios padrões,1
+2216,gov br,1
+2217,es pr,1
+2218,veri cados,1
+2219,cat viagens,1
+2220,trajeto diário,1
+2221,frota terceirizada,1
+2222,transporte aéreo,1
+2223,carga gerenciamento,1
+2224,comprados produção,1
+2225,energéticos combustíveis,1
+2226,combustíveis perdas,1
+2227,banheiros cozinhas,1
+2228,ernst young,1
+2229,proveniente principalmente,1
+2230,impacto expressivo,1
+2231,permanece conduzindo,1
+2232,conduzindo iniciativas,1
+2233,inspeções frequentes,1
+2234,prevenir eventuais,1
+2235,eventuais vazamentos,1
+2236,vazamentos instalação,1
+2237,equipamentos hidroe,1
+2238,hidroe cientes,1
+2239,sido elaboradas,1
+2240,nada chegou,1
+2241,combustível proveniente,1
+2242,indiretas queima,1
+2243,comprada escopo,1
+2244,emissão associa,1
+2245,táxis cat,1
+2246,funcionários casa,1
+2247,distribuição downstream,1
+2248,downstream algumas,1
+2249,algumas transportadoras,1
+2250,transportadoras terceirizadas,1
+2251,dados primários,1
+2252,colaborador kg,1
+2253,colaborador emissão,1
+2254,receita operacional,1
+2255,young auditores,1
+2256,operacional líquida,1
+2257,líquida kg,1
+2258,diretas queima,1
+2259,crc sp,1
+2260,própria queima,1
+2261,óleo diesel,1
+2262,fugitivas oriundas,1
+2263,incêndios escopo,1
+2264,eletricidade comprada,1
+2265,possíveis desvios,1
+2266,ar condicionado,1
+2267,tendo alcançado,1
+2268,externas assim,1
+2269,mostrou resultados,1
+2270,resultados satisfatórios,1
+2271,favorabilidade bateu,1
+2272,bateu recorde,1
+2273,recorde subindo,1
+2274,subindo pontos,1
+2275,people caring,1
+2276,caring inclusion,1
+2277,inclusion management,1
+2278,afinidade diversidade,1
+2279,seleções internas,1
+2280,nidade ações,1
+2281,ações focadas,1
+2282,gênero lgbti,1
+2283,lgbti raça,1
+2284,raça gerações,1
+2285,comunicações contínuas,1
+2286,contínuas alguns,1
+2287,especí cos,1
+2288,cultura inclusiva,1
+2289,faz parte,1
+2290,colaboradores participarem,1
+2291,prédios administrados,1
+2292,artesiano caminhão,1
+2293,brasileira controlados,1
+2294,concessionária responsável,1
+2295,uentes descartados,1
+2296,ocasionam impacto,1
+2297,afetam corpos,1
+2298,corpos hídricos,1
+2299,font águas,1
+2300,fontes poço,1
+2301,poço artesiano,1
+2302,caminhão pipa,1
+2303,resultados demonstram,1
+2304,reutilizada abastecimento,1
+2305,abastecimento municipal,1
+2306,sendo revisto,1
+2307,parcialmente contabilizado,1
+2308,conhecimentos habilidades,1
+2309,talentos diversos,1
+2310,participaram superando,1
+2311,participação anterior,1
+2312,ponto percentual,1
+2313,aéreas viagens,1
+2314,ˇcat disposição,1
+2315,rj es,1
+2316,upstream ˇcat,1
+2317,gerados menos,1
+2318,estabelece princípios,1
+2319,normativo considera,1
+2320,órgãos regulamentadores,1
+2321,conformidade legal,1
+2322,ência energ,1
+2323,energ ética,1
+2324,impactos globais,1
+2325,onu sabe,1
+2326,riscos decorrentes,1
+2327,mudan ça,1
+2328,climática saiba,1
+2329,funcion ários,1
+2330,combust ível,1
+2331,consequentemente emitem,1
+2332,considera portanto,1
+2333,quest ão,1
+2334,estrat égica,1
+2335,sendo imprescind,1
+2336,imprescind ível,1
+2337,fontes emissoras,1
+2338,possível alcançar,1
+2339,reciclados nota,1
+2340,escritórios administrativos,1
+2341,ton geração,1
+2342,externas seguindo,1
+2343,sga resíduos,1
+2344,reciclagem aterro,1
+2345,aterro papel,1
+2346,perigosos enviados,1
+2347,baterias acumuladas,1
+2348,aguardavam destinação,1
+2349,destinação correta,1
+2350,correta geração,1
+2351,ton materiais,1
+2352,demais acessórios,1
+2353,pois passaram,1
+2354,exceto baterias,1
+2355,baterias inerente,1
+2356,equipamentos obsoletos,1
+2357,valores totais,1
+2358,contínuo esforço,1
+2359,pois passou,1
+2360,indicador coleta,1
+2361,baterias modens,1
+2362,fontes poluidoras,1
+2363,terceira parte,1
+2364,dar transpar,1
+2365,emissões discriminadas,1
+2366,estudo concluiu,1
+2367,cada mb,1
+2368,dados trafegados,1
+2369,etapas impactantes,1
+2370,gases causadores,1
+2371,eescopo mwh,1
+2372,magalhães contador,1
+2373,mwh tco,1
+2374,eescopo tco,1
+2375,própria geradores,1
+2376,mat érias,1
+2377,fernando alberto,1
+2378,sp fernando,1
+2379,fugitivas refrigerantes,1
+2380,refrigerantes emissões,1
+2381,fugitivas extintores,1
+2382,extintores escopo,1
+2383,comprados cat,1
+2384,energéticos cat,1
+2385,distribuição upstream,1
+2386,érias primas,1
+2387,produ çã,1
+2388,transpar ência,1
+2389,participantes saiba,1
+2390,conscientiz á,1
+2391,incentiv á,1
+2392,ˆarbono associada,1
+2393,encontrar soluções,1
+2394,menos intensivas,1
+2395,discussão externos,1
+2396,propõem boas,1
+2397,https registropublicodeemissoes,1
+2398,br participantes,1
+2399,cdp net,1
+2400,extra çã,1
+2401,net en,1
+2402,carbono estudo,1
+2403,ões especí,1
+2404,vida calcular,1
+2405,servi ço,1
+2406,ço signi,1
+2407,ca conhecer,1
+2408,conhecer todas,1
+2409,carbono ocorreram,1
+2410,inclusiva demais,1
+2411,implementação completa,1
+2412,plano ocorrerão,1
+2413,oito denúncias,1
+2414,job indicadornovos,1
+2415,indicadornovos colaboradores,1
+2416,terceiros cumprida,1
+2417,cumprida horas,1
+2418,horas totais,1
+2419,estagiários alcançada,1
+2420,alcançada treinados,1
+2421,cadeia desuprimentos,1
+2422,criação conjunta,1
+2423,telefones celulares,1
+2424,consultorias auditorias,1
+2425,eventuais distorções,1
+2426,abrange diversas,1
+2427,opinião poderíamos,1
+2428,diversas questões,1
+2429,tomamos conhecimento,1
+2430,fornecedores responderam,1
+2431,questionário superando,1
+2432,envolvidos neste,1
+2433,obrigatoriedades legais,1
+2434,menção expressa,1
+2435,horas sala,1
+2436,primeiro semestre,1
+2437,limitações inerentes,1
+2438,programa onboarding,1
+2439,determinar calcular,1
+2440,percorrem trilhas,1
+2441,objetivo profissional,1
+2442,aprendizagem específicos,1
+2443,específicos programa,1
+2444,programa evolution,1
+2445,evolution proporciona,1
+2446,formação básica,1
+2447,vendas abordando,1
+2448,nanceiros dada,1
+2449,colaboradores elegíveis,1
+2450,onboarding integra,1
+2451,organizacional abordando,1
+2452,anticorrupção posicionamento,1
+2453,cenário competitivo,1
+2454,competitivo trilha,1
+2455,ti aborda,1
+2456,aborda conhecimentos,1
+2457,reforçarem normativos,1
+2458,mecanismos anticorrupção,1
+2459,possibilitam obter,1
+2460,infantil ilegal,1
+2461,legislação trabalhista,1
+2462,liberty web,1
+2463,serem ferramentas,1
+2464,pequenas empresas,1
+2465,empresas promovendo,1
+2466,comunidades isoladas,1
+2467,isoladas áreas,1
+2468,deu continuidade,1
+2469,ofertas comerciais,1
+2470,tarifas acessíveis,1
+2471,acessíveis oferecidas,1
+2472,web rural,1
+2473,âmbito federal,1
+2474,centros urbanos,1
+2475,santo paraná,1
+2476,santa catarina,1
+2477,comunidades rurais,1
+2478,rurais adquiriram,1
+2479,frequências definidas,1
+2480,licitação nº,1
+2481,regiões rurais,1
+2482,localizadas escolas,1
+2483,esferas regionais,1
+2484,acompanhou cerca,1
+2485,responsabilidade socioambiental,1
+2486,fornecedores estrangeiros,1
+2487,fortalecer compromissos,1
+2488,compromissos mútuos,1
+2489,mútuos identi,1
+2490,avanço conjunto,1
+2491,fornecedores divulgando,1
+2492,estimulando boas,1
+2493,ssionais real,1
+2494,real estate,1
+2495,estate outros,1
+2496,estrangeiros infraestrutura,1
+2497,fez contribuições,1
+2498,orçamento gasto,1
+2499,considerados fornecedores,1
+2500,possui sede,1
+2501,possível prioriza,1
+2502,prioriza fornecedores,1
+2503,fornecedores nacionais,1
+2504,nacionais inclusão,1
+2505,telecomunicações participando,1
+2506,exemplo regulamentam,1
+2507,colaboradores percorrem,1
+2508,cujas capacitações,1
+2509,treinamentos transversais,1
+2510,conduzidas inspeções,1
+2511,projeções futuras,1
+2512,admissões mensais,1
+2513,ajustadas neste,1
+2514,desligamentos mensais,1
+2515,funcional diretores,1
+2516,gerentes pro,1
+2517,região região,1
+2518,ne co,1
+2519,realizado anualmente,1
+2520,respectivas medidas,1
+2521,homem mulher,1
+2522,exercem função,1
+2523,mantém atenção,1
+2524,atenção constante,1
+2525,atividades ligadas,1
+2526,risco cognitivo,1
+2527,avaliações ergonômicas,1
+2528,ergonômicas além,1
+2529,ginástica saúde,1
+2530,segurança laboral,1
+2531,mulher faixa,1
+2532,gênero homem,1
+2533,massage disponibilizados,1
+2534,nº brancos,1
+2535,advertência feedback,1
+2536,número bsoluto,1
+2537,col bor,1
+2538,descritos neste,1
+2539,bor dores,1
+2540,tegori homensmulheres,1
+2541,homensmulheres diretoria,1
+2542,raça cor,1
+2543,cor nº,1
+2544,brancos negros,1
+2545,colaboradores excluindo,1
+2546,negros pardos,1
+2547,pardos amarelos,1
+2548,amarelos indígenas,1
+2549,funcional diretoria,1
+2550,proporções correspondem,1
+2551,realizados descritos,1
+2552,valores maiores,1
+2553,indicam média,1
+2554,remuneração variável,1
+2555,quick massage,1
+2556,semana interna,1
+2557,técnica especí,1
+2558,interpretações qualitativas,1
+2559,serem convidados,1
+2560,vacinação contra,1
+2561,gripe realizada,1
+2562,recebem auxílio,1
+2563,auxílio creche,1
+2564,licenças maternidade,1
+2565,paternidade qualidade,1
+2566,acidentes alcançando,1
+2567,superado alcançando,1
+2568,trabalhadas taxa,1
+2569,vida saudável,1
+2570,gravidade número,1
+2571,dados interpretações,1
+2572,aci dentes,1
+2573,trabalhadas número,1
+2574,habilidades conectadas,1
+2575,principais frentes,1
+2576,cenários futuros,1
+2577,proporcionam quali,1
+2578,atualização técnica,1
+2579,odontológico além,1
+2580,práticas esportivas,1
+2581,trabalho sipat,1
+2582,exames médicos,1
+2583,sipat todo,1
+2584,realizamos qualquer,1
+2585,comissão interna,1
+2586,acidentes cipa,1
+2587,cipa conforme,1
+2588,legislação portaria,1
+2589,portaria norma,1
+2590,ocupacional pcmso,1
+2591,recomendados exames,1
+2592,médicos ocupacionais,1
+2593,gympass serviço,1
+2594,ocupacionais relacionados,1
+2595,caso existam,1
+2596,existam comoparte,1
+2597,admissão demissão,1
+2598,demissão retorno,1
+2599,julgamentos adicionalmente,1
+2600,pressupostos individuais,1
+2601,flex time,1
+2602,recebem gympass,1
+2603,aula online,1
+2604,recebe ainda,1
+2605,planos promoções,1
+2606,criados,1
+2607,embrapa,1
+2608,convocação,1
+2609,habilitou,1
+2610,challenge,1
+2611,aceleradora,1
+2612,aplicações,1
+2613,laboratórios,1
+2614,antena,1
+2615,huawei,1
+2616,experimentação,1
+2617,automatizados,1
+2618,tendo,1
+2619,ponte,1
+2620,estabelecimento,1
+2621,disponibilizar,1
+2622,permitem,1
+2623,possibilitando,1
+2624,quer,1
+2625,expertise,1
+2626,república,1
+2627,automação,1
+2628,cobre,1
+2629,promoveu,1
+2630,bndes,1
+2631,termos,1
+2632,legislativo,1
+2633,obrigatório,1
+2634,construída,1
+2635,radiofrequência,1
+2636,viabilizou,1
+2637,instituído,1
+2638,junho,1
+2639,tratam,1
+2640,alteradas,1
+2641,impulsionar,1
+2642,referência,1
+2643,padrões,1
+2644,intelectual,1
+2645,convênio,1
+2646,inatel,1
+2647,open,1
+2648,economia,1
+2649,participou,1
+2650,habilitará,1
+2651,suporte,1
+2652,situações,1
+2653,simulação,1
+2654,explicações,1
+2655,pulmão,1
+2656,robô,1
+2657,proposta,1
+2658,demonstrar,1
+2659,convívio,1
+2660,mesa,1
+2661,chão,1
+2662,fábrica,1
+2663,óculos,1
+2664,viabilizarão,1
+2665,cabeça,1
+2666,eletrodomésticos,1
+2667,gera,1
+2668,sido,1
+2669,constam,1
+2670,normativo,1
+2671,inspirado,1
+2672,ne,1
+2673,poluição,1
+2674,geopolítica,1
+2675,manipulação,1
+2676,ar,1
+2677,aluno,1
+2678,intenso,1
+2679,empreendimentos,1
+2680,funcionalidades,1
+2681,formato,1
+2682,museus,1
+2683,viabilizar,1
+2684,movimentação,1
+2685,vestia,1
+2686,movia,1
+2687,mão,1
+2688,estímulos,1
+2689,recebidos,1
+2690,joystick,1
+2691,enviava,1
+2692,movimento,1
+2693,demonstração,1
+2694,captura,1
+2695,levando,1
+2696,pudessem,1
+2697,concentração,1
+2698,soluçã,1
+2699,operou,1
+2700,vigorar,1
+2701,solucionadas,1
+2702,encerrados,1
+2703,preferência,1
+2704,agrega,1
+2705,cresceu,1
+2706,demostram,1
+2707,acompanhou,1
+2708,reputação,1
+2709,retenção,1
+2710,ampla,1
+2711,pl,1
+2712,rígida,1
+2713,estruturadas,1
+2714,seguirem,1
+2715,coleta,1
+2716,devendo,1
+2717,legitimar,1
+2718,tratamento,1
+2719,garantam,1
+2720,plenário,1
+2721,ouvidoria,1
+2722,sac,1
+2723,introdução,1
+2724,descontinuada,1
+2725,ponto,1
+2726,prioridade,1
+2727,aportes,1
+2728,ampliar,1
+2729,pessoalmente,1
+2730,desbloqueio,1
+2731,meutim,1
+2732,problemas,1
+2733,twitter,1
+2734,fanpage,1
+2735,facebook,1
+2736,multiplataformas,1
+2737,consultam,1
+2738,procon,1
+2739,regularizam,1
+2740,tarifas,1
+2741,qualidadepesquisas,1
+2742,física,1
+2743,atendente,1
+2744,câmara,1
+2745,vigor,1
+2746,instalou,1
+2747,iluminação,1
+2748,atingindo,1
+2749,populaçã,1
+2750,capex,1
+2751,destinado,1
+2752,expandir,1
+2753,expansão,1
+2754,agregação,1
+2755,ativação,1
+2756,sustentáveis,1
+2757,habilitadas,1
+2758,sanções,1
+2759,indicador,1
+2760,ms,1
+2761,corresponde,1
+2762,leva,1
+2763,conduziu,1
+2764,aplicabilidade,1
+2765,explorar,1
+2766,afastados,1
+2767,modernização,1
+2768,reaproveitamento,1
+2769,consiste,1
+2770,refarming,1
+2771,aprimoramento,1
+2772,permissão,1
+2773,telemático,1
+2774,regula,1
+2775,dpo,1
+2776,regulamentações,1
+2777,observância,1
+2778,titulares,1
+2779,cabendo,1
+2780,necessários,1
+2781,pouco,1
+2782,favor,1
+2783,resoluções,1
+2784,afetados,1
+2785,pedidos,1
+2786,alvo,1
+2787,imei,1
+2788,correspondem,1
+2789,solicitações,1
+2790,investe,1
+2791,eficiente,1
+2792,permitidos,1
+2793,liação,1
+2794,classes,1
+2795,mantida,1
+2796,aderirem,1
+2797,repúdio,1
+2798,critérios,1
+2799,situam,1
+2800,acompanhar,1
+2801,regulações,1
+2802,viabiliza,1
+2803,residem,1
+2804,pobres,1
+2805,apoiados,1
+2806,mbps,1
+2807,kbps,1
+2808,solicitou,1
+2809,integrassem,1
+2810,fundado,1
+2811,jovem,1
+2812,cumprir,1
+2813,promovam,1
+2814,difusão,1
+2815,envolvidos,1
+2816,modem,1
+2817,diferenciais,1
+2818,desabastecimento,1
+2819,alívio,1
+2820,estresse,1
+2821,relaxamento,1
+2822,regionais,1
+2823,regulamentadora,1
+2824,comissões,1
+2825,indicados,1
+2826,elegem,1
+2827,flex,1
+2828,saída,1
+2829,competências,1
+2830,imersão,1
+2831,líderes,1
+2832,adotou,1
+2833,previsão,1
+2834,indicadortreinamento,1
+2835,sala,1
+2836,aula,1
+2837,inibir,1
+2838,ingressam,1
+2839,hackbrazil,1
+2840,entanto,1
+2841,idosos,1
+2842,lado,1
+2843,assistir,1
+2844,aportados,1
+2845,representaram,1
+2846,pautados,1
+2847,proíbe,1
+2848,compulsório,1
+2849,respondam,1
+2850,mapeou,1
+2851,contribuído,1
+2852,aqualuz,1
+2853,agora,1
+2854,duradouro,1
+2855,aproveitando,1
+2856,reforçar,1
+2857,localização,1
+2858,propriedade,1
+2859,trabalhadores,1
+2860,telefônica,1
+2861,complemento,1
+2862,brito,1
+2863,tocar,1
+2864,convidada,1
+2865,ocasião,1
+2866,conquistou,1
+2867,premiada,1
+2868,terra,1
+2869,patrocina,1
+2870,filtração,1
+2871,lançado,1
+2872,astronauta,1
+2873,cadastradas,1
+2874,tics,1
+2875,fundo,1
+2876,facilita,1
+2877,adolescentes,1
+2878,escola,1
+2879,aderiram,1
+2880,adultos,1
+2881,integrantes,1
+2882,intérprete,1
+2883,comemorar,1
+2884,acessibilidade,1
+2885,danos,1
+2886,doenças,1
+2887,nidos,1
+2888,tonner,1
+2889,veículos,1
+2890,remoção,1
+2891,acessórios,1
+2892,si,1
+2893,destinação,1
+2894,recuperação,1
+2895,precisam,1
+2896,descartados,1
+2897,tarefas,1
+2898,realizam,1
+2899,mapeamento,1
+2900,duplicidade,1
+2901,esforço,1
+2902,concluiu,1
+2903,devem,1
+2904,parcela,1
+2905,estabeleceu,1
+2906,carbono,1
+2907,expostos,1
+2908,consequentemente,1
+2909,diesel,1
+2910,métricas,1
+2911,publicados,1
+2912,alterados,1
+2913,infração,1
+2914,tratadas,1
+2915,ajuste,1
+2916,maioria,1
+2917,acompanham,1
+2918,fortalecer,1
+2919,funcionamento,1
+2920,autogeração,1
+2921,microgeração,1
+2922,geradores,1
+2923,biogás,1
+2924,revista,1
+2925,ambição,1
+2926,celebração,1
+2927,aneel,1
+2928,estimula,1
+2929,proveniente,1
+2930,expandido,1
+2931,decomissioning,1
+2932,auditado,1
+2933,detalhada,1
+2934,sul,1
+2935,trazer,1
+2936,adesão,1
+2937,assertividade,1
+2938,carreira,1
+2939,aposentadoria,1
+2940,alcançando,1
+2941,diferenças,1
+2942,direcionado,1
+2943,inclusiva,1
+2944,criada,1
+2945,board,1
+2946,fóruns,1
+2947,prevê,1
+2948,atuam,1
+2949,externa,1
+2950,completa,1
+2951,procedentes,1
+2952,resultaram,1
+2953,advertência,1
+2954,tot,1
+2955,proporção,1
+2956,motivar,1
+2957,atitudes,1
+2958,impulsionam,1
+2959,esgoto,1
+2960,discussão,1
+2961,debatem,1
+2962,calculou,1
+2963,ciclo,1
+2964,macroprocessos,1
+2965,emitidos,1
+2966,queima,1
+2967,compartilharam,1
+2968,combustível,1
+2969,aparelhos,1
+2970,refrigeração,1
+2971,ida,1
+2972,volta,1
+2973,águaˇ,1
+2974,abastecimento,1
+2975,sanitários,1
+2976,hidrômetros,1
+2977,reaproveita,1
+2978,condensação,1
+2979,uencia,1
+2980,setores,1
+2981,contribuem,1
+2982,especial,1
+2983,anônimos,1
+2984,fechado,1
+2985,setorial,1
+2986,móveis,1
+2987,cácia,1
+2988,entender,1
+2989,facilitar,1
+2990,provedores,1
+2991,otts,1
+2992,streaming,1
+2993,autoridades,1
+2994,conter,1
+2995,priorizando,1
+2996,gratuito,1
+2997,estadual,1
+2998,hospitais,1
+2999,hospital,1
+3000,estádio,1
+3001,pacaembu,1
+3002,smss,1
+3003,prefeitura,1
+3004,fechar,1
+3005,sociedadeł,1
+3006,hotsite,1
+3007,juros,1
+3008,inadimplência,1
+3009,comunicarem,1
+3010,quitação,1
+3011,débito,1
+3012,regime,1
+3013,garantido,1
+3014,disponibilizou,1
+3015,auxilia,1
+3016,menor,1
+3017,tv,1
+3018,auxiliar,1
+3019,possível,1
+3020,acessar,1
+3021,segunda,1
+3022,controlar,1
+3023,ativar,1
+3024,fazerem,1
+3025,central,1
+3026,coordenação,1
+3027,vídeo,1
+3028,hoje,1
+3029,efeito,1
+3030,definição,1
+3031,documentos,1
+3032,uenciam,1
+3033,início,1
+3034,seguintes,1
+3035,sasb,1
+3036,rj,1
+3037,analisar,1
+3038,causa,1
+3039,levou,1
+3040,ação,1
+3041,priorização,1
+3042,benchmarking,1
+3043,ós,1
+3044,definidos,1
+3045,qualitativas,1
+3046,identificar,1
+3047,serviçosexperiência,1
+3048,negóciosinvestimento,1
+3049,estabelece,1
+3050,consulta,1
+3051,estruturado,1
+3052,mail,1
+3053,óvel,1
+3054,apresentar,1
+3055,brasileira,1
+3056,manterem,1
+3057,voltado,1
+3058,apesar,1
+3059,universitário,1
+3060,adaptada,1
+3061,graduação,1
+3062,constituídas,1
+3063,antecipar,1
+3064,adaptar,1
+3065,ir,1
+3066,encontro,1
+3067,ante,1
+3068,trará,1
+3069,quantitativos,1
+3070,ey,1
+3071,subsidiária,1
+3072,opera,1
+3073,seis,1
+3074,parcelamento,1
+3075,ausência,1
+3076,performance,1
+3077,consumir,1
+3078,informar,1
+3079,certo,1
+3080,fechamos,1
+3081,registrado,1
+3082,manteve,1
+3083,segundo,1
+3084,xa,1
+3085,totalizou,1
+3086,olho,1
+3087,reúne,1
+3088,pioneira,1
+3089,construímos,1
+3090,fruto,1
+3091,conduzimos,1
+3092,melhores,1
+3093,fez,1
+3094,carteira,1
+3095,primeiro,1
+3096,direcionar,1
+3097,ajudou,1
+3098,essencial,1
+3099,complexo,1
+3100,cenário,1
+3101,sumário,1
+3102,anexo,1
+3103,carta,1
+3104,realidade,1
+3105,tudo,1
+3106,zemos,1
+3107,motivará,1
+3108,demonstrou,1
+3109,baseada,1
+3110,bilhões,1
+3111,nacional,1
+3112,credibilidade,1
+3113,retomada,1
+3114,apresentamos,1
+3115,conquistas,1
+3116,abertura,1
+3117,considerar,1
+3118,vivemos,1
+3119,subitamente,1
+3120,governance,1
+3121,agenda,1
+3122,mês,1
+3123,microsoft,1
+3124,meses,1
+3125,renda,1
+3126,concessão,1
+3127,bônus,1
+3128,gb,1
+3129,liberação,1
+3130,europa,1
+3131,porventura,1
+3132,desconto,1
+3133,outlook,1
+3134,falar,1
+3135,nuvem,1
+3136,entretenimento,1
+3137,playkids,1
+3138,somam,1
+3139,jornais,1
+3140,livros,1
+3141,book,1
+3142,skeelo,1
+3143,entrarem,1
+3144,garantirá,1
+3145,combinando,1
+3146,familiares,1
+3147,horas,1
+3148,difícil,1
+3149,recorde,1
+3150,execução,1
+3151,motivação,1
+3152,mostram,1
+3153,prontos,1
+3154,enfrentamento,1
+3155,contenção,1
+3156,remotização,1
+3157,virtualização,1
+3158,portfólio,1
+3159,permitindo,1
+3160,mantendo,1
+3161,contingência,1
+3162,prédios,1
+3163,contínuo,1
+3164,proceder,1
+3165,entendendo,1
+3166,incertezas,1
+3167,visa,1
+3168,disseminar,1
+3169,mobilização,1
+3170,assessoramento,1
+3171,organiza,1
+3172,pequeno,1
+3173,players,1
+3174,cláusula,1
+3175,deliberação,1
+3176,destituíveis,1
+3177,diretoria,1
+3178,eleger,1
+3179,principal,1
+3180,apoiam,1
+3181,formada,1
+3182,coincidem,1
+3183,destituição,1
+3184,atribuições,1
+3185,adequaçã,1
+3186,supervisiona,1
+3187,atos,1
+3188,colegiado,1
+3189,proteger,1
+3190,valorizar,1
+3191,reputacionais,1
+3192,potencial,1
+3193,orientadas,1
+3194,presidência,1
+3195,desde,1
+3196,inegociáveis,1
+3197,cdp,1
+3198,comunidade,1
+3199,registra,1
+3200,troca,1
+3201,demonstrando,1
+3202,receber,1
+3203,habilitação,1
+3204,contempladas,1
+3205,representa,1
+3206,operar,1
+3207,competição,1
+3208,isonômico,1
+3209,regulamentação,1
+3210,encorajando,1
+3211,cidadania,1
+3212,trabalha,1
+3213,missão,1
+3214,maximizar,1
+3215,destituídos,1
+3216,cuidado,1
+3217,seguro,1
+3218,desconformidade,1
+3219,protocolo,1
+3220,acompanhamento,1
+3221,tramitação,1
+3222,garantindo,1
+3223,anonimato,1
+3224,alinhada,1
+3225,committee,1
+3226,orienta,1
+3227,nome,1
+3228,cargos,1
+3229,averiguação,1
+3230,suspeita,1
+3231,proposição,1
+3232,édico,1
+3233,mapeados,1
+3234,baseado,1
+3235,fator,1
+3236,consequência,1
+3237,afetam,1
+3238,assédio,1
+3239,relativas,1
+3240,learnings,1
+3241,iso,1
+3242,registrada,1
+3243,ata,1
+3244,extraordinária,1
+3245,respondem,1
+3246,cujo,1
+3247,submetido,1
+3248,posiçã,1
+3249,diante,1
+3250,aplicar,1
+3251,comparadas,1
+3252,anteriores,1
+3253,regulamentares,1
+3254,respeitar,1
+3255,respeitada,1
+3256,corrupçã,1
+3257,suborno,1
+3258,despesas,1
+3259,anualmente,1
+3260,declaração,1
+3261,gerado,1
+3262,exercício,1
+3263,subsídios,1
+3264,mailing,1
+3265,tabela,1
+3266,comportamento,1
+3267,ético,1
+3268,divulgação,1
+3269,analistas,1
+3270,fale,1
+3271,atende,1
+3272,android,1
+3273,ios,1
+3274,engajar,1
+3275,distribuir,1
+3276,preenchimento,1
+3277,tima,1
+3278,telecomunicação,1
+3279,controlada,1
+3280,serv,1
+3281,part,1
+3282,cuidar,1
+3283,fazemos,1
+3284,ouvimos,1
+3285,dependem,1
+3286,inovações,1
+3287,viabilização,1
+3288,discussões,1
+3289,aperfeiçoamento,1
+3290,estimular,1
+3291,desdobramento,1
+3292,colaboração,1
+3293,rodas,1
+3294,conversa,1
+3295,intranet,1
+3296,integração,1
+3297,endobranding,1
+3298,endomarketing,1
+3299,alinhamento,1
+3300,posicionamento,1
+3301,mantém,1
+3302,frequente,1
+3303,reforça,1
+3304,propósito,1
+3305,tradicionais,1
+3306,regiões,1
+3307,acompanha,1
+3308,curiosidade,1
+3309,levamos,1
+3310,consideração,1
+3311,retomar,1
+3312,restaurar,1
+3313,empoderar,1
+3314,contínua,1
+3315,investindo,1
+3316,autonomia,1
+3317,íquida,1
+3318,bilhõeslucro,1
+3319,íquido,1
+3320,atribuído,1
+3321,destaca,1
+3322,lidar,1
+3323,correspondente,1
+3324,mantiveram,1
+3325,favorabilidade,1
+3326,eleita,1
+3327,portal,1
+3328,lugar,1
+3329,amortização,1
+3330,transferências,1
+3331,comunica,1
+3332,depender,1
+3333,contribuir,1
+3334,exibilidade,1
+3335,francas,1
+3336,usamos,1
+3337,criatividade,1
+3338,fazermos,1
+3339,reconhecemos,1
+3340,talento,1
+3341,rápido,1
+3342,dinâmico,1
+3343,trajetória,1
+3344,marcada,1
+3345,ligações,1
+3346,iniciou,1
+3347,antártida,1
+3348,domicílios,1
+3349,ligação,1
+3350,completar,1
+3351,marítimas,1
+3352,intuito,1
+3353,suprir,1
+3354,tomador,1
+3355,negocia,1
+3356,uenciam diretamente,1
+3357,inegociáveis leia,1
+3358,subsídios isenções,1
+3359,isenções juros,1
+3360,aluguéis juros,1
+3361,dividendos lucros,1
+3362,lucros prejuízos,1
+3363,distribu ído,1
+3364,pactoglobal org,1
+3365,br principios,1
+3366,principios direitos,1
+3367,conduzem discussões,1
+3368,busca produzir,1
+3369,disseminam boas,1
+3370,clima responde,1
+3371,tema consultada,1
+3372,governamentais legisladores,1
+3373,comunidade acadêmica,1
+3374,empresariais fgvces,1
+3375,fgvces desde,1
+3376,fundação getulio,1
+3377,getulio vargas,1
+3378,contribuições expurgados,1
+3379,privada benefícios,1
+3380,previdência privada,1
+3381,previdenciários previdência,1
+3382,melhores servi,1
+3383,servi çosﬂ,1
+3384,çosﬂ pesquisa,1
+3385,jornal estadão,1
+3386,estadão colaboradores,1
+3387,serviçosmeu time,1
+3388,time faturamento,1
+3389,receita líquida,1
+3390,considera perdas,1
+3391,liquidação duvidosa,1
+3392,descontos concedidos,1
+3393,concedidos devolução,1
+3394,mercadorias vendidas,1
+3395,vendidas materiais,1
+3396,adicionado bruto,1
+3397,retenções depreciação,1
+3398,adicionado líquido,1
+3399,salários encargos,1
+3400,encargos previdenciários,1
+3401,vargas fgvces,1
+3402,produzir conhecimento,1
+3403,ranking ﬁestad,1
+3404,competição justo,1
+3405,comitê gestor,1
+3406,gestor formado,1
+3407,instituto ethos,1
+3408,reconhecimento sindicato,1
+3409,pessoal sinditelebrasil,1
+3410,serviços xos,1
+3411,móveis autorizadas,1
+3412,telecomunicações competitivas,1
+3413,competitivas telcomp,1
+3414,telecomunicações contribuindo,1
+3415,ise recomenda,1
+3416,cidadania corporativa,1
+3417,organizações externas,1
+3418,externas associação,1
+3419,telebrasil participa,1
+3420,entidade civil,1
+3421,civil privada,1
+3422,governança gsm,1
+3423,gsm association,1
+3424,association gsma,1
+3425,criteriosa avaliação,1
+3426,íntegro ético,1
+3427,nomeada empresa,1
+3428,operadora nomeada,1
+3429,recomenda ações,1
+3430,alto grau,1
+3431,corporativa morgan,1
+3432,morgan stanley,1
+3433,stanley capital,1
+3434,capital international,1
+3435,international msci,1
+3436,msci environmental,1
+3437,governance research,1
+3438,research esg,1
+3439,integra carteiras,1
+3440,índices ligados,1
+3441,msci esg,1
+3442,esg leaders,1
+3443,leaders index,1
+3444,corporativa prezando,1
+3445,prezando sempre,1
+3446,msci realiza,1
+3447,realiza avaliações,1
+3448,ﬁestad ão,1
+3449,digitais disponibilização,1
+3450,abr telecom,1
+3451,relações claras,1
+3452,italia telecom,1
+3453,italia finance,1
+3454,minoritários composição,1
+3455,composição acionária,1
+3456,valores cuidar,1
+3457,fazemos perguntas,1
+3458,perguntas legítimas,1
+3459,poder contribuir,1
+3460,estabelecemos relações,1
+3461,geramos con,1
+3462,mantém líder,1
+3463,inovamos criando,1
+3464,criando novas,1
+3465,propósito conectar,1
+3466,possam fazer,1
+3467,colaboramos colocando,1
+3468,cada gesto,1
+3469,gesto agilidade,1
+3470,planejamos decidimos,1
+3471,executamos rapidamente,1
+3472,exchange nyse,1
+3473,stock exchange,1
+3474,york stock,1
+3475,new york,1
+3476,manter presente,1
+3477,agregar transparência,1
+3478,potenciais investidores,1
+3479,br faleconosco,1
+3480,faleconosco fale,1
+3481,sugestões endereçadas,1
+3482,investidores analistas,1
+3483,demais interessados,1
+3484,mail ri,1
+3485,ri timbrasil,1
+3486,fornecedores passam,1
+3487,diversas etapas,1
+3488,socioambiental saiba,1
+3489,adrs american,1
+3490,american depositary,1
+3491,depositary receipts,1
+3492,receipts listadas,1
+3493,nova iorque,1
+3494,iorque new,1
+3495,rapidamente facilitando,1
+3496,países inclusive,1
+3497,faturas entregues,1
+3498,qualidade evolu,1
+3499,aponta ainda,1
+3500,á preparada,1
+3501,regulado setor,1
+3502,milhõespré pago,1
+3503,disponível correspondente,1
+3504,popula çã,1
+3505,mantiveram conectados,1
+3506,pago milhõesusuários,1
+3507,miltim live,1
+3508,evolu çã,1
+3509,live ultra,1
+3510,rede apoiada,1
+3511,cativa demanda,1
+3512,rede aprimorada,1
+3513,aprimorada reconhecida,1
+3514,medi ções,1
+3515,pr êmio,1
+3516,êmio canaltech,1
+3517,canaltech realizado,1
+3518,portal especializado,1
+3519,conservadores indicadores,1
+3520,forte per,1
+3521,fitch ressalta,1
+3522,bra rating,1
+3523,domicílios cobertos,1
+3524,cobertos ligação,1
+3525,cidadesł parcerias,1
+3526,permaneçam conectados,1
+3527,campo oferecendo,1
+3528,liberdade exibilidade,1
+3529,hectares cobertos,1
+3530,rede visitante,1
+3531,manteve foco,1
+3532,abordagem ágil,1
+3533,decis ão,1
+3534,ão reabastecer,1
+3535,acelera çã,1
+3536,seguiu investindo,1
+3537,utilizando intelig,1
+3538,ência artificial,1
+3539,entregam maior,1
+3540,bilhões receita,1
+3541,bilhõesmaior ebitda,1
+3542,mundo associação,1
+3543,associação cuja,1
+3544,acor,1
+3545,brindes doa,1
+3546,normas internacionais,1
+3547,sponsoring organizations,1
+3548,thetreadway commission,1
+3549,commission coso,1
+3550,coso organização,1
+3551,con ável,1
+3552,al ém,1
+3553,reputa çã,1
+3554,envolvam brindes,1
+3555,doa ções,1
+3556,secas prolongadas,1
+3557,patroc ínios,1
+3558,corrupção reportados,1
+3559,den úncias,1
+3560,dúvidas comunicadas,1
+3561,ppra relacionado,1
+3562,inspe çã,1
+3563,propostas medidas,1
+3564,eventos naturais,1
+3565,podem gerar,1
+3566,intranet corporativa,1
+3567,dispon ível,1
+3568,á dispon,1
+3569,denunciante garantindo,1
+3570,atividades consideradas,1
+3571,consideradas sensíveis,1
+3572,brindes presentes,1
+3573,representação eventos,1
+3574,patrocínios doações,1
+3575,ns lucrativos,1
+3576,ocorre anualmente,1
+3577,registrados casos,1
+3578,corrupção ligados,1
+3579,declaram ciência,1
+3580,colaboradores concluíram,1
+3581,antissuborno comunicação,1
+3582,gerentes demais,1
+3583,após reclamações,1
+3584,interesses discriminaçã,1
+3585,comportamento ilegal,1
+3586,ilegal incluindo,1
+3587,incluindo violação,1
+3588,ocorrências geram,1
+3589,acarretaria impactos,1
+3590,pre ço,1
+3591,anticorrupção monitora,1
+3592,intranet mantém,1
+3593,próprio celular,1
+3594,celular realizar,1
+3595,realizar bloqueio,1
+3596,linhas cancelamento,1
+3597,cancelamento automático,1
+3598,ª via,1
+3599,chat online,1
+3600,desativar serviços,1
+3601,dúvidas recebidas,1
+3602,mantém ativos,1
+3603,combustíveis fósseis,1
+3604,aproximar operadoras,1
+3605,consumidor envolvendo,1
+3606,sociais timajuda,1
+3607,telefone site,1
+3608,ídias sociais,1
+3609,realizadas voluntariamente,1
+3610,reclamações registradas,1
+3611,consumidor gov,1
+3612,regulatorio publica,1
+3613,reclamações dúvidas,1
+3614,endereçar reclamações,1
+3615,podem endereçar,1
+3616,sete dias,1
+3617,imposi çã,1
+3618,implicações financeiras,1
+3619,ções contribuem,1
+3620,oferecem alternativas,1
+3621,processos produtivos,1
+3622,fluxos logísticos,1
+3623,áticas apresenta,1
+3624,eventos climáticos,1
+3625,climáticos relacionamento,1
+3626,deliza çã,1
+3627,ponto central,1
+3628,direcionamento estrat,1
+3629,estrat égico,1
+3630,égico garantir,1
+3631,experiência positiva,1
+3632,deu segmento,1
+3633,ponto prioritário,1
+3634,relacionamento multicanal,1
+3635,dia sete,1
+3636,monitora continuamente,1
+3637,incluindo atos,1
+3638,cuja missão,1
+3639,órios nanceiros,1
+3640,sendo proibido,1
+3641,conselho acumule,1
+3642,principal executivo,1
+3643,órgãos colegiados,1
+3644,sendo permitida,1
+3645,fiscal comitês,1
+3646,auditoria estatutário,1
+3647,estatutário cae,1
+3648,atribuições supervisionar,1
+3649,legais regulat,1
+3650,independentes reconhecidos,1
+3651,regulat órias,1
+3652,estatut árias,1
+3653,remuneração cr,1
+3654,avalia periodicamente,1
+3655,crit ério,1
+3656,altos executivos,1
+3657,assuntos ligados,1
+3658,atuação permanente,1
+3659,permanente fiscaliza,1
+3660,nove membros,1
+3661,membros eleitos,1
+3662,máximo membros,1
+3663,menos cinco,1
+3664,promover operar,1
+3665,técnicas compartilhadas,1
+3666,obrigações regulatórias,1
+3667,portabilidade integra,1
+3668,ítica anticorrup,1
+3669,anticorrup çã,1
+3670,princ ípios,1
+3671,comportamentos antiéticos,1
+3672,áticas corruptas,1
+3673,corruptas fraudes,1
+3674,causar impactos,1
+3675,reputacionais signi,1
+3676,escala pode,1
+3677,pode criar,1
+3678,criar barreiras,1
+3679,novos atores,1
+3680,negócioso código,1
+3681,deliberação colegiada,1
+3682,colegiada composto,1
+3683,informação prestada,1
+3684,outro vínculo,1
+3685,óprios incluindo,1
+3686,partidos movimentos,1
+3687,cont ábeis,1
+3688,ábeis scais,1
+3689,scais legais,1
+3690,legais regulamentares,1
+3691,regimento interno,1
+3692,forma íntegra,1
+3693,fornecem direta,1
+3694,indiretamente contribuições,1
+3695,contribuições vantagens,1
+3696,movimentos agentes,1
+3697,comitês assessoram,1
+3698,candidatos políticos,1
+3699,organizações sindicais,1
+3700,sindicais exceto,1
+3701,casos previstos,1
+3702,contém diretrizes,1
+3703,adotar mecanismos,1
+3704,rejeitem comportamentos,1
+3705,comportamentos ilegais,1
+3706,impr óprios,1
+3707,exig ências,1
+3708,sempre zelando,1
+3709,detalhe sempre,1
+3710,ão analisadas,1
+3711,delibera çã,1
+3712,patrim ônio,1
+3713,seis diretores,1
+3714,diretores executivos,1
+3715,executivos eleitos,1
+3716,anos podendo,1
+3717,diretoria estatutária,1
+3718,diretoria executiva,1
+3719,geral ordinária,1
+3720,respondem individualmente,1
+3721,autoavaliação cujo,1
+3722,questionário avalia,1
+3723,estrutura organizacional,1
+3724,procedimentos adotados,1
+3725,aperfei çoar,1
+3726,çoar continuamente,1
+3727,melhores pr,1
+3728,corporativa entretanto,1
+3729,aborda questões,1
+3730,resultados trimestrais,1
+3731,concessões acionistas,1
+3732,pes quisa,1
+3733,saúde emocional,1
+3734,rede passassem,1
+3735,funções remotamente,1
+3736,remotamente mantendo,1
+3737,campo voltadas,1
+3738,recebem contínuo,1
+3739,reparos externos,1
+3740,social aliado,1
+3741,temor provocado,1
+3742,pode abalar,1
+3743,oferece assessoria,1
+3744,colaboradores seguirão,1
+3745,assessoria psicológica,1
+3746,psicológica jurídica,1
+3747,jurídica nanceira,1
+3748,nanceira nutricional,1
+3749,nutricional sioterápica,1
+3750,personal trainer,1
+3751,dois meses,1
+3752,renda líquida,1
+3753,trabalho suspensos,1
+3754,duas centrais,1
+3755,uc solução,1
+3756,cloud uc,1
+3757,converter todo,1
+3758,fez permanecer,1
+3759,selo pró,1
+3760,ética logo,1
+3761,governance esg,1
+3762,esg atualizamos,1
+3763,ainda assumindo,1
+3764,assumindo compromissos,1
+3765,esg incorporando,1
+3766,poderia encerrar,1
+3767,seguiram trabalhando,1
+3768,momento difícil,1
+3769,conseguido adotar,1
+3770,funcionários diretos,1
+3771,cenário mundial,1
+3772,mundial pietro,1
+3773,vírus abaixo,1
+3774,abaixo seguem,1
+3775,operadora implementadas,1
+3776,âmbito nacional,1
+3777,nível salarial,1
+3778,custos arcados,1
+3779,compliance adotando,1
+3780,networks group,1
+3781,black família,1
+3782,banca virtual,1
+3783,revistas aplicativos,1
+3784,globo livros,1
+3785,esporte interativo,1
+3786,interativo cartoon,1
+3787,cartoon network,1
+3788,network looke,1
+3789,fox networks,1
+3790,ajustes temporários,1
+3791,arcados exclusivamente,1
+3792,abril poderão,1
+3793,poderão negociar,1
+3794,seis meses,1
+3795,vezes isentando,1
+3796,isentando multa,1
+3797,chamado religa,1
+3798,ança desbloqueando,1
+3799,desbloqueando nesse,1
+3800,serviços interrompidos,1
+3801,ix inclusa,1
+3802,net ix,1
+3803,assinatura net,1
+3804,planos atuais,1
+3805,segmentos pré,1
+3806,estados unidos,1
+3807,grande di,1
+3808,deslocamentos internacionais,1
+3809,live entrega,1
+3810,entrega internet,1
+3811,xa ilimitada,1
+3812,larga ubb,1
+3813,pagos liberando,1
+3814,liberando acesso,1
+3815,microsoft teams,1
+3816,teams diversos,1
+3817,planos contam,1
+3818,protect backup,1
+3819,backup permitindo,1
+3820,usuários salvar,1
+3821,compartilhar dados,1
+3822,inclusão gratuita,1
+3823,apps dedicados,1
+3824,adotando processos,1
+3825,operacionais positivos,1
+3826,investimentos pes,1
+3827,limitações,1
+3828,indagações,1
+3829,compreensão,1
+3830,serviram,1
+3831,entendimento,1
+3832,suportam,1
+3833,confronto,1
+3834,entendemos,1
+3835,apropriadas,1
+3836,fundamentar,1
+3837,emitir,1
+3838,nessa nova,1
+3839,opinião,1
+3840,expressamos,1
+3841,adicionalmente,1
+3842,estimar,1
+3843,maio,1
+3844,report,1
+3845,sumário inovação,1
+3846,créditos pietro,1
+3847,mudanças vieram,1
+3848,independência,1
+3849,equivalente,1
+3850,cfc,1
+3851,diferente,1
+3852,coletivo,1
+3853,seleção,1
+3854,nindo,1
+3855,reformulações,1
+3856,indicadas,1
+3857,truste,1
+3858,discriminado,1
+3859,rotatividade,1
+3860,treinamen,1
+3861,diversida,1
+3862,emprega,1
+3863,rotulagem,1
+3864,publicida,1
+3865,limpa,1
+3866,prol,1
+3867,administradores,1
+3868,ﬁrelatórioﬂ,1
+3869,determinou,1
+3870,causada,1
+3871,car nessa,1
+3872,ano passado,1
+3873,mg campina,1
+3874,investimos fortemente,1
+3875,maior mix,1
+3876,market share,1
+3877,segundo trimestre,1
+3878,trimestre consecutivo,1
+3879,live alcançou,1
+3880,alcançou novas,1
+3881,boa performance,1
+3882,aconteceu porque,1
+3883,porque investimos,1
+3884,conectado continuamos,1
+3885,estratégia baseada,1
+3886,municípios representando,1
+3887,população urbana,1
+3888,quarta geração,1
+3889,geração ultrapassou,1
+3890,ultrapassou avançamos,1
+3891,futuro iniciamos,1
+3892,startups criando,1
+3893,criando quatro,1
+3894,sc santa,1
+3895,segmento alcança,1
+3896,transformação graças,1
+3897,muitas dessas,1
+3898,estar perto,1
+3899,maior ebitda,1
+3900,lucro líquido,1
+3901,líquido normalizado,1
+3902,indicadores recebemos,1
+3903,nacional aaa,1
+3904,fitch atestando,1
+3905,impossível iniciar,1
+3906,atual momento,1
+3907,pandemia atravessou,1
+3908,atravessou continentes,1
+3909,certamente inaugurará,1
+3910,cenário extremamente,1
+3911,extremamente complexo,1
+3912,telecomunicações desempenham,1
+3913,dúvida alicerce,1
+3914,relações pessoais,1
+3915,trabalhar estudar,1
+3916,estudar consumir,1
+3917,transpor fronteiras,1
+3918,período adicional,1
+3919,velocidade reduzida,1
+3920,social apoiando,1
+3921,accounting standards,1
+3922,comerciais entrevista,1
+3923,externo survey,1
+3924,survey onlinepesquisa,1
+3925,mídia benchmarkingdocumentos,1
+3926,benchmarkingdocumentos setoriais,1
+3927,materialidade abrangeu,1
+3928,estudos setoriais,1
+3929,onu sustainability,1
+3930,sustainability accounting,1
+3931,telecommunication sector,1
+3932,validada internamente,1
+3933,global risks,1
+3934,entrevistas presenciais,1
+3935,percepções estratégicas,1
+3936,painel presencial,1
+3937,oportunidades associados,1
+3938,stakeholders impactados,1
+3939,última fase,1
+3940,analisada qualitativamente,1
+3941,qualitativamente etapa,1
+3942,parceiros comerciais,1
+3943,sociedade civil,1
+3944,associação setorial,1
+3945,stakeholders mapa,1
+3946,modalidade essencial,1
+3947,dados qualitativos,1
+3948,ernst acesse,1
+3949,nanceiros consideram,1
+3950,óvel xa,1
+3951,xa longa,1
+3952,longa distância,1
+3953,transmiss ão,1
+3954,alguns estados,1
+3955,pa ís,1
+3956,ís dúvidas,1
+3957,dúvidas comentários,1
+3958,mail respsocialcorp,1
+3959,respsocialcorp timbrasil,1
+3960,revisados processo,1
+3961,setoriais documentos,1
+3962,re etem,1
+3963,forma substancial,1
+3964,decisões destes,1
+3965,relevantes validada,1
+3966,internamente chegando,1
+3967,menor renda,1
+3968,neste contexto,1
+3969,promoveram re,1
+3970,re exões,1
+3971,entregar soluções,1
+3972,agreguem qualidade,1
+3973,nova eleição,1
+3974,cinco regiões,1
+3975,regulatórias estratégicas,1
+3976,telecomunicações modi,1
+3977,modi cações,1
+3978,contexto participa,1
+3979,materialidade envolveu,1
+3980,outras inovações,1
+3981,últimos três,1
+3982,comportamento ético,1
+3983,ético legal,1
+3984,legal honesto,1
+3985,honesto transparente,1
+3986,leal leia,1
+3987,mil abatimentos,1
+3988,taxas subvenções,1
+3989,top management,1
+3990,lideranças top,1
+3991,management meeting,1
+3992,abordam temas,1
+3993,entrevistas externas,1
+3994,painel concorrente,1
+3995,survey online,1
+3996,participação anônima,1
+3997,externos entrevistados,1
+3998,entrevistados governo,1
+3999,governo fornecedor,1
+4000,fornecedor clientesindicato,1
+4001,clientesindicato concorrentes,1
+4002,concorrentes segunda,1
+4003,cou portanto,1
+4004,material correl,1
+4005,correl ç,1
+4006,análises qualitativas,1
+4007,pós consumoética,1
+4008,visa disseminar,1
+4009,diálogo interno,1
+4010,pessoas motiva,1
+4011,encontros periódicos,1
+4012,edição desenvolvida,1
+4013,acompanhando osimpactos,1
+4014,seguirá acompanhando,1
+4015,governamentais avaliar,1
+4016,projeto semelhante,1
+4017,semelhante utilizado,1
+4018,assinado dia,1
+4019,entes públicos,1
+4020,públicos legitimados,1
+4021,dados anonimizados,1
+4022,anonimizados disponibilizados,1
+4023,dados originados,1
+4024,móveis permitirão,1
+4025,restrição implementadas,1
+4026,desta situação,1
+4027,implementadas entender,1
+4028,mobilidade populacional,1
+4029,visando uso,1
+4030,uso consciente,1
+4031,noti cou,1
+4032,medidas efetivas,1
+4033,assinantes corporativos,1
+4034,concedeu acesso,1
+4035,esferas federal,1
+4036,conhecimento adquirido,1
+4037,covid utilizando,1
+4038,respectivo hotsite,1
+4039,sms chat,1
+4040,validade dobrada,1
+4041,dobrada estendida,1
+4042,campanha educativa,1
+4043,nesta jornada,1
+4044,possível acessar,1
+4045,segunda via,1
+4046,conta realizar,1
+4047,realizar recargas,1
+4048,recargas controlar,1
+4049,ofertas dentre,1
+4050,dentre outros,1
+4051,controle ganharão,1
+4052,ganharão bônus,1
+4053,primeiro login,1
+4054,inovadora central,1
+4055,atendimento cognitiva,1
+4056,cognitiva baseada,1
+4057,inteligência arti,1
+4058,cial além,1
+4059,federal estadual,1
+4060,sendo tomados,1
+4061,disponibilidade sobretudo,1
+4062,programação produção,1
+4063,linguagem java,1
+4064,java programação,1
+4065,culdades deste,1
+4066,deste momento,1
+4067,resolveu manter,1
+4068,empreendedorismo universitário,1
+4069,universitário academic,1
+4070,modalidade remota,1
+4071,atua junto,1
+4072,abordagem única,1
+4073,única cerca,1
+4074,itália vem,1
+4075,vem sendo,1
+4076,ações necessárias,1
+4077,con ante,1
+4078,sociedade estará,1
+4079,estará unida,1
+4080,sairá ainda,1
+4081,fortalecida desta,1
+4082,texto programação,1
+4083,web programação,1
+4084,disponibilizando gratuitamente,1
+4085,estruturação web,1
+4086,operadora enviou,1
+4087,continuará disponível,1
+4088,disponível nesta,1
+4089,nesta fundamental,1
+4090,fundamental campanha,1
+4091,estrita coordenação,1
+4092,autoridades federais,1
+4093,disponibilizou ainda,1
+4094,orientar usuários,1
+4095,campanha fiquebemfiqueemcasa,1
+4096,fiquebemfiqueemcasa iniciativa,1
+4097,claro oi,1
+4098,ação além,1
+4099,conectados traz,1
+4100,incentiva todos,1
+4101,instituto timł,1
+4102,livres gratuitos,1
+4103,vasto conteúdo,1
+4104,empreendedorismo estruturação,1
+4105,cardoso créditos,1

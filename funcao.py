@@ -8,6 +8,7 @@ from wordcloud import WordCloud, STOPWORDS
 from scipy.cluster import hierarchy
 import matplotlib.pyplot as plt
 from math import sqrt
+import re
 
 # %%
 def nome_empresas():
@@ -43,18 +44,12 @@ def pdf_to_text(caminho):
         pdf_pag=pdf_reader.getPage(page)
         pdf_text=pdf_pag.extractText().lower()
         replace_dict={
-            '\n':' ',
-            '- ':'',
-            '˜ ':'fi',
-            ' -':'',
-            '%':'% ',
-            "^\d+$":' ',
-            '  ':' ',
-            '˜':'fi'
+            '\d+':' ',
+            '\W+':' ',
+            '\s\s':' '
             }
-### Essa limpeza pode melhorar - talvez para retirar todos os caractéres que não sejam letras
         for x, y in replace_dict.items():
-            pdf_text=pdf_text.replace(x,y)
+            pdf_text=re.sub(x,y,pdf_text)
         dici[page]=pdf_text
     lista="".join(dici.values())
     nome_arquivo=caminho.split("/")[-1].split('.')[-2]

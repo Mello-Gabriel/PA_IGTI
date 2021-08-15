@@ -247,36 +247,37 @@ u
 v
 x
 z
-AES Tiete
-BRF
-Duratex
-Fleury
-Lojas Americanas
-Petrobras Distribuidora
-B2W
-CCR
-Ecorodovias
-Itaú Unibanco
-Lojas Renner
-Santander
-Banco do Brasil
-Cemig
-EDP
-Itaú sa
-Movida
-Telefonica
-Bradesco
-Cielo
-Eletrobras
-Klabin
-MRV
-TIM
-Braskem
-Copel
-Engie
-Light
-Natura
-Weg
+aes tiete
+aes
+brf
+duratex
+fleury
+lojas americanas
+petrobras distribuidora
+b2w
+ccr
+ecorodovias
+itaú unibanco
+lojas renner
+santander
+banco do brasil
+cemig
+edp
+itaú sa
+movida
+telefonica
+bradesco
+cielo
+eletrobras
+klabin
+mrv
+tim
+braskem
+copel
+engie
+light
+natura
+weg
 0
 1
 2
@@ -291,3 +292,7 @@ Weg
 %
 .
 ł
+ˇ
+œ
+ˆ
+º
