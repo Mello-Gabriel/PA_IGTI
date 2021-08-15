@@ -26,7 +26,7 @@ st.sidebar.write('Esse é um aplicativo web desenvolvido para conclusão do curs
 st.sidebar.write('Eu sou Gabriel de Mello, me conheça melhor em [LinkedIn](https://www.linkedin.com/in/gabriel-guimaraes-de-mello/).')
 st.sidebar.write('Esse projeto foi escrito em Python e está disponível no [Github](https://github.com/Mello-Gabriel/PA_IGTI).')
 
-with st.expander('Navegador de palavras'):
+with st.expander('NAVEGADOR DE PALAVRAS E EMPRESAS'):
     components.iframe('https://app.powerbi.com/view?r=eyJrIjoiMWNiMzllYjktYzU5OC00NzM0LWIzYzEtNzRhYzViNDk0MDM3IiwidCI6IjYxYzM2ZWZhLTAwY2UtNDIyMi1iY2VmLWM3MmRiNTZhYWM0NyJ9&pageName=ReportSection',height=720)
 
 with st.expander('COMPARAR AS EMPRESAS'):
